@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-14 — Países Bajos 2-1 Japón
+> Actualizado tras: 2026-06-14 — Costa de Marfil 1-1 Ecuador
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -40,9 +40,11 @@
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | Alemania | 1 | 1 | 0 | 0 | 3 | 0 | +3 | 3 |
-| 2 | Costa de Marfil | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Ecuador | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Curazao | 1 | 0 | 0 | 1 | 0 | 3 | -3 | 0 |
+| 2 | Costa de Marfil | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 3 | Ecuador | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 4 | Curazao | 1 | 0 | 0 | 1 | 0 | 3 | −3 | 0 |
+
+> ⚠️ Costa de Marfil y Ecuador igualados en Pts/DG/GF — posición provisional hasta próximos partidos o criterio disciplinario.
 
 ## Grupo F
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
