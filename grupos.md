@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-12 — EE.UU. 2-1 Paraguay
+> Actualizado tras: 2026-06-13 — Catar 0-2 Suiza
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -14,9 +14,9 @@
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | Canadá | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Suiza | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Catar | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Bosnia y Herzegovina | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
+| 2 | Suiza | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
+| 3 | Catar | 1 | 0 | 0 | 1 | 0 | 2 | −2 | 0 |
+| 4 | Bosnia y Herzegovina | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
 
 ## Grupo C
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
