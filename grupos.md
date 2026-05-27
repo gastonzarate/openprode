@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-13 — Catar 0-2 Suiza
+> Actualizado tras: 2026-06-13 — Brasil 2-1 Marruecos
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -21,10 +21,10 @@
 ## Grupo C
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Brasil | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Marruecos | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Escocia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Haití | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Brasil | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
+| 2 | Escocia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Haití | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Marruecos | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
 
 ## Grupo D
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |

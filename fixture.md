@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último partido simulado: 2026-06-13 — Catar 0-2 Suiza
-> Próximo partido pendiente: 2026-06-13 — Brasil vs Marruecos (18:00, MetLife Stadium, East Rutherford)
+> Último partido simulado: 2026-06-13 — Brasil 2-1 Marruecos
+> Próximo partido pendiente: 2026-06-13 — Haití vs Escocia (21:00, Gillette Stadium, Foxborough)
 
 ## Fase de Grupos
 
@@ -14,7 +14,7 @@
 | 2026-06-12 | 15:00 | BMO Field, Toronto | B | Canadá | Bosnia y Herzegovina | ✅ Jugado | 2-1 | [ver](partidos/2026-06-12-canada-vs-bosnia-y-herzegovina.md) |
 | 2026-06-12 | 18:00 | SoFi Stadium, Inglewood | D | Estados Unidos | Paraguay | ✅ Jugado | 2-1 | [ver](partidos/2026-06-12-estados-unidos-vs-paraguay.md) |
 | 2026-06-13 | 12:00 | Levi's Stadium, Santa Clara | B | Catar | Suiza | ✅ Jugado | 0-2 | [ver](partidos/2026-06-13-catar-vs-suiza.md) |
-| 2026-06-13 | 18:00 | MetLife Stadium, East Rutherford | C | Brasil | Marruecos | ⏳ Pendiente | — | — |
+| 2026-06-13 | 18:00 | MetLife Stadium, East Rutherford | C | Brasil | Marruecos | ✅ Jugado | 2-1 | [ver](partidos/2026-06-13-brasil-vs-marruecos.md) |
 | 2026-06-13 | 21:00 | Gillette Stadium, Foxborough | C | Haití | Escocia | ⏳ Pendiente | — | — |
 | 2026-06-14 | 03:00 | BC Place, Vancouver | D | Australia | Turquía | ⏳ Pendiente | — | — |
 | 2026-06-14 | 12:00 | NRG Stadium, Houston | E | Alemania | Curazao | ⏳ Pendiente | — | — |
