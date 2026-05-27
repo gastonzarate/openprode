@@ -133,8 +133,8 @@
 - **77'**: Ancelotti hace el último movimiento. Sale Raphinha —aplaudido— entra **Pedro** para reforzar el área con un centrodelantero clásico.
 - **77'** 🔁 Cambio en Brasil: sale Raphinha (gran partido), entra **Pedro** para dar una referencia en el área en los minutos finales.
 - **78'**: Pedro entra como referencia en el área. Su primer balón lo protege de espaldas a Saïss. Saca el foul. Tiro libre a 28 metros para Brasil.
-- **79'**: Paquetá coloca el tiro libre al área. Pedro gana en el aire sobre Saïss. ¡Cabecea cruzado! El balón va al palo derecho de Bounou... ¡y rebota adentro! 
-- **79'** ⚽ **¡GOL DE BRASIL!** El cabezazo de **Pedro** da en el poste y la pelota entra. Bounou reaccionó tarde. ¡Brasil recupera la ventaja con un golazo de cabeza del delantero del Flamengo! **Brasil 2-1 Marruecos.** Asistencia de Paquetá desde el tiro libre.
+- **79'**: El tiro libre de Marruecos desde el mediocampo queda mal sacado por Saibari. Casemiro lo corta de inmediato y lanza largo en profundidad hacia Vinícius, que la protege de espaldas a Mazraoui y de primera la da para **Pedro** que llegaba en carrera por el segundo palo. Pedro define al palo derecho de Bounou con la derecha, el balón roza el poste y entra.
+- **79'** ⚽ **¡GOL DE BRASIL!** Contraataque fulminante: córner mal sacado de Marruecos, Casemiro recupera, pase largo a Vinícius, habilitación de primera para **Pedro** que la clava al palo derecho de Bounou. ¡Brasil recupera la ventaja! **Brasil 2-1 Marruecos.** Asistencia de Paquetá — había colocado el tiro libre anterior que originó el saque en corto.
 - **80'**: Pedro corre hacia el córner con los puños apretados. El banco de Brasil estalla. Ancelotti no puede contener la emoción. El MetLife vuelve a teñirse de verde-amarillo.
 - **81'**: Marruecos saca con desesperación. Ouahbi pide presión total. Quedan diez minutos más los adicionales. Todo es posible.
 - **82'** 🔁 Último cambio en Marruecos: sale En-Nesyri (gran partido individual, aplaudido), entra **Ayoub El Kaabi** para dar otro ariete en el área en los minutos finales.
@@ -161,7 +161,7 @@
 | Estadística | Brasil | Marruecos |
 |---|---|---|
 | Posesión | 58% | 42% |
-| Tiros (al arco) | 17 (8) | 12 (5) |
+| Tiros (al arco) | 16 (6) | 12 (5) |
 | Córners | 9 | 6 |
 | Faltas | 10 | 13 |
 | Amarillas | 1 | 1 |
@@ -172,7 +172,7 @@
 ### Goleadores
 - **34' Vinícius Jr. (BRA)** — diagonal por el carril izquierdo superando a Mazraoui, definición al ángulo interior derecho; asist. Lucas Paquetá (pase de primera habilitado por Bruno Guimarães)
 - **65' Nayef Aguerd (MAR)** — cabezazo con impulso desde segunda línea al ángulo izquierdo; asist. Hakim Ziyech (córner con rosca)
-- **79' Pedro (BRA)** — cabezazo cruzado al poste que entra; asist. Lucas Paquetá (tiro libre colocado al área)
+- **79' Pedro (BRA)** — contraataque: córner mal sacado por Marruecos, Casemiro recupera y lanza largo, Vinícius habilita de primera, Pedro define al palo derecho de Bounou; asist. Vinícius Jr. (habilitación en transición)
 
 ### Tarjetas
 - 🟨 40' Caio Henrique (BRA) — falta táctica sobre Hakimi en transición
@@ -182,7 +182,7 @@
 - Sin lesiones reportadas en el partido.
 
 ### MVP
-**Lucas Paquetá (Brasil)** — motor ofensivo de la Seleção durante los 90 minutos: participó activamente en los dos goles brasileños con asistencias directas (habilitó a Vinícius en el 34' y colocó el tiro libre que terminó en el gol de Pedro en el 79'), condujo el juego entre líneas con inteligencia y demostró por qué es la pieza más creativa del mediocampo de Ancelotti. Un debut mundialista mayúsculo.
+**Lucas Paquetá (Brasil)** — motor ofensivo de la Seleção durante los 90 minutos: habilitó a Vinícius con un pase de primera en el gol del 34', generó el tiro libre que desencadenó el contraataque del 79' y condujo el juego entre líneas con inteligencia y pausa. Demostró por qué es la pieza más creativa del mediocampo de Ancelotti. Un debut mundialista mayúsculo.
 
 ---
 
