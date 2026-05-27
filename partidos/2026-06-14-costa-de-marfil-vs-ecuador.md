@@ -124,7 +124,7 @@
 - **73'**: 🔁 Cambio en Ecuador: sale E. Valencia, entra L. Campana. Fresco para el tramo final.
 - **74'**: Campana se apoya de espalda contra Ndicka. El defensor lo aguanta. La pelota va a Caicedo.
 - **75'**: Caicedo lleva el balón desde el mediocampo con tres marfileños encima. La da de taquito a Páez. El joven del Chelsea la toca de primera a Plata. ¡Combinación de lujo!
-- **76'**: Plata se escapa solo por la izquierda, enfrenta a Singo, lo deja parado y tira el centro al área. Campana llega al primer palo y la desvía con el pecho, pero no tiene dirección. La pelota llega a Páez, que a un toque la empuja. Galíndez no llega. ⚽ **¡GOL DE ECUADOR!** Páez empuja desde el punto penal. **Costa de Marfil 1-1 Ecuador.**
+- **76'**: Ecuador saca un córner desde la derecha. Plata lo cobra cerrado al primer palo. Costa de Marfil defiende mal: Ndicka sale pero no llega, Campana choca con Kossounou en el primer palo y la pelota rebota en corto. Páez aparece en el área chica y la empuja al fondo de la red. Galíndez no llega. ⚽ **¡GOL DE ECUADOR!** Páez empuja desde el área chica tras córner mal defendido. **Costa de Marfil 1-1 Ecuador.**
 - **77'**: El Lincoln Financial Field explota. Los hinchas ecuatorianos —muy presentes en Philadelphia— desatan la euforia. Costa de Marfil acusa el golpe.
 - **78'**: 🔁 Cambio en Costa de Marfil: sale S. Fofana, entra J.-P. Krasso. Faé apuesta por más perfil ofensivo.
 - **79'**: Krasso entra al partido con hambre. Primer toque: la retiene y le da a Kessié. Conexión inmediata.
@@ -160,8 +160,8 @@
 | Offsides | 2 | 3 |
 
 ### Goleadores
-- 34' Amad Diallo (Costa de Marfil 🇨🇮) — remate cruzado al ras de piso, asist. Franck Kessié
-- 76' Kendry Páez (Ecuador 🇪🇨) — empuje desde el punto penal, asist. Gonzalo Plata
+- 34' Amad Diallo (Costa de Marfil 🇨🇮) — remate cruzado al ras de piso, asist. Franck Kessié (contraataque tras pérdida de Sarmiento en mediocampo)
+- 76' Kendry Páez (Ecuador 🇪🇨) — empuje en el área chica tras córner mal defendido, asist. Gonzalo Plata (pelota parada — córner)
 
 ### Tarjetas
 - 🟨 23' Alan Franco (Ecuador) — falta brusca sobre H. Traoré

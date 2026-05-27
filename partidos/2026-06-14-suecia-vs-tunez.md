@@ -154,7 +154,7 @@ Por designar — estilo asumido: equilibrado (ponderación aleatoria aplicada al
 |---|---|---|
 | Posesión | 58% | 42% |
 | Tiros (al arco) | 14 (7) | 8 (3) |
-| Córners | 6 | 2 |
+| Córners | 6 | 3 |
 | Faltas | 9 | 12 |
 | Amarillas | 0 | 3 |
 | Rojas | 0 | 0 |
