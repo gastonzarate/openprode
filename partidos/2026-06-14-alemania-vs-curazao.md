@@ -105,8 +105,8 @@
 - **54'**: Sané desborda y centra rasante. Undav llega solo al segundo palo pero resbala en la hierba artificial; el balón sale al costado del arco.
 - **55'**: Circulación alemana. Kimmich–Pavlović–Tah–Schlotterbeck–Mittelstádt–Kimmich. Curazao sin poder correr.
 - **56'**: L. García se queda en el piso tras un choque con Tah. Se levanta solo.
-- **57'**: ⚽ **¡GOL DE ALEMANIA!** Wirtz conduce, da a Sané por izquierda, Sané la pausa, amaga al interior y asiste al área a Undav que llega de segunda línea. Undav toca de primera con el interior del pie y manda la pelota al rincón derecho de Room. **3-0 Alemania.** Asistencia: Sané.
-- **58'**: Alemania festeja tranquila. El partido está definido.
+- **57'**: Wirtz conduce por derecha, da a Sané por izquierda. Sané amaga al interior, busca a Undav en el área, pero Obispo despeja el centro antes de que llegue. Posesión alemana.
+- **58'**: Alemania sigue adelante. El partido está controlado con comodidad.
 - **59'**: 🔁 **Cambio en Alemania**: sale Undav, entra Füllkrug. Nagelsmann da rodaje al delantero de West Ham.
 - **60'**: El calor comienza a pesar. Varios jugadores piden agua al árbitro. La degradación física entra en juego (Físico −3 ambos equipos, simple por techo cerrado).
 - **61'**: Curazao intenta retener la pelota por primera vez en el segundo tiempo. Ngonge–J. Bacuna–Bacuna. Pavlović recupera.
@@ -116,7 +116,7 @@
 - **65'**: 🔁 **Cambio en Alemania**: sale Wirtz, entra Adeyemi. Nagelsmann da descanso al crack de Bayern.
 - **66'**: Adeyemi entra con velocidad, encaró a Bazoer y consiguió el córner.
 - **67'**: Cuarto córner de Alemania. Tah vuelve a cabecear, Room manotea al travesaño. ¡Palo!
-- **68'**: El rebote lo recoge Mittelstädt, tira desde la banda izquierda, Room ataja.
+- **68'**: ⚽ **¡GOL DE ALEMANIA!** Córner mal ejecutado de Curazao, Ngonge lo devuelve largo hacia atrás. Sané intercepta en la medialuna propia, arranca en velocidad, conduce 30 metros en diagonal esquivando a Bacuna y Sambo, y asiste al área a Undav —que ingresa de segunda línea— para que defina de primera al rincón derecho de Room. Contragolpe letal. **3-0 Alemania.** Asistencia: Sané.
 - **69'**: Chong intenta el contragolpe con velocidad pero está solo y Kimmich lo neutraliza.
 - **70'**: 🔁 **Cambio en Curazao**: sale Bazoer, entra Floranus. Tercer cambio.
 - **71'**: Füllkrug prueba de cabeza en el primer palo, Room ataja bien. Alemania sigue buscando el cuarto.
@@ -150,8 +150,8 @@
 | Estadística | Alemania | Curazao |
 |---|---|---|
 | Posesión | 73% | 27% |
-| Tiros (al arco) | 18 (8) | 4 (1) |
-| Córners | 6 | 1 |
+| Tiros (al arco) | 18 (8) | 5 (1) |
+| Córners | 7 | 1 |
 | Faltas | 7 | 11 |
 | Amarillas | 1 | 1 |
 | Rojas | 0 | 0 |
@@ -160,7 +160,7 @@
 ### Goleadores
 - 19' **Jamal Musiala** (Alemania) — remate cruzado tras giro en área, asist. Goretzka
 - 32' **Florian Wirtz** (Alemania) — disparo al ángulo tras amague individual, sin asistencia
-- 57' **Deniz Undav** (Alemania) — toque de primera en el área, asist. Sané
+- 68' **Deniz Undav** (Alemania) — definición de primera tras contraataque, asist. Sané
 
 ### Tarjetas
 - 🟨 13' Armando Obispo (Curazao) — falta dura sobre Undav
