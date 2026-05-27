@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 72
 - Físico: 70
-- Moral: 84
+- Moral: 79
 - Cohesión: 78
 - Experiencia: 76
 
@@ -59,25 +59,25 @@
 4-3-3: Vasilj; Dedić, Ahmedhodžić, Katić, Kolašinac; Krunić, Pjanić, Tahirović; Višća, Džeko, Demirović.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- En capilla por amarilla (1 tarjeta): Rade Krunić, Anel Ahmedhodžić, Benjamin Tahirović
 
 ## Forma reciente (pre-Mundial, últimos 5 partidos)
+- 2026-06-12 vs Canadá: 1-2 (D) — Grupo B J1 Mundial
 - 2026-03-XX vs Italia: 1-1 (4-2 pen, V) — repechaje final
 - 2026-03-XX vs Gales: 0-0 (5-3 pen, V) — semi repechaje
 - 2025-11-XX vs Eslovaquia: 1-1 (E)
 - 2025-10-XX vs Austria: 1-2 (D)
-- 2025-09-XX vs Liechtenstein: 6-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 1  | 2  | -1 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Ermedin Demirović (1)
 
 ## Historial vs rivales del grupo
 - vs Canadá: sin antecedentes registrados.
