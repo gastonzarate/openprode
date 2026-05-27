@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 72
 - Físico: 76
-- Moral: 72
+- Moral: 77
 - Cohesión: 76
 - Experiencia: 72
 
@@ -59,25 +59,26 @@
 4-3-3: Beiranvand; Moharrami, Kanaanizadegan, Khalilzadeh, Hajsafi; Ezatolahi, Ghoddos; Jahanbakhsh, Taremi, Azmoun; Mohebi.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Shoja Khalilzadeh: 1 🟨 acumulada (en capilla para J2 vs Bélgica)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-16 vs Nueva Zelanda: 2-0 (V) — Grupo G J1 Mundial 2026
 - 2026-03-XX vs Catar: 2-1 (V)
 - 2026-03-XX vs Corea del Norte: 3-0 (V)
 - 2025-11-XX vs Uzbekistán: 1-1 (E)
 - 2025-10-XX vs Corea del Sur: 1-1 (E)
-- 2025-09-XX vs EAU: 2-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Mehdi Taremi: 1 gol (45' vs Nueva Zelanda)
+- Sardar Azmoun: 1 gol (72' vs Nueva Zelanda)
 
 ## Historial vs rivales del grupo
 - vs Bélgica: amistoso 2014: 1-0 derrota iraní.

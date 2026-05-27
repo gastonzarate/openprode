@@ -21,7 +21,7 @@
 - Defensa: 68
 - Arco: 68
 - Físico: 78
-- Moral: 76
+- Moral: 68
 - Cohesión: 76
 - Experiencia: 58
 
@@ -59,25 +59,26 @@
 4-4-2: Crocombe; Payne, Boxall, Bindon, Cacace; Old, Stamenic, Bell, Singh; Wood, Barbarouses.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Marko Stamenić: 1 🟨 acumulada (en capilla para J2 vs Egipto)
+- Tim Payne: 1 🟨 acumulada (en capilla para J2 vs Egipto)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-16 vs Irán: 0-2 (D) — Grupo G J1 Mundial 2026
 - 2026-03-XX vs Australia: 1-2 (D)
 - 2026-03-XX vs Tahití: 7-0 (V)
 - 2025-11-XX vs Fiji: 4-0 (V)
 - 2025-10-XX vs Vanuatu: 5-0 (V)
-- 2025-09-XX vs Costa Rica: 0-3 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- (ninguno)
 
 ## Historial vs rivales del grupo
 - vs Bélgica: sin antecedentes registrados.
