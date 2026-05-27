@@ -127,7 +127,7 @@
 - **71'**: Eustáquio dispara al ángulo pero Vasilj la desvía magistralmente al córner con la mano derecha. Gran atajada.
 - **72'**: Córner para Canadá. Buchanan al segundo palo. David gana en el aire, cabecea... ¡fuera por centímetros!
 - **73'** 🔁 Cambio en Canadá: sale Sigur, entra **Cyle Larin** para darle más presencia física arriba y buscar el gol de la ventaja.
-- **74'** ⚽ **¡GOL DE CANADÁ!** Jugada exquisita: Eustáquio filtra para David en el área, David cede de primera hacia Buchanan que llegó por sorpresa desde la banda derecha, y el delantero del Villarreal la clava al ángulo con un disparo potente de pierna derecha. Vasilj puso la mano pero no llegó. **Canadá 2-1 Bosnia y Herzegovina.**
+- **74'** ⚽ **¡GOL DE CANADÁ!** Contraataque fulminante: Eustáquio recupera el balón en mitad de cancha, lanza largo a David que la baja de pecho sobre la línea del mediocampo, y habilita de primera a Buchanan que viene por derecha a toda velocidad. Buchanan entra al área superando a Kolašinac y la cruza al palo lejano, dejando sin chances a Vasilj. **Canadá 2-1 Bosnia y Herzegovina.**
 - **75'**: Explosión del BMO Field. Buchanan corre hacia el corner y se tira al suelo. Canadá está ganando de nuevo en el debut mundialista.
 - **76'**: Bosnia saca rápido. Barbarez mueve el banco con urgencia. Se vienen los cambios bosnios.
 - **77'** 🔁 Doble cambio en Bosnia: salen Višća y Pjanić (el veterano sale entre aplausos genuinos del BMO), entran **Gigović y Menalo** para buscar la velocidad que necesitan para empatar.
@@ -171,7 +171,7 @@
 ### Goleadores
 - **34' Jonathan David (CAN)** — toque preciso al ángulo inferior izquierdo tras pase filtrado; asist. Stephen Eustáquio
 - **58' Ermedin Demirović (BIH)** — cabezazo al primer palo en córner; asist. Miralem Pjanić (córner)
-- **74' Tajon Buchanan (CAN)** — disparo al ángulo con pierna derecha; asist. Jonathan David
+- **74' Tajon Buchanan (CAN)** — contraataque: baja de David + definición cruzada al palo lejano; asist. Jonathan David
 
 ### Tarjetas
 - 🟨 39' Krunić (BIH) — falta dura sobre Davies
