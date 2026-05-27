@@ -159,7 +159,7 @@
 |---|---|---|
 | Posesión | 58% | 42% |
 | Tiros (al arco) | 16 (7) | 9 (4) |
-| Córners | 9 | 6 |
+| Córners | 7 | 4 |
 | Faltas | 10 | 13 |
 | Amarillas | 1 | 2 |
 | Rojas | 0 | 0 |
