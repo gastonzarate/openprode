@@ -132,7 +132,7 @@ Slug del archivo: nombre del país en minúscula sin tildes y guiones por espaci
 
 Plantilla exacta:
 
-````markdown
+```markdown
 # <País> <bandera-emoji>
 
 ## Información general
@@ -261,7 +261,6 @@ Después de escribir todo, mostrar:
 > - Grupos: 12
 > - Primer partido: `<YYYY-MM-DD HH:MM>` `<local>` vs `<visitante>` en `<sede>`
 > - Próximo paso: invocar la skill `simular-partido`
-````
 
 ### Manejo de errores
 
