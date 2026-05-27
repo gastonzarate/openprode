@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último partido simulado: 2026-06-16 — Irán 2-0 Nueva Zelanda
-> Próximo partido pendiente: 2026-06-16 — Francia vs Senegal (15:00, MetLife Stadium, East Rutherford)
+> Último partido simulado: 2026-06-16 — Francia 2-1 Senegal
+> Próximo partido pendiente: 2026-06-16 — Irak vs Noruega (18:00, Gillette Stadium, Foxborough)
 
 ## Fase de Grupos
 
@@ -25,7 +25,7 @@
 | 2026-06-15 | 15:00 | Lumen Field, Seattle | G | Bélgica | Egipto | ✅ Jugado | 2-1 | [ver](partidos/2026-06-15-belgica-vs-egipto.md) |
 | 2026-06-15 | 18:00 | Hard Rock Stadium, Miami Gardens | H | Arabia Saudita | Uruguay | ✅ Jugado | 1-2 | [ver](partidos/2026-06-15-arabia-saudita-vs-uruguay.md) |
 | 2026-06-16 | 03:00 | SoFi Stadium, Inglewood | G | Irán | Nueva Zelanda | ✅ Jugado | 2-0 | [ver](partidos/2026-06-16-iran-vs-nueva-zelanda.md) |
-| 2026-06-16 | 15:00 | MetLife Stadium, East Rutherford | I | Francia | Senegal | ⏳ Pendiente | — | — |
+| 2026-06-16 | 15:00 | MetLife Stadium, East Rutherford | I | Francia | Senegal | ✅ Jugado | 2-1 | [ver](partidos/2026-06-16-francia-vs-senegal.md) |
 | 2026-06-16 | 18:00 | Gillette Stadium, Foxborough | I | Irak | Noruega | ⏳ Pendiente | — | — |
 | 2026-06-16 | 20:00 | Arrowhead Stadium, Kansas City | J | Argentina | Argelia | ⏳ Pendiente | — | — |
 | 2026-06-17 | 03:00 | Levi's Stadium, Santa Clara | J | Austria | Jordania | ⏳ Pendiente | — | — |

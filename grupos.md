@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-16 — Irán 2-0 Nueva Zelanda
+> Actualizado tras: 2026-06-16 — Francia 2-1 Senegal
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -75,10 +75,12 @@
 ## Grupo I
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Francia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Senegal | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Francia | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
+| 2 | Senegal | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
 | 3 | Noruega | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 4 | Irak | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+> ⚠️ Noruega e Irak aún no han jugado — Senegal provisional en 2° hasta que se conozcan sus resultados.
 
 ## Grupo J
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |

@@ -21,36 +21,36 @@
 - Defensa: 88
 - Arco: 90
 - Físico: 84
-- Moral: 84
+- Moral: 88
 - Cohesión: 86
 - Experiencia: 88
 
 ## Plantilla (26 jugadores, regla FIFA 2026)
 | # | Jugador | Pos | Edad | Club | Ataque | Defensa | Físico | Técnica | Estado |
 |---|---------|-----|------|------|--------|---------|--------|---------|--------|
-| 1 | Mike Maignan | ARQ | 30 | AC Milan | 10 | 90 | 76 | 76 | 100% |
+| 1 | Mike Maignan | ARQ | 30 | AC Milan | 10 | 90 | 76 | 76 | 95% |
 | 16 | Brice Samba | ARQ | 32 | Lens | 10 | 80 | 68 | 68 | 100% |
 | 23 | Robin Risser | ARQ | 22 | Strasbourg | 10 | 76 | 65 | 65 | 100% |
 | 2 | Jonathan Clauss | DEF | 33 | Niza | 24 | 76 | 73 | 62 | 100% |
-| 3 | Theo Hernández | DEF | 28 | Al-Hilal | 28 | 78 | 78 | 73 | 100% |
-| 4 | William Saliba | DEF | 25 | Arsenal | 26 | 88 | 84 | 70 | 100% |
-| 5 | Ibrahima Konaté | DEF | 26 | Liverpool | 26 | 86 | 82 | 70 | 100% |
+| 3 | Theo Hernández | DEF | 28 | Al-Hilal | 28 | 78 | 78 | 73 | 95% |
+| 4 | William Saliba | DEF | 25 | Arsenal | 26 | 88 | 84 | 70 | 95% |
+| 5 | Ibrahima Konaté | DEF | 26 | Liverpool | 26 | 86 | 82 | 70 | 95% |
 | 13 | Dayot Upamecano | DEF | 27 | Bayern Munich | 25 | 84 | 80 | 67 | 100% |
 | 14 | Malo Gusto | DEF | 22 | Chelsea | 24 | 78 | 74 | 64 | 100% |
 | 15 | Lucas Hernández | DEF | 30 | PSG | 25 | 80 | 76 | 67 | 100% |
 | 17 | Castello Lukeba | DEF | 23 | RB Leipzig | 24 | 80 | 76 | 64 | 100% |
-| 22 | Benjamin Pavard | DEF | 30 | Internazionale | 23 | 78 | 74 | 62 | 100% |
-| 6 | Aurélien Tchouaméni | VOL | 26 | Real Madrid | 60 | 65 | 84 | 86 | 100% |
-| 8 | Adrien Rabiot | VOL | 31 | AC Milan | 60 | 55 | 78 | 84 | 100% |
-| 18 | Manu Koné | VOL | 24 | Roma | 56 | 60 | 80 | 80 | 100% |
+| 22 | Benjamin Pavard | DEF | 30 | Internazionale | 23 | 78 | 74 | 62 | 95% |
+| 6 | Aurélien Tchouaméni | VOL | 26 | Real Madrid | 60 | 65 | 84 | 86 | 95% |
+| 8 | Adrien Rabiot | VOL | 31 | AC Milan | 60 | 55 | 78 | 84 | 95% |
+| 18 | Manu Koné | VOL | 24 | Roma | 56 | 60 | 80 | 80 | 97% |
 | 19 | Youssouf Fofana | VOL | 27 | AC Milan | 56 | 60 | 80 | 80 | 100% |
 | 20 | Maghnes Akliouche | VOL | 24 | Mónaco | 70 | 40 | 71 | 84 | 100% |
 | 21 | Rayan Cherki | VOL | 22 | Manchester City | 70 | 35 | 67 | 84 | 100% |
-| 7 | Ousmane Dembélé | DEL | 28 | PSG | 88 | 26 | 73 | 92 | 100% |
-| 9 | Marcus Thuram | DEL | 28 | Internazionale | 84 | 25 | 80 | 80 | 100% |
-| 10 | Kylian Mbappé (C) | DEL | 27 | Real Madrid | 95 | 28 | 84 | 95 | 100% |
-| 11 | Michael Olise | DEL | 24 | Bayern Munich | 84 | 25 | 71 | 88 | 100% |
-| 12 | Bradley Barcola | DEL | 23 | PSG | 82 | 25 | 73 | 82 | 100% |
+| 7 | Ousmane Dembélé | DEL | 28 | PSG | 88 | 26 | 73 | 92 | 95% |
+| 9 | Marcus Thuram | DEL | 28 | Internazionale | 84 | 25 | 80 | 80 | 95% |
+| 10 | Kylian Mbappé (C) | DEL | 27 | Real Madrid | 95 | 28 | 84 | 95 | 95% |
+| 11 | Michael Olise | DEL | 24 | Bayern Munich | 84 | 25 | 71 | 88 | 97% |
+| 12 | Bradley Barcola | DEL | 23 | PSG | 82 | 25 | 73 | 82 | 97% |
 | 24 | Désiré Doué | DEL | 20 | PSG | 80 | 24 | 70 | 84 | 100% |
 | 25 | Randal Kolo Muani | DEL | 27 | Juventus | 80 | 24 | 76 | 76 | 100% |
 | 26 | Hugo Ekitike | DEL | 23 | Eintracht Frankfurt | 80 | 24 | 76 | 76 | 100% |
@@ -61,23 +61,27 @@
 ## Lesionados / Suspendidos
 - Eduardo Camavinga (VOL): no convocado por decisión técnica/forma irregular.
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## En capilla (1 amarilla acumulada)
+- Adrien Rabiot 🟨 (min 72' vs Senegal)
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-16 vs Senegal: 2-1 (V) — Mundial Grupo I J1
 - 2026-03-XX vs Alemania: 1-2 (D)
 - 2026-03-XX vs Croacia: 2-0 (V)
 - 2025-11-XX vs Israel: 4-0 (V)
 - 2025-10-XX vs Bélgica: 2-2 (E)
-- 2025-09-XX vs Italia: 3-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Kylian Mbappé: 1 gol (34' pen. vs Senegal)
+- Marcus Thuram: 1 gol (67' vs Senegal)
 
 ## Historial vs rivales del grupo
 - vs Senegal: amistoso 3-0 victoria francesa (2002 victoria senegalesa histórica).
