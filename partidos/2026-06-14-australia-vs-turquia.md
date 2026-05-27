@@ -77,8 +77,8 @@
 - **30'**: Intercambio veloz, Australia empieza a tener su mejor momento del partido.
 - **31'**: Hrustic habilita a Mabil en el área chica, el extremo toca de primera... ¡Demiral salva sobre la línea! Increíble.
 - **32'**: Tiro de esquina para Australia. Irvine la pone con rosca, Duke cabecea alto.
-- **33'**: Turquía recupera y sale rápido. Çalhanoğlu la carga 60 metros hacia adelante, habilita a Yıldız por el centro...
-- **34'** ⚽ **¡GOL DE TURQUÍA!** Kenan Yıldız recibe de Çalhanoğlu, controla con el pecho, la para, y la clava al ángulo izquierdo de Ryan de zurda. Inatajable. **Australia 0 - 1 Turquía.**
+- **33'**: Australia intenta el tiro de esquina, pero Çakır sale y despeja largo con el puño. Turquía contraataca en velocidad.
+- **34'** ⚽ **¡GOL DE TURQUÍA!** Contraataque turco fulminante: Çakır despeja largo, Çalhanoğlu la recibe en el mediocampo y arranca en carrera, habilita a Yıldız que encaró a toda velocidad hacia el área, la acomodó de un toque y la clavó al ángulo izquierdo de Ryan de zurda. Inatajable. **Australia 0 - 1 Turquía.**
 - **35'**: Festejo turco. Yıldız abraza a Çalhanoğlu. El Juventus de Turín le agradece la habilitación al capitán.
 - **36'**: Australia busca reaccionar. Duke encabeza el equipo hacia adelante.
 - **37'**: Irvine gana la segunda pelota y la manda a Leckie en profundidad. El delantero llega al fondo, su centro es bloqueado por Söyüncü.
@@ -155,15 +155,15 @@
 | Estadística | Australia | Turquía |
 |---|---|---|
 | Posesión | 41% | 59% |
-| Tiros (al arco) | 14 (5) | 13 (6) |
-| Córners | 7 | 6 |
+| Tiros (al arco) | 11 (4) | 14 (6) |
+| Córners | 5 | 7 |
 | Faltas | 10 | 8 |
 | Amarillas | 1 | 0 |
 | Rojas | 0 | 0 |
 | Offsides | 2 | 1 |
 
 ### Goleadores
-- 34' **Kenan Yıldız** (Turquía) — remate de zurda al ángulo, asist. Çalhanoğlu
+- 34' **Kenan Yıldız** (Turquía) — contraataque, remate de zurda al ángulo, asist. Çalhanoğlu
 - 62' **Mitchell Duke** (Australia) — cabezazo al primer palo, asist. Irvine
 - 79' **Arda Güler** (Turquía) — definición de zurda al ángulo bajo, asist. Çalhanoğlu
 
