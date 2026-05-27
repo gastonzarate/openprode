@@ -21,7 +21,7 @@
 - Defensa: 78
 - Arco: 74
 - Físico: 84
-- Moral: 80
+- Moral: 72
 - Cohesión: 78
 - Experiencia: 65
 
@@ -59,25 +59,26 @@
 4-2-3-1: Mpasi; Kalulu, Mbemba, Batubinsika, Masuaku; Pickel, E. Kayembe; Wissa, Bongonda, S. Katompa; Bakambu.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Sin lesionados.
+- En capilla (1 amarilla): Pickel, Masuaku.
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-17 vs Portugal: 1-3 (D) — Mundial Grupo K J1
 - 2026-03-XX vs Senegal: 1-2 (D)
 - 2026-03-XX vs Mauritania: 3-0 (V)
 - 2025-11-XX vs Sudán: 2-0 (V)
 - 2025-10-XX vs Togo: 2-1 (V)
-- 2025-09-XX vs Marruecos: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 1  | 3  | -2 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Fiston Mayele: 1 gol (82' vs Portugal, J1)
 
 ## Historial vs rivales del grupo
 - vs Portugal: sin antecedentes registrados.

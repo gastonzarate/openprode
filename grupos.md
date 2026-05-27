@@ -94,12 +94,14 @@
 > ⚠️ Argelia y Jordania igualados en Pts (0) — Argelia supera en GF (1 vs 0). Orden provisional hasta J2.
 
 ## Grupo K
+> Actualizado tras: 2026-06-17 — Portugal 3-1 RD del Congo
+
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Portugal | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Portugal | 1 | 1 | 0 | 0 | 3 | 1 | +2 | 3 |
 | 2 | Colombia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Uzbekistán | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | RD del Congo | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | RD del Congo | 1 | 0 | 0 | 1 | 1 | 3 | -2 | 0 |
 
 ## Grupo L
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
