@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último: 2026-06-17 — Ghana 2-1 Panamá
-> Próximo: 2026-06-17 — Uzbekistán vs Colombia (20:00, Estadio Azteca, Ciudad de México)
+> Último: 2026-06-17 — Uzbekistán 0-2 Colombia
+> Próximo: 2026-06-18 — Chequia vs Sudáfrica (12:00, Mercedes-Benz Stadium, Atlanta)
 
 ## Fase de Grupos
 
@@ -32,7 +32,7 @@
 | 2026-06-17 | 12:00 | NRG Stadium, Houston | K | Portugal | RD del Congo | ✅ Jugado | 3-1 | [ver](partidos/2026-06-17-portugal-vs-rd-del-congo.md) |
 | 2026-06-17 | 15:00 | AT&T Stadium, Arlington | L | Inglaterra | Croacia | ✅ Jugado | 2-1 | [ver](partidos/2026-06-17-inglaterra-vs-croacia.md) |
 | 2026-06-17 | 19:00 | BMO Field, Toronto | L | Ghana | Panamá | ✅ Jugado | 2-1 | [ver](partidos/2026-06-17-ghana-vs-panama.md) |
-| 2026-06-17 | 20:00 | Estadio Azteca, Ciudad de México | K | Uzbekistán | Colombia | ⏳ Pendiente | — | — |
+| 2026-06-17 | 20:00 | Estadio Azteca, Ciudad de México | K | Uzbekistán | Colombia | ✅ Jugado | 0-2 | [ver](partidos/2026-06-17-uzbekistan-vs-colombia.md) |
 
 ### Jornada 2
 

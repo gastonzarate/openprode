@@ -94,14 +94,17 @@
 > ⚠️ Argelia y Jordania igualados en Pts (0) — Argelia supera en GF (1 vs 0). Orden provisional hasta J2.
 
 ## Grupo K
-> Actualizado tras: 2026-06-17 — Portugal 3-1 RD del Congo
+> Actualizado tras: 2026-06-17 — Uzbekistán 0-2 Colombia
 
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | Portugal | 1 | 1 | 0 | 0 | 3 | 1 | +2 | 3 |
-| 2 | Colombia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Uzbekistán | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | RD del Congo | 1 | 0 | 0 | 1 | 1 | 3 | -2 | 0 |
+| 2 | Colombia | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
+| 3 | RD del Congo | 1 | 0 | 0 | 1 | 1 | 3 | -2 | 0 |
+| 4 | Uzbekistán | 1 | 0 | 0 | 1 | 0 | 2 | -2 | 0 |
+
+> ⚠️ Portugal y Colombia igualados en Pts (3) — Portugal 1° por mayor GF (3 vs 2). Orden provisional hasta J2.
+> ⚠️ RD del Congo y Uzbekistán igualados en Pts (0) — RD del Congo 3° por mayor GF (1 vs 0). Orden provisional hasta J2.
 
 ## Grupo L
 > Actualizado tras: 2026-06-17 — Ghana 2-1 Panamá
