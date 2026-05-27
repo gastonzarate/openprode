@@ -153,7 +153,7 @@
 | Estadística | Bélgica | Egipto |
 |---|---|---|
 | Posesión | 56% | 44% |
-| Tiros (al arco) | 14 (6) | 10 (5) |
+| Tiros (al arco) | 14 (6) | 10 (4) |
 | Córners | 8 | 3 |
 | Faltas | 9 | 12 |
 | Amarillas | 1 | 2 |
@@ -163,7 +163,7 @@
 ### Goleadores
 - **23'** Romelu Lukaku (Bélgica) — cabezazo, asist. Kevin De Bruyne
 - **61'** Mohamed Salah (Egipto) — remate de zurda desde fuera del área, asist. —
-- **74'** Jérémy Doku (Bélgica) — definición cruzada de zurda, asist. Amadou Onana
+- **74'** Jérémy Doku (Bélgica) — definición cruzada de zurda en contraataque, asist. Amadou Onana
 
 ### Tarjetas
 - 🟨 5' Hamdi Fathi (Egipto)
