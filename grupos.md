@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-15 — España 3-0 Cabo Verde
+> Actualizado tras: 2026-06-15 — Bélgica 2-1 Egipto
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -57,10 +57,10 @@
 ## Grupo G
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Bélgica | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Egipto | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Irán | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Nueva Zelanda | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Bélgica | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
+| 2 | Irán | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Nueva Zelanda | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Egipto | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
 
 ## Grupo H
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
