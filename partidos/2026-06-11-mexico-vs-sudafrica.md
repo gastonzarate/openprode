@@ -129,7 +129,7 @@
 - **74'**: Edson Álvarez recupera en mitad de cancha, juega corto para Pineda.
 - **75'**: Pase de Pineda al espacio para Lozano, no llega por centímetros.
 - **76'**: Lozano la pide en el área, no se la dan, gestos de frustración.
-- **77'** ⚽ **¡GOL DE MÉXICO!** Centro desde la derecha de Lozano, **Santiago Giménez la clava de cabeza al ángulo izquierdo**. R. Williams paralizado. ¡Doblete del Bebote! **México 2-1 Sudáfrica.**
+- **77'** ⚽ **¡GOL DE MÉXICO!** Lozano se va por derecha, amaga al defensor y tira el centro rasante al segundo palo. **Santiago Giménez le pega de primera al palo izquierdo**, inatajable para R. Williams. ¡Doblete del Bebote! **México 2-1 Sudáfrica.**
 - **78'**: Locura en el Azteca. Festejo argentino-mexicano con la camiseta levantada.
 - **79'**: Sudáfrica saca rápido buscando reacción inmediata.
 - **80'**: Adams intenta meterse al área, lo cierra Vásquez con timing perfecto.
@@ -165,7 +165,7 @@
 ### Goleadores
 - 22' S. Giménez (MEX) — cabezazo a palo lejano, asist. Vega
 - 61' L. Foster (SAF) — definición cruzada tras contragolpe, asist. Adams
-- 77' S. Giménez (MEX) — cabezazo al ángulo, asist. Lozano
+- 77' S. Giménez (MEX) — definición de primera tras centro rasante, asist. Lozano
 
 ### Tarjetas
 - 🟨 33' Mokoena (SAF), 🟨 52' Edson Álvarez (MEX), 🟨 84' Modiba (SAF)
