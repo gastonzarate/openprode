@@ -207,6 +207,69 @@ Los LLMs tienden a sesgar hacia "victoria del favorito por la mínima con sufrim
 3. **Las 10 corridas MC del Paso 5 son referencia, no obligación.** Si la moda fue 2-1 pero el partido es un choreo, el oficial puede salir 3-0 o 4-1 — está bien.
 4. **Antes de empezar el relato, ELEGÍ EL MARCADOR FINAL.** Considerá el diferencial, mirá la tabla de arriba, sorteá mentalmente respetando las probabilidades. Después tirá el relato hacia ese marcador. No improvises el resultado al final.
 
+**📊 Estadísticas finales realistas (data de Mundiales 2018/2022 + Euro 2024)**
+
+Una vez fijado el marcador, las stats agregadas tienen que ser coherentes. Tabla de referencia según el diferencial:
+
+| Stat | Choreo (>15) | Favorito claro (8-15) | Moderado (3-8) | Parejos (<3) |
+|---|---|---|---|---|
+| Tiros favorito | 18-24 | 14-17 | 12-15 | 10-13 |
+| Tiros débil | 5-9 | 8-11 | 10-13 | 10-13 |
+| Tiros al arco favorito | 7-10 | 5-7 | 4-6 | 3-5 |
+| Tiros al arco débil | 1-3 | 2-4 | 3-5 | 3-5 |
+| Posesión favorito | 65-75% | 55-65% | 50-58% | 48-52% |
+| Córners favorito | 7-11 | 5-8 | 4-7 | 4-6 |
+| Córners débil | 1-3 | 3-5 | 4-6 | 4-6 |
+| Faltas (total partido) | 18-26 | 20-26 | 22-30 | 22-32 |
+| Amarillas (total partido) | 2-4 | 3-5 | 3-6 | 4-7 |
+| Rojas | 0 (95%) | 0 (92%) | 0 (90%) | 0 (88%) |
+| Offsides (total) | 3-7 | 3-6 | 3-6 | 3-6 |
+
+**Conversión esperada:** ~30-35% de tiros al arco terminan en gol en Mundiales. Verificá: si el marcador es 3-0 y tirás 4 al arco, no cierra (75% conversión). Subí los tiros al arco o bajá el marcador.
+
+**📅 Distribución temporal de goles (NO es uniforme)**
+
+Los goles NO se reparten parejo en los 90 minutos. La realidad estadística:
+
+| Tramo | % de goles | Por qué |
+|---|---|---|
+| 1'-15' | 11% | Equipos cautelosos al inicio (sobre todo J1) |
+| 16'-30' | 14% | Empieza a abrirse el partido |
+| 31'-45'+ | 18% | Cansancio leve, errores defensivos |
+| 46'-60' | 17% | Salida nueva del entretiempo |
+| 61'-75' | 19% | Cambios y desgaste físico aparecen |
+| 76'-90'+ | 21% | Cansancio, repliegues, descuento largo |
+
+Aplicar al elegir los minutos de los goles del partido. **Evitar concentrar todos los goles entre los minutos 20'-45'** (sesgo típico LLM). Repartir realista.
+
+**🎬 Tipos de jugada de gol**
+
+Distribución típica en Mundiales (usar como guía al describir cada gol):
+
+| Tipo | Probabilidad |
+|---|---|
+| Jugada elaborada / pase filtrado | ~25% |
+| Pelota parada (córner, tiro libre directo o indirecto) | ~25% |
+| Contraataque | ~17% |
+| Definición individual / regate | ~12% |
+| Error defensivo / rebote | ~10% |
+| Penal | ~8% (cada 12 partidos hay penal; conversión ~75%) |
+| Cabezazo en juego (no córner) | ~3% |
+
+**Si decís "tiro al ángulo, asistencia de X" en todos los goles, cae el realismo. Mezclá: un partido con 2-1 debería tener variedad en las jugadas (ej. uno por jugada elaborada, uno por pelota parada, descuento por error).**
+
+**⏱ Tiempo de descuento**
+
+- **Primer tiempo:** 1-4 minutos (promedio 2.5'). Más alto si hubo lesión o cambio.
+- **Segundo tiempo:** 4-9 minutos (promedio 6-7' en Mundiales recientes por revisiones VAR). Más alto si hubo gol tardío, lesión, o muchos cambios.
+
+**🏥 Lesiones y tarjetas — distribución por partido**
+
+- **Amarillas:** 3-5 por partido típico. Más en J3 con definiciones.
+- **Roja directa:** ~1 cada 20 partidos (5% por partido).
+- **Doble amarilla → expulsión:** ~1 cada 12 partidos.
+- **Lesión que saca al jugador antes del 90':** ~1 cada 3 partidos (33% por partido).
+
 **Estado mutable que mantenemos durante la corrida:**
 - Marcador local / visitante.
 - Tarjetas activas por jugador (acumulada).
