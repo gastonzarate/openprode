@@ -89,7 +89,7 @@
 - **42'**: Stamenić lanza a Bell en carrera pero Moharrami hace una gran marca y lo obliga a volver.
 - **43'**: Ghoddos recibe en media vuelta y ensaya un remate de 30 metros — se va lejos.
 - **44'**: Singh tira un centro largo desde la izquierda — manotazo de Beiranvand.
-- **45'**: Taremi le gana en velocidad a Boxall — remata con el interior del pie — **¡¡GOOOL DE IRÁN!! ¡¡TAREMI ABRIÓ EL MARCADOR A ÚLTIMO MOMENTO DEL PRIMER TIEMPO!!** Tiro al palo derecho del arco, Crocombe no llega. **1-0.**
+- **45'**: Taremi recibe un pase largo de Ezatolahi, le gana en velocidad a Boxall en una arrancada individual sin apoyo, se mete al área y remata con el interior del pie al palo derecho — **¡¡GOOOL DE IRÁN!! ¡¡TAREMI ABRIÓ EL MARCADOR A ÚLTIMO MOMENTO DEL PRIMER TIEMPO!!** Crocombe no llega. Jugada puramente individual del capitán iraní. **1-0.**
 - **45'+1**: Irán festeja con el estadio a pleno. NZ intenta responder pero el árbitro cobra final de primer tiempo.
 
 **FIN DEL PRIMER TIEMPO. Irán 1 - 0 Nueva Zelanda.**
@@ -124,7 +124,7 @@
 - **69'**: Libre para Irán en la frontal del área. Lo toma Ghoddos — remate con rosca que se va rozando el larguero.
 - **70'**: Waine le gana a Kanaanizadegan en el área — remate potente que Beiranvand bloquea con el pecho.
 - **71'**: Irán recupera y sale en carrera: Taremi a Azmoun en profundidad — Bindon llega justo y lanza el balón al córner.
-- **72'**: Córner de Irán. El balón llega a Jahanbakhsh en el segundo palo — volea al área pequeña — Azmoun define de cabeza con potencia. **¡¡¡GOOOL DE IRÁN!!! ¡¡¡AZMOUN!!! ¡¡¡EL 2-0!!!** Asistencia de Jahanbakhsh. **2-0.**
+- **72'**: Córner de Irán — jugada a pelota parada. El balón llega a Jahanbakhsh en el segundo palo, quien lo devuelve de volea al área chica con precisión. Azmoun se adelanta a la marca de Bindon y define de cabeza con potencia al primer palo. **¡¡¡GOOOL DE IRÁN!!! ¡¡¡AZMOUN!!! ¡¡¡EL 2-0!!!** Asistencia de Jahanbakhsh. **2-0.**
 - **73'**: Nueva Zelanda baja los brazos por un momento. La hinchada iraní está de fiesta en el SoFi.
 - **74'**: 🔁 Cambio en Irán: sale Jahanbakhsh, entra Vahid Amiri. Rotación para administrar el resultado.
 - **75'**: 🔁 Cambio en Nueva Zelanda: sale Old, entra Ben Old… sale Stamenić, entra Callum McCowatt. Bazeley mueve el banco para buscar el descuento.
@@ -166,8 +166,8 @@
 | Offsides | 3 | 2 |
 
 ### Goleadores
-- 45' **Mehdi Taremi** (Irán) — tiro al palo derecho, asist. —
-- 72' **Sardar Azmoun** (Irán) — remate de cabeza, asist. Alireza Jahanbakhsh
+- 45' **Mehdi Taremi** (Irán) — jugada individual: gambeteo y remate al palo derecho con el interior, sin asistencia
+- 72' **Sardar Azmoun** (Irán) — pelota parada (córner): volea de Jahanbakhsh al área chica, definición de cabeza al primer palo; asist. Alireza Jahanbakhsh
 
 ### Tarjetas
 - 🟨 14' Marko Stamenić (Nueva Zelanda) — falta dura sobre Jahanbakhsh
