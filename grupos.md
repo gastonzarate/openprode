@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-17 — Inglaterra 2-1 Croacia
+> Actualizado tras: 2026-06-17 — Ghana 2-1 Panamá
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -104,16 +104,17 @@
 | 4 | RD del Congo | 1 | 0 | 0 | 1 | 1 | 3 | -2 | 0 |
 
 ## Grupo L
-> Actualizado tras: 2026-06-17 — Inglaterra 2-1 Croacia
+> Actualizado tras: 2026-06-17 — Ghana 2-1 Panamá
 
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | Inglaterra | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Croacia | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
-| 3 | Ghana | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Panamá | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Ghana | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
+| 3 | Croacia | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
+| 4 | Panamá | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
 
-> ⚠️ Croacia, Ghana y Panamá igualados en Pts (0) — orden provisional hasta J2.
+> ⚠️ Inglaterra y Ghana igualados en Pts (3) y DG (+1) — Inglaterra 1° por GF superior (2 vs 2, igual). Orden provisional hasta J2.
+> ⚠️ Croacia y Panamá igualados en Pts (0) y DG (-1) — orden provisional hasta J2.
 
 ## Clasificación a octavos
 Pasan los **2 primeros de cada grupo** + **8 mejores terceros** (Mundial de 48, formato 2026).
