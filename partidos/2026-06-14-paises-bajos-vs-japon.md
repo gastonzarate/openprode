@@ -117,26 +117,26 @@
 - **61'**: Gravenberch pide el cambio, señala molestia en el isquiotibial. Koeman manda a Veerman a calentar.
 - **62'**: 🔁 **Cambio en Países Bajos:** sale R. Gravenberch, entra J. Veerman (#17). Primeros minutos de Veerman en el torneo.
 - **63'**: Veerman se acomoda en la posición de box-to-box. Japón aprovecha la demora del cambio y presiona de nuevo.
-- **64'**: ⚽ **¡GOL DE PAÍSES BAJOS!** Frimpong proyecta en diagonal por la banda derecha, supera a Tomiyasu en velocidad y centra atrás. Depay llega al primer palo, abre el pie y la manda abajo, al ángulo. Suzuki se tira pero no llega. **2-0.** ¡Memphis Depay convierte su primer gol en este Mundial! El AT&T Stadium se inunda de naranja.
+- **64'**: ⚽ **¡GOL DE PAÍSES BAJOS!** Depay roba en el círculo central, conduce 25 metros, encara a Itakura con un caño y la define cruzado al ángulo bajo. Suzuki ni se mueve. **2-0.** ¡Memphis Depay convierte su primer gol en este Mundial! El AT&T Stadium se inunda de naranja.
 - **65'**: Koeman aplaude desde el banco. Depay festeja señalando el cielo.
 - **66'**: Japón está golpeado. Moriyasu mueve el banco: entra Maeda por Ueda para dar más movilidad arriba.
 - **67'**: 🔁 **Cambio en Japón:** sale A. Ueda, entra D. Maeda (#7).
 - **68'**: Maeda entra con energía, presiona a Van Dijk desde arriba. El capitán neerlandés lo liquida con un cabezazo limpio.
 - **69'**: Kluivert intenta el tercero. Dribblea a Ito por dentro, manda el tiro al palo... ¡sale desviado un palmo!
-- **70'**: Japón sale en contra. Kubo ve el espacio, da a Junya Ito en profundidad. Ito centra al área. Maeda empuja y sale al córner.
-- **71'**: ⚽ **¡GOL DE JAPÓN!** Saque de esquina japonés, Doan la para de pecho en el vértice del área chica y la manda al primer palo. Suzuki Yuito —que entró en el córner anterior a disputar el balón— no la toca, pero sí **Ayase Ueda**, que no había salido del campo todavía... ¡no! Es **Daizen Maeda** quien empuja la pelota tras el desvío. Gol de Maeda, asistencia de Doan. **2-1.** ¡Japón descontó!
-- **72'**: El AT&T Stadium se prende. La hinchada japonesa —minoría pero ruidosa— enloquece.
-- **73'**: Koeman reacciona: Aké sube a defender los córners, Van Dijk habla a los suyos. Estructura más conservadora de PB.
-- **74'**: 🟨 Amarilla a Doan (Japón) por protesta airada luego de un tiro libre señalado a favor de Países Bajos.
-- **75'**: Tiro libre de De Jong desde 25 metros. La pelota golpea la barrera.
-- **76'**: Países Bajos recupera la pelota y la trabaja en el mediocampo. Veerman sencillo, De Jong seguro. Sin apuro.
-- **77'**: Japón presiona con todo. Maeda y Kubo en el centro atacante. Junya Ito sigue corriendo sin parar. El calor hace mella.
-- **78'**: 🔁 **Cambio en Países Bajos:** sale C. Gakpo (molestia en el aductor), entra D. Malen (#21). Koeman tapa el peligro.
-- **79'**: Maeda cae con calambres en el borde del área. El médico entra. Se recupera con cinta adhesiva en la pantorrilla.
-- **80'**: Malen recibe por banda y busca la profundidad. Su centro lo desvía Ito de cabeza al córner.
-- **81'**: Saque de esquina de Veerman. La pelota queda corta y Tanaka despeja.
-- **82'**: 🔁 **Cambio en Japón:** sale A. Tanaka, entra K. Sano (#8). Moriyasu busca energía en la mitad de cancha.
-- **83'**: Japón intenta la remontada. Kubo en el mediocampo recibe, da a Junya Ito, el extremo centra. La pelota llega a Sano que llega tarde.
+- **70'**: Japón sale en contra. Kubo ve el espacio, da a Junya Ito en profundidad. Ito centra al área pero Aké despeja de cabeza.
+- **71'**: Koeman reacciona: Van Dijk habla a los suyos. Estructura más conservadora de PB. Veerman y De Jong cierran el mediocampo.
+- **72'**: 🟨 Amarilla a Doan (Japón) por protesta airada luego de un tiro libre señalado a favor de Países Bajos.
+- **73'**: Tiro libre de De Jong desde 25 metros. La pelota golpea la barrera.
+- **74'**: Países Bajos recupera la pelota y la trabaja en el mediocampo. Veerman sencillo, De Jong seguro. Sin apuro.
+- **75'**: Japón presiona con todo. Maeda y Kubo en el centro atacante. Junya Ito sigue corriendo sin parar. El calor hace mella.
+- **76'**: 🔁 **Cambio en Países Bajos:** sale C. Gakpo (molestia en el aductor), entra D. Malen (#21). Koeman tapa el peligro.
+- **77'**: Maeda cae con calambres en el borde del área. El médico entra. Se recupera con cinta adhesiva en la pantorrilla.
+- **78'**: Malen recibe por banda y busca la profundidad. Su centro lo desvía Ito de cabeza al córner.
+- **79'**: Saque de esquina de Veerman. La pelota queda corta y Tanaka despeja.
+- **80'**: 🔁 **Cambio en Japón:** sale A. Tanaka, entra K. Sano (#8). Moriyasu busca energía en la mitad de cancha.
+- **81'**: Japón intenta la remontada. Kubo en el mediocampo recibe, da a Junya Ito, el extremo centra. Maeda empuja y sale al córner.
+- **82'**: ⚽ **¡GOL DE JAPÓN!** Saque de esquina japonés, Doan la para de pecho en el vértice del área chica y la manda al primer palo. **Daizen Maeda** empuja la pelota con determinación ante la salida tardía de Verbruggen. Gol de Maeda, asistencia de Doan. **2-1.** ¡Japón descontó en el tramo final!
+- **83'**: El AT&T Stadium se prende. La hinchada japonesa —minoría pero ruidosa— enloquece. Quedan 7 minutos más descuento.
 - **84'**: 🟨 Amarilla a Frimpong (Países Bajos) por entrada sobre Kubo por detrás. Foul claro, merecida.
 - **85'**: Tiro libre japonés desde 30 metros. Kubo lo ejecuta con curva... ¡Verbruggen la desvia por encima del travesaño! Buena parada.
 - **86'**: Saque de esquina para Japón. Endo sube al área. Van Dijk le gana el cabezazo y el balón se va largo.
@@ -167,8 +167,8 @@
 
 ### Goleadores
 - 38' Justin Kluivert (Países Bajos) — pase a ras del suelo, asist. Cody Gakpo
-- 64' Memphis Depay (Países Bajos) — tiro al ángulo desde el área chica, asist. Jeremie Frimpong
-- 71' Daizen Maeda (Japón) — empuje al primer palo tras córner, asist. Ritsu Doan
+- 64' Memphis Depay (Países Bajos) — definición individual: caño a Itakura y remate cruzado al ángulo bajo
+- 82' Daizen Maeda (Japón) — empuje al primer palo tras córner, asist. Ritsu Doan
 
 ### Tarjetas
 - 🟨 19' Ko Itakura (Japón)
