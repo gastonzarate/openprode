@@ -92,7 +92,7 @@
 - **39'**: Lee Kang-in organiza el juego desde la derecha. La toca para Hwang In-beom.
 - **40'**: Hwang In-beom filtra para Son que se fue a la espalda de Coufal. El lateral recupera en el límite.
 - **41'**: Šulc intenta un pase largo buscando a Schick de espaldas. La pierde.
-- **42'**: Corea domina la posesión, más de 60% del balón en este período.
+- **42'**: Corea domina la posesión, superando el 55% del balón en este período.
 - **43'**: Cho Gue-sung remata desde el borde del área, cruzado pero sin fuerza. Staněk lo atrapa fácil.
 - **44'**: Chequia monta ataque desesperado. Barák filtra para Hložek, que remata desde la media luna: Jo Hyeon-woo responde con parada firme.
 - **45'**: Provod tira un pase largo al área. Kim Min-jae la gana arriba. Tranquilidad coreana.
@@ -161,8 +161,8 @@
 
 | Estadística | Corea del Sur | Chequia |
 |---|---|---|
-| Posesión | 58% | 42% |
-| Tiros (al arco) | 14 (7) | 8 (3) |
+| Posesión | 55% | 45% |
+| Tiros (al arco) | 14 (6) | 8 (3) |
 | Córners | 7 | 4 |
 | Faltas | 9 | 13 |
 | Amarillas | 2 | 3 |
