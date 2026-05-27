@@ -32,9 +32,9 @@
 | Stat | 🇬🇭 Ghana | 🇵🇦 Panamá |
 |------|----------|-----------|
 | Posesión | 54 % | 46 % |
-| Remates totales | 14 | 9 |
+| Remates totales | 14 | 10 |
 | Remates al arco | 6 | 4 |
-| Córners | 6 | 3 |
+| Córners | 6 | 4 |
 | Faltas | 12 | 15 |
 | Tarjetas amarillas | 1 (Partey, 68') | 2 (Godoy 41', E. Davis 82') |
 | Tarjetas rojas | 0 | 0 |
