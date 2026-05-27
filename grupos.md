@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-14 — Australia 1-2 Turquía
+> Actualizado tras: 2026-06-14 — Alemania 3-0 Curazao
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -39,10 +39,10 @@
 ## Grupo E
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Alemania | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Curazao | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Costa de Marfil | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Ecuador | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Alemania | 1 | 1 | 0 | 0 | 3 | 0 | +3 | 3 |
+| 2 | Costa de Marfil | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Ecuador | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Curazao | 1 | 0 | 0 | 1 | 0 | 3 | -3 | 0 |
 
 ## Grupo F
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |

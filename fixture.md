@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último partido simulado: 2026-06-14 — Australia 1-2 Turquía
-> Próximo partido pendiente: 2026-06-14 — Alemania vs Curazao (12:00, NRG Stadium, Houston)
+> Último partido simulado: 2026-06-14 — Alemania 3-0 Curazao
+> Próximo partido pendiente: 2026-06-14 — Países Bajos vs Japón (15:00, AT&T Stadium, Arlington)
 
 ## Fase de Grupos
 
@@ -17,7 +17,7 @@
 | 2026-06-13 | 18:00 | MetLife Stadium, East Rutherford | C | Brasil | Marruecos | ✅ Jugado | 2-1 | [ver](partidos/2026-06-13-brasil-vs-marruecos.md) |
 | 2026-06-13 | 21:00 | Gillette Stadium, Foxborough | C | Haití | Escocia | ✅ Jugado | 0-2 | [ver](partidos/2026-06-13-haiti-vs-escocia.md) |
 | 2026-06-14 | 03:00 | BC Place, Vancouver | D | Australia | Turquía | ✅ Jugado | 1-2 | [ver](partidos/2026-06-14-australia-vs-turquia.md) |
-| 2026-06-14 | 12:00 | NRG Stadium, Houston | E | Alemania | Curazao | ⏳ Pendiente | — | — |
+| 2026-06-14 | 12:00 | NRG Stadium, Houston | E | Alemania | Curazao | ✅ Jugado | 3-0 | [ver](partidos/2026-06-14-alemania-vs-curazao.md) |
 | 2026-06-14 | 15:00 | AT&T Stadium, Arlington | F | Países Bajos | Japón | ⏳ Pendiente | — | — |
 | 2026-06-14 | 19:00 | Lincoln Financial Field, Philadelphia | E | Costa de Marfil | Ecuador | ⏳ Pendiente | — | — |
 | 2026-06-14 | 20:00 | Estadio BBVA, Guadalupe | F | Suecia | Túnez | ⏳ Pendiente | — | — |
