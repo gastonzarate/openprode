@@ -86,11 +86,11 @@
 - **40'**: Mpasi atrapa el segundo remate consecutivo de B. Fernandes dentro del área. Bien parado el arquero.
 - **41'**: Ritmo más lento — calor interior del estadio pasa factura a ambos equipos. Palhinha pide cambio de ritmo.
 - **42'**: Wissa escapa por el sector derecho pero Nuno Mendes lo cubre y lo lleva a línea de fondo.
-- **43'**: ⚽ **¡GOL DE PORTUGAL!** Vitinha conecta con B. Fernandes en tres cuartos. B. Fernandes da el pase al hueco para **Ronaldo**, que venía de segunda línea. CR7 define de zurda, cruzado, tocando el ángulo interior. Mpasi ni lo ve. **Portugal 2-0 RD del Congo.** ¡Llora el estadio! El capitán de 41 años en su 6° Mundial hace el gol del partido.
-- **44'**: Ronaldo celebra levantando los brazos al cielo. Sus compañeros lo rodean. La pantalla del estadio muestra el contador: 900 goles en carrera (club + selección).
+- **43'**: Congo intenta responder al gol de Leão. Bakambu recibe de espaldas entre líneas, gira y busca a Wissa en profundidad. Dalot cierra y manda a lateral.
+- **44'**: Portugal recupera la pelota. Palhinha la distribuye con calma hacia el sector derecho.
 - **45'**: Katompa intenta algo de honor — disparo desde fuera del área, va al lateral de la red.
 - **45'+1'**: Falta de Inácio sobre Bakambu cerca del área. Tiro libre peligroso para Congo.
-- **45'+2'**: Tiro libre de Bongonda — coloca bien pero Diogo Costa la palomea sobre el travesaño. Córner sin consecuencias. **Final del primer tiempo. Portugal 2-0 RD del Congo.**
+- **45'+2'**: Tiro libre de Bongonda — coloca bien pero Diogo Costa la palomea sobre el travesaño. Córner sin consecuencias. **Final del primer tiempo. Portugal 1-0 RD del Congo.**
 
 ### Segundo tiempo
 
@@ -104,8 +104,8 @@
 - **53'**: R. Leão intenta otra diagonal. Kalulu lo frena legalmente — tiro lateral para Portugal.
 - **54'**: Ronaldo pide el balón en el área. Viene de penal (la busca con el brazo apoyado en Batubinsika). El árbitro no canta nada — equilibrado.
 - **55'**: Katompa Mvumpa engancha desde la derecha y dispara. Va directo al centro de Diogo Costa.
-- **56'**: 🔁 **Cambio en RD del Congo**: sale Bongonda, entra **Kakuta**. Desabre busca más manejo del balón.
-- **57'**: Kakuta aparece entre líneas — su primera pelota, un toque de primera hacia Wissa. Congo tiene otro perfil.
+- **56'**: 🔁 **Cambio en RD del Congo**: sale Bongonda, entra **Kakuta**. Justo cuando Congo hace el cambio, Portugal golpea en el contraataque. Pase largo de Vitinha desde mediocampo, **Ronaldo** se escapa entre los dos centrales, queda mano a mano con Mpasi y la cruza al palo izquierdo de zurda. ⚽ **¡GOL DE PORTUGAL!** Portugal 2-0 RD del Congo. CR7 en su 6° Mundial, implacable.
+- **57'**: Ronaldo celebra levantando los brazos al cielo. La pantalla del estadio muestra el contador: 900 goles en carrera (club + selección). Kakuta entra en medio del festejo luso.
 - **58'**: B. Fernandes arma desde atrás. Pase largo para Ronaldo — control de pecho, giro, disparo. **¡Mpasi la saca con la punta de los dedos!** Gran partido del arquero congoleño.
 - **59'**: Córner. B. Fernandes al segundo palo, Rúben Dias cabecea fuerte. **¡Mpasi la saca de la línea!** Partido a muerte.
 - **60'**: Comienza la zona de degradación física. El calor exterior (techo cerrado, pero la temperatura interior sube) empieza a notarse — ambos equipos ralentizan.
@@ -152,7 +152,7 @@
 | Estadística | Portugal | RD del Congo |
 |---|---|---|
 | Posesión | 62% | 38% |
-| Tiros (al arco) | 18 (9) | 9 (4) |
+| Tiros (al arco) | 16 (7) | 9 (4) |
 | Córners | 8 | 3 |
 | Faltas | 9 | 12 |
 | Amarillas | 1 | 3 |
@@ -161,15 +161,14 @@
 
 ### Goleadores
 - **30'** Rafael Leão (Portugal) — definición al palo desde el borde del área, asist. Bruno Fernandes
-- **43'** Cristiano Ronaldo (Portugal) — disparo cruzado de zurda al ángulo, asist. Bruno Fernandes
+- **56'** Cristiano Ronaldo (Portugal) — contraataque individual, pase largo de Vitinha, mano a mano y cruzada al palo izquierdo (contra/individual)
 - **77'** Bruno Fernandes (Portugal) — volea al segundo palo tras córner, asist. João Neves
-- **82'** Fiston Mayele (RD del Congo) — giro y disparo al ángulo, asist. —
+- **82'** Fiston Mayele (RD del Congo) — individual: recibe en el área, giro sobre Inácio y disparo al ángulo, asist. —
 
 ### Tarjetas
 - 🟨 17' Pickel (RD del Congo) — entrada fuerte
 - 🟨 49' Palhinha (Portugal) — entrada a destiempo
 - 🟨 65' Masuaku (RD del Congo) — derribo por detrás
-- 🟨 [minuto no aplicable] Masuaku acumula 1 amarilla
 
 ### Lesiones
 - Sin lesiones registradas en el partido.
