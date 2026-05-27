@@ -117,7 +117,7 @@ Resumen histórico (todos los enfrentamientos): 5V Inglaterra · 2E · 3V Croaci
 - **61'**: Baturina recibe y combina de primera con Modrić. Buen primer toque del joven del Como.
 - **62'** 🔁 **Cambio en Inglaterra**: sale Rice, entra J. Henderson. Tuchel cuida a Rice para los próximos partidos. El calor ya hace mella.
 - **63'**: Kovačić larga a Kramarić en profundidad. Stones sale a cortar, Kramarić lo supera con un toque y tira. Pickford lo detiene con el pie izquierdo.
-- **64'** ⚽ **¡GOL DE INGLATERRA!** Rashford arranca desde la izquierda, se mete al área, el defensor lo sigue y le deja el espacio a Bellingham que llegó a toda velocidad. Bellingham remata cruzado, al segundo palo bajo, perfecto. Livaković no llegó. **2-0.** Asistencia: Rashford.
+- **64'** ⚽ **¡GOL DE INGLATERRA!** Bellingham recibe en el círculo central, conduce con la derecha, supera a Kovačić con un cambio de ritmo, se abre 3 metros y la define cruzada desde 22 metros al palo lejano. Livaković no llegó. **2-0.**
 - **65'**: Silencio en las tribunas croatas. Dalić se toma la cabeza. Modrić camina hacia el centro del campo con cara seria.
 - **66'**: Croacia empieza a atacar con más riesgo. Juranović sube al ataque, la vía queda libre para un contraataque inglés.
 - **67'**: Kane en un mano a mano con Gvardiol. El zaguero de Manchester City gana el duelo limpio y despeja.
@@ -159,8 +159,8 @@ Resumen histórico (todos los enfrentamientos): 5V Inglaterra · 2E · 3V Croaci
 | Estadística | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | 🇭🇷 Croacia |
 |---|---|---|
 | Posesión | 55% | 45% |
-| Tiros (al arco) | 14 (6) | 9 (4) |
-| Córners | 6 | 3 |
+| Tiros (al arco) | 14 (6) | 10 (4) |
+| Córners | 6 | 4 |
 | Faltas | 11 | 14 |
 | Amarillas | 2 | 2 |
 | Rojas | 0 | 0 |
@@ -168,7 +168,7 @@ Resumen histórico (todos los enfrentamientos): 5V Inglaterra · 2E · 3V Croaci
 
 ### Goleadores
 - **38'** Harry Kane 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (ENG) — Cabezazo al segundo palo, asist. Saka
-- **64'** Jude Bellingham 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (ENG) — Remate cruzado al segundo palo, asist. Rashford
+- **64'** Jude Bellingham 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (ENG) — Definición cruzada desde 22 metros tras conducción individual superando a Kovačić
 - **79'** Andrej Kramarić 🇭🇷 (CRO) — Pared con Kovačić, tiro al ángulo, asist. Modrić
 
 ### Tarjetas
@@ -181,7 +181,7 @@ Resumen histórico (todos los enfrentamientos): 5V Inglaterra · 2E · 3V Croaci
 — Ninguna.
 
 ### MVP
-**Jude Bellingham (ENG)** — Marcó el gol decisivo del 2-0 con una llegada a toda velocidad y dominó el mediocampo durante casi 80 minutos antes de ser sustituido por Henderson.
+**Jude Bellingham (ENG)** — Marcó el gol decisivo del 2-0 con una conducción individual desde el círculo central y definición cruzada desde 22 metros, y dominó el mediocampo durante casi 80 minutos antes de ser sustituido por Henderson.
 
 ---
 
