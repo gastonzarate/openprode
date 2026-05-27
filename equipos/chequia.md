@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 72
 - Físico: 76
-- Moral: 70
+- Moral: 65
 - Cohesión: 68
 - Experiencia: 70
 
@@ -59,25 +59,25 @@
 4-2-3-1: Staněk; Coufal, Krejčí, Hranáč, Jurásek; Souček, Provod; Hložek, Barák, Šulc; Schick.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- En capilla (1 amarilla): Souček 🟨 (vs Corea del Sur, 35'), Hranáč 🟨 (vs Corea del Sur, 74'), Krejčí 🟨 (vs Corea del Sur, 80')
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-11 vs Corea del Sur: 1-2 (D) — Mundial Grupo A J1
 - 2026-03-XX vs Eslovaquia: 2-1 (V)
 - 2026-03-XX vs Suecia: 1-1 (E)
 - 2025-11-XX vs San Marino: 4-0 (V)
 - 2025-11-XX vs Ucrania: 1-0 (V)
-- 2025-10-XX vs Polonia: 0-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 15/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 1  | 2  | −1 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Antonín Barák: 1 gol (57' vs Corea del Sur)
 
 ## Historial vs rivales del grupo
 - vs México: 1-1 amistoso 2014, sin antecedentes mundialistas.

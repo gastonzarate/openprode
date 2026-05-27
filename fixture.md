@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último partido simulado: 2026-06-11 — México 2-1 Sudáfrica
-> Próximo partido pendiente: 2026-06-11 — Corea del Sur vs Chequia (20:00, Estadio Akron, Zapopan)
+> Último partido simulado: 2026-06-11 — Corea del Sur 2-1 Chequia
+> Próximo partido pendiente: 2026-06-12 — Canadá vs Bosnia y Herzegovina (15:00, BMO Field, Toronto)
 
 ## Fase de Grupos
 
@@ -10,7 +10,7 @@
 | Fecha | Hora | Sede | Grupo | Local | Visitante | Estado | Resultado | Archivo |
 |-------|------|------|-------|-------|-----------|--------|-----------|---------|
 | 2026-06-11 | 13:00 | Estadio Azteca, Ciudad de México | A | México | Sudáfrica | ✅ Jugado | 2-1 | [ver](partidos/2026-06-11-mexico-vs-sudafrica.md) |
-| 2026-06-11 | 20:00 | Estadio Akron, Zapopan | A | Corea del Sur | Chequia | ⏳ Pendiente | — | — |
+| 2026-06-11 | 20:00 | Estadio Akron, Zapopan | A | Corea del Sur | Chequia | ✅ Jugado | 2-1 | [ver](partidos/2026-06-11-corea-del-sur-vs-chequia.md) |
 | 2026-06-12 | 15:00 | BMO Field, Toronto | B | Canadá | Bosnia y Herzegovina | ⏳ Pendiente | — | — |
 | 2026-06-12 | 18:00 | SoFi Stadium, Inglewood | D | Estados Unidos | Paraguay | ⏳ Pendiente | — | — |
 | 2026-06-13 | 12:00 | Levi's Stadium, Santa Clara | B | Catar | Suiza | ⏳ Pendiente | — | — |
