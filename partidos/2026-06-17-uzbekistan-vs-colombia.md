@@ -159,7 +159,7 @@
 
 | Estadística | Uzbekistán 🇺🇿 | Colombia 🇨🇴 |
 |---|---|---|
-| Posesión | 32% | 68% |
+| Posesión | 38% | 62% |
 | Tiros (al arco) | 8 (3) | 14 (6) |
 | Córners | 4 | 5 |
 | Faltas | 12 | 9 |
