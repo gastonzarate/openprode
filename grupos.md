@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-14 — Suecia 2-0 Túnez
+> Actualizado tras: 2026-06-15 — España 3-0 Cabo Verde
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -65,10 +65,10 @@
 ## Grupo H
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | España | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Cabo Verde | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Arabia Saudita | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Uruguay | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | España | 1 | 1 | 0 | 0 | 3 | 0 | +3 | 3 |
+| 2 | Arabia Saudita | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Uruguay | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Cabo Verde | 1 | 0 | 0 | 1 | 0 | 3 | −3 | 0 |
 
 ## Grupo I
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
