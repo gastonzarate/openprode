@@ -152,9 +152,9 @@
 
 | Estadística | Irak | Noruega |
 |---|---|---|
-| Posesión | 38% | 62% |
-| Tiros (al arco) | 4 (1) | 14 (7) |
-| Córners | 1 | 6 |
+| Posesión | 32% | 68% |
+| Tiros (al arco) | 6 (2) | 19 (8) |
+| Córners | 2 | 9 |
 | Faltas | 14 | 8 |
 | Amarillas | 2 | 1 |
 | Rojas | 0 | 0 |
@@ -163,7 +163,7 @@
 ### Goleadores
 - 18' Erling Haaland (NOR) — cabezazo en córner, asist. Martin Ødegaard
 - 54' Antonio Nusa (NOR) — disparo cruzado tras robo en mediocampo, asist. —
-- 78' Mohamed Elyounoussi (NOR) — definición mano a mano, asist. Erling Haaland (pique) / Sander Berge (asistencia original)
+- 78' Mohamed Elyounoussi (NOR) — definición mano a mano en contraataque, asist. Erling Haaland (pique) / Sander Berge (asistencia original)
 
 ### Tarjetas
 - 🟨 31' Amjad Attwan (Irak) — falta dura sobre Berg
