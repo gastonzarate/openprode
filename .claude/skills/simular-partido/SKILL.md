@@ -174,6 +174,39 @@ Tras las 10 corridas, calcular y guardar:
 
 Aplicar **el mismo algoritmo** que el Paso 5 una vez más (no usar ninguna de las 10 corridas anteriores), generando esta vez una línea de relato por minuto en español argentino.
 
+**⚠️ Anti-sesgo narrativo — leer antes de empezar**
+
+Los LLMs tienden a sesgar hacia "victoria del favorito por la mínima con sufrimiento" (2-1) porque es la narrativa más rica. Esto NO es realista. En Mundiales reales la distribución es muy distinta. Antes de elegir el marcador, mirá esta tabla:
+
+**Distribución de marcadores típica en fútbol mundial:**
+
+| Marcador | Probabilidad base | Cuándo es más probable |
+|---|---|---|
+| 0-0 | ~7% | Dos defensas firmes, partido cerrado |
+| 1-0 / 0-1 | ~12% | Partido cerrado decidido por una jugada |
+| 1-1 | ~11% | Equipos parejos, ida y vuelta |
+| 2-0 / 0-2 | ~10% | Diferencia clara pero sin goleada |
+| 2-1 / 1-2 | ~14% | Favorito gana con susto |
+| 2-2 | ~5% | Partido loco, defensas mal |
+| 3-0 / 0-3 | ~5% | Diferencia notable |
+| 3-1 / 1-3 | ~6% | Diferencia con descuento |
+| 3-2 / 2-3 | ~3% | Partido espectacular |
+| 4+ | ~7% | Mauling — solo cuando hay abismo (Argentina-Argelia, España-Cabo Verde) |
+
+**Modulá las probabilidades según el diferencial de Fuerza Efectiva:**
+
+- **Diferencial >15 puntos (choreo, ej. España vs Cabo Verde, Argentina vs Jordania)**: favorito gana **75-85%** del tiempo. Marcadores más comunes: 3-0, 2-0, 3-1, 4-0, 4-1. El 2-1 es atípico acá.
+- **Diferencial 8-15 puntos (favorito claro, ej. Países Bajos vs Japón)**: favorito gana **55-65%**, empate ~22%, derrota ~15%. Marcadores variados: 2-1, 1-0, 2-0, 1-1, ocasional 0-0 o 3-1.
+- **Diferencial 3-8 puntos (favorito moderado)**: favorito gana **45-55%**, empate ~28%, otro ~25%. Mucho 1-1, 1-0, 2-1, 0-0, 2-2.
+- **Diferencial <3 puntos (parejos)**: distribución cercana a 33/33/33. Empates muy probables.
+
+**Reglas duras:**
+
+1. **No defaultees a 2-1.** Si en un grupo de 24 partidos te están saliendo más de 4 marcadores 2-1, parate y diversificá.
+2. **Empates son normales.** Apuntá a ~25-30% de empates en fase de grupos.
+3. **Las 10 corridas MC del Paso 5 son referencia, no obligación.** Si la moda fue 2-1 pero el partido es un choreo, el oficial puede salir 3-0 o 4-1 — está bien.
+4. **Antes de empezar el relato, ELEGÍ EL MARCADOR FINAL.** Considerá el diferencial, mirá la tabla de arriba, sorteá mentalmente respetando las probabilidades. Después tirá el relato hacia ese marcador. No improvises el resultado al final.
+
 **Estado mutable que mantenemos durante la corrida:**
 - Marcador local / visitante.
 - Tarjetas activas por jugador (acumulada).
