@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 74
 - Físico: 76
-- Moral: 76
+- Moral: 71
 - Cohesión: 82
 - Experiencia: 70
 
@@ -59,25 +59,26 @@
 4-3-3: Al-Owais; S. Al-Ghannam, Al-Bulayhi, Al-Tambakti, Al-Shahrani; Kanno, S. Al-Faraj, Sharahili; S. Al-Dawsari, F. Al-Buraikan, S. Al-Shehri.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
+- En capilla (1 amarilla): Mohamed Kanno, Ali Al-Bulayhi
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-15 vs Uruguay: 1-2 (D) — Mundial 2026, Grupo H J1
 - 2026-03-XX vs Australia: 0-0 (E)
 - 2026-03-XX vs Indonesia: 2-0 (V)
 - 2025-11-XX vs Bahréin: 3-0 (V)
 - 2025-10-XX vs Japón: 0-2 (D)
-- 2025-09-XX vs China: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 1  | 2  | −1 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Salem Al-Dawsari: 1 gol (58', tiro libre — vs Uruguay, J1)
 
 ## Historial vs rivales del grupo
 - vs España: 2-2 amistoso 2018.

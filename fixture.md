@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último partido simulado: 2026-06-15 — Bélgica 2-1 Egipto
-> Próximo partido pendiente: 2026-06-15 — Arabia Saudita vs Uruguay (18:00, Hard Rock Stadium, Miami Gardens)
+> Último partido simulado: 2026-06-15 — Arabia Saudita 1-2 Uruguay
+> Próximo partido pendiente: 2026-06-16 — Irán vs Nueva Zelanda (03:00, SoFi Stadium, Inglewood)
 
 ## Fase de Grupos
 
@@ -23,7 +23,7 @@
 | 2026-06-14 | 20:00 | Estadio BBVA, Guadalupe | F | Suecia | Túnez | ✅ Jugado | 2-0 | [ver](partidos/2026-06-14-suecia-vs-tunez.md) |
 | 2026-06-15 | 12:00 | Mercedes-Benz Stadium, Atlanta | H | España | Cabo Verde | ✅ Jugado | 3-0 | [ver](partidos/2026-06-15-espana-vs-cabo-verde.md) |
 | 2026-06-15 | 15:00 | Lumen Field, Seattle | G | Bélgica | Egipto | ✅ Jugado | 2-1 | [ver](partidos/2026-06-15-belgica-vs-egipto.md) |
-| 2026-06-15 | 18:00 | Hard Rock Stadium, Miami Gardens | H | Arabia Saudita | Uruguay | ⏳ Pendiente | — | — |
+| 2026-06-15 | 18:00 | Hard Rock Stadium, Miami Gardens | H | Arabia Saudita | Uruguay | ✅ Jugado | 1-2 | [ver](partidos/2026-06-15-arabia-saudita-vs-uruguay.md) |
 | 2026-06-16 | 03:00 | SoFi Stadium, Inglewood | G | Irán | Nueva Zelanda | ⏳ Pendiente | — | — |
 | 2026-06-16 | 15:00 | MetLife Stadium, East Rutherford | I | Francia | Senegal | ⏳ Pendiente | — | — |
 | 2026-06-16 | 18:00 | Gillette Stadium, Foxborough | I | Irak | Noruega | ⏳ Pendiente | — | — |

@@ -21,7 +21,7 @@
 - Defensa: 80
 - Arco: 76
 - Físico: 82
-- Moral: 80
+- Moral: 84
 - Cohesión: 82
 - Experiencia: 80
 
@@ -60,24 +60,26 @@
 
 ## Lesionados / Suspendidos
 - Nahitan Nández: excluido por decisión técnica de Bielsa.
+- En capilla (1 amarilla): Manuel Ugarte, Mathías Olivera
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-15 vs Arabia Saudita: 2-1 (V) — Mundial 2026, Grupo H J1
 - 2026-03-XX vs Paraguay: 0-1 (D)
 - 2026-03-XX vs Argentina: 0-0 (E)
 - 2025-11-XX vs Bolivia: 3-0 (V)
 - 2025-10-XX vs Colombia: 2-2 (E)
-- 2025-09-XX vs Brasil: 0-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Darwin Núñez: 1 gol (37', cabezazo — vs Arabia Saudita, J1)
+- Rodrigo Bentancur: 1 gol (74', volea — vs Arabia Saudita, J1)
 
 ## Historial vs rivales del grupo
 - vs España: balance histórico cerca de 3-3-4 con leve ventaja española.

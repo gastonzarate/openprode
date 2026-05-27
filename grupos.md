@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-15 — Bélgica 2-1 Egipto
+> Actualizado tras: 2026-06-15 — Arabia Saudita 1-2 Uruguay
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -66,8 +66,8 @@
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | España | 1 | 1 | 0 | 0 | 3 | 0 | +3 | 3 |
-| 2 | Arabia Saudita | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Uruguay | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Uruguay | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
+| 3 | Arabia Saudita | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
 | 4 | Cabo Verde | 1 | 0 | 0 | 1 | 0 | 3 | −3 | 0 |
 
 ## Grupo I
