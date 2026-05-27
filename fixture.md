@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último partido simulado: 2026-06-17 — Portugal 3-1 RD del Congo
-> Próximo partido pendiente: 2026-06-17 — Inglaterra vs Croacia (15:00, AT&T Stadium, Arlington)
+> Último partido simulado: 2026-06-17 — Inglaterra 2-1 Croacia
+> Próximo partido pendiente: 2026-06-17 — Ghana vs Panamá (19:00, BMO Field, Toronto)
 
 ## Fase de Grupos
 
@@ -30,7 +30,7 @@
 | 2026-06-16 | 20:00 | Arrowhead Stadium, Kansas City | J | Argentina | Argelia | ✅ Jugado | 3-1 | [ver](partidos/2026-06-16-argentina-vs-argelia.md) |
 | 2026-06-17 | 03:00 | Levi's Stadium, Santa Clara | J | Austria | Jordania | ✅ Jugado | 2-0 | [ver](partidos/2026-06-17-austria-vs-jordania.md) |
 | 2026-06-17 | 12:00 | NRG Stadium, Houston | K | Portugal | RD del Congo | ✅ Jugado | 3-1 | [ver](partidos/2026-06-17-portugal-vs-rd-del-congo.md) |
-| 2026-06-17 | 15:00 | AT&T Stadium, Arlington | L | Inglaterra | Croacia | ⏳ Pendiente | — | — |
+| 2026-06-17 | 15:00 | AT&T Stadium, Arlington | L | Inglaterra | Croacia | ✅ Jugado | 2-1 | [ver](partidos/2026-06-17-inglaterra-vs-croacia.md) |
 | 2026-06-17 | 19:00 | BMO Field, Toronto | L | Ghana | Panamá | ⏳ Pendiente | — | — |
 | 2026-06-17 | 20:00 | Estadio Azteca, Ciudad de México | K | Uzbekistán | Colombia | ⏳ Pendiente | — | — |
 
