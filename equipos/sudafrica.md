@@ -23,7 +23,7 @@
 - Defensa: 66
 - Arco: 80
 - Físico: 73
-- Moral: 78
+- Moral: 73
 - Cohesión: 80
 - Experiencia: 60
 
@@ -61,25 +61,25 @@
 4-3-3: R. Williams; Mudau, Sibisi, Mvala, Modiba; Mokoena, Adams, Maswanganyi; Mofokeng, Foster, Zwane.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- En capilla (1 amarilla acumulada): Mokoena, Modiba.
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (pre-Mundial + Mundial, últimos 5 partidos)
+- 2026-06-11 vs México (Mundial J1): 1-2 (D)
 - 2026-03-XX vs Nigeria: 1-1 (E)
 - 2025-11-XX vs Lesoto: 3-0 (V)
 - 2025-10-XX vs Zimbabue: 0-0 (E)
 - 2025-09-XX vs Ruanda: 1-0 (V)
-- 2025-09-XX vs Nigeria: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 1  | 2  | −1 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- 61' (vs México) Lyle Foster
 
 ## Historial vs rivales del grupo
 - vs México: 1-1 en Soccer City 2010, pocos enfrentamientos posteriores.

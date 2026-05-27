@@ -21,7 +21,7 @@
 - Defensa: 74
 - Arco: 78
 - Físico: 77
-- Moral: 80
+- Moral: 84
 - Cohesión: 78
 - Experiencia: 78
 
@@ -59,25 +59,26 @@
 4-3-3: Ochoa; J. Sánchez, Montes, Vásquez, Gallardo; E. Álvarez, L. Chávez, Pineda; Lozano, S. Giménez, Vega.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- En capilla (1 amarilla acumulada): Edson Álvarez.
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (pre-Mundial + Mundial, últimos 5 partidos)
+- 2026-06-11 vs Sudáfrica (Mundial J1): 2-1 (V)
 - 2026-03-XX vs Estados Unidos: 0-0 (E)
 - 2026-03-XX vs Honduras: 2-0 (V)
 - 2026-01-XX vs Chile: 1-0 (V)
 - 2025-11-XX vs Uruguay: 0-0 (E)
-- 2025-10-XX vs Ecuador: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- 22' (vs Sudáfrica) Santiago Giménez
+- 77' (vs Sudáfrica) Santiago Giménez
 
 ## Historial vs rivales del grupo
 - vs Sudáfrica: pocos enfrentamientos, último amistoso reciente con leve ventaja mexicana.
