@@ -21,36 +21,36 @@
 - Defensa: 78
 - Arco: 75
 - Físico: 75
-- Moral: 78
+- Moral: 73
 - Cohesión: 90
 - Experiencia: 80
 
 ## Plantilla (26 jugadores, regla FIFA 2026)
 | # | Jugador | Pos | Edad | Club | Ataque | Defensa | Físico | Técnica | Estado |
 |---|---------|-----|------|------|--------|---------|--------|---------|--------|
-| 1 | Zion Suzuki | ARQ | 23 | Parma | 10 | 75 | 64 | 64 | 100% |
+| 1 | Zion Suzuki | ARQ | 23 | Parma | 10 | 75 | 64 | 64 | 95% |
 | 12 | Keisuke Osako | ARQ | 26 | Sanfrecce Hiroshima | 10 | 65 | 55 | 55 | 100% |
 | 23 | Tomoki Hayakawa | ARQ | 24 | Kashima Antlers | 10 | 64 | 54 | 54 | 100% |
-| 2 | Yukinari Sugawara | DEF | 25 | Werder Bremen | 22 | 73 | 69 | 58 | 100% |
-| 3 | Hiroki Ito | DEF | 27 | Bayern Munich | 25 | 84 | 80 | 67 | 100% |
-| 4 | Ko Itakura | DEF | 28 | Ajax | 23 | 78 | 74 | 62 | 100% |
-| 5 | Takehiro Tomiyasu | DEF | 27 | Ajax | 23 | 78 | 74 | 62 | 100% |
+| 2 | Yukinari Sugawara | DEF | 25 | Werder Bremen | 22 | 73 | 69 | 58 | 95% |
+| 3 | Hiroki Ito | DEF | 27 | Bayern Munich | 25 | 84 | 80 | 67 | 95% |
+| 4 | Ko Itakura | DEF | 28 | Ajax | 23 | 78 | 74 | 62 | 95% |
+| 5 | Takehiro Tomiyasu | DEF | 27 | Ajax | 23 | 78 | 74 | 62 | 95% |
 | 13 | Tsuyoshi Watanabe | DEF | 28 | Feyenoord | 22 | 73 | 69 | 58 | 100% |
 | 14 | Shogo Taniguchi | DEF | 34 | St. Truiden | 20 | 67 | 64 | 54 | 100% |
 | 15 | Ayumu Seko | DEF | 25 | Le Havre | 21 | 70 | 67 | 56 | 100% |
 | 16 | Junnosuke Suzuki | DEF | 22 | Copenhague | 21 | 70 | 67 | 56 | 100% |
 | 22 | Yuto Nagatomo | DEF | 39 | FC Tokyo | 19 | 62 | 53 | 50 | 100% |
-| 6 | Wataru Endo (C) | VOL | 32 | Liverpool | 60 | 65 | 82 | 86 | 100% |
-| 8 | Kaishu Sano | VOL | 25 | Mainz 05 | 52 | 55 | 73 | 74 | 100% |
+| 6 | Wataru Endo (C) | VOL | 32 | Liverpool | 60 | 65 | 82 | 86 | 95% |
+| 8 | Kaishu Sano | VOL | 25 | Mainz 05 | 52 | 55 | 73 | 74 | 98% |
 | 10 | Daichi Kamada | VOL | 29 | Crystal Palace | 65 | 50 | 73 | 78 | 100% |
-| 11 | Takefusa Kubo | VOL | 24 | Real Sociedad | 80 | 35 | 71 | 82 | 100% |
-| 17 | Ao Tanaka | VOL | 27 | Leeds United | 50 | 50 | 71 | 71 | 100% |
-| 18 | Junya Ito | VOL | 32 | Genk | 65 | 35 | 71 | 71 | 100% |
-| 19 | Ritsu Doan | VOL | 27 | Eintracht Frankfurt | 78 | 30 | 73 | 78 | 100% |
-| 20 | Keito Nakamura | VOL | 25 | Stade de Reims | 65 | 35 | 72 | 72 | 100% |
-| 21 | Yuito Suzuki | VOL | 23 | Freiburg | 55 | 40 | 70 | 75 | 100% |
-| 7 | Daizen Maeda | DEL | 28 | Celtic | 73 | 22 | 78 | 73 | 100% |
-| 9 | Ayase Ueda | DEL | 27 | Feyenoord | 75 | 22 | 75 | 71 | 100% |
+| 11 | Takefusa Kubo | VOL | 24 | Real Sociedad | 80 | 35 | 71 | 82 | 95% |
+| 17 | Ao Tanaka | VOL | 27 | Leeds United | 50 | 50 | 71 | 71 | 95% |
+| 18 | Junya Ito | VOL | 32 | Genk | 65 | 35 | 71 | 71 | 98% |
+| 19 | Ritsu Doan | VOL | 27 | Eintracht Frankfurt | 78 | 30 | 73 | 78 | 95% |
+| 20 | Keito Nakamura | VOL | 25 | Stade de Reims | 65 | 35 | 72 | 72 | 98% |
+| 21 | Yuito Suzuki | VOL | 23 | Freiburg | 55 | 40 | 70 | 75 | 98% |
+| 7 | Daizen Maeda | DEL | 28 | Celtic | 73 | 22 | 78 | 73 | 95% |
+| 9 | Ayase Ueda | DEL | 27 | Feyenoord | 75 | 22 | 75 | 71 | 98% |
 | 24 | Koki Ogawa | DEL | 27 | NEC Nijmegen | 72 | 22 | 73 | 68 | 100% |
 | 25 | Keisuke Goto | DEL | 21 | St. Truiden | 70 | 21 | 70 | 67 | 100% |
 | 26 | Kento Shiogai | DEL | 23 | Wolfsburg | 73 | 22 | 73 | 69 | 100% |
@@ -63,23 +63,27 @@
 - Takumi Minamino — fuera del Mundial por lesión de LCA.
 - Hidemasa Morita — descartado del plantel final (decisión técnica + forma).
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-14 vs Países Bajos (Mundial J1): 1-2 (D)
 - 2026-03-XX vs Inglaterra (amistoso): 0-2 (D)
 - 2026-03-XX vs Escocia (amistoso): 1-1 (E)
 - 2026-03-XX vs Corea del Sur: 2-1 (V)
 - 2026-03-XX vs Bahréin: 5-0 (V)
-- 2025-11-XX vs Indonesia: 4-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 15/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 1  | 2  | −1 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Daizen Maeda: 1 gol (71' vs Países Bajos, J1)
+
+### En capilla (amarillas acumuladas)
+- Ko Itakura: 1 amarilla (19' vs Países Bajos)
+- Ritsu Doan: 1 amarilla (74' vs Países Bajos)
 
 ## Historial vs rivales del grupo
 - vs Países Bajos: 4-0 derrota japonesa Brasil 2014 octavos; amistoso 2025 2-1 derrota.

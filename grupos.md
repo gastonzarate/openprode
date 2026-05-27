@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-14 — Alemania 3-0 Curazao
+> Actualizado tras: 2026-06-14 — Países Bajos 2-1 Japón
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -47,10 +47,10 @@
 ## Grupo F
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Países Bajos | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Japón | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Túnez | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Suecia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Países Bajos | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
+| 2 | Túnez | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Suecia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Japón | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
 
 ## Grupo G
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
