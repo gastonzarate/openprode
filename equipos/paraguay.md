@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 72
 - Físico: 78
-- Moral: 80
+- Moral: 75
 - Cohesión: 80
 - Experiencia: 66
 
@@ -59,25 +59,29 @@
 4-4-2: R. Fernández; Cáceres, G. Gómez, Alderete, J. Alonso; Almirón, A. Cubas, D. Gómez, R. Sosa; J. Enciso, Sanabria.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## En capilla (1 amarilla acumulada)
+- Juan Cáceres 🟨 (J1 vs USA — penal)
+- Omar Alderete 🟨 (J1 vs USA)
+
+## Forma reciente (últimos 5 partidos, incluido Mundial)
+- 2026-06-12 vs EE.UU.: 1-2 (D) — **J1 Mundial**
 - 2026-03-XX vs Brasil: 0-1 (D)
 - 2026-03-XX vs Uruguay: 1-0 (V)
 - 2025-11-XX vs Bolivia: 2-1 (V)
 - 2025-10-XX vs Argentina: 1-2 (D)
-- 2025-09-XX vs Venezuela: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 1  | 2  | −1 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Antonio Sanabria: 1 gol (51' cabezazo vs USA · J1)
 
 ## Historial vs rivales del grupo
 - vs EE.UU.: pocos enfrentamientos directos.
