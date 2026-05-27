@@ -59,7 +59,7 @@
 - **12'**: M. Al-Mardi frena la salida de Laimer y recibe amarilla simbólica... el árbitro lo deja pasar. Juego físico temprano.
 - **13'**: Arnautović pide la pelota de cara, la recibe de Alaba y la da en primera a Gregoritsch, que dispara pero lo tapan.
 - **14'**: Al-Tamari recibe en tres cuartos y conduce hacia el centro, se la da a Al-Mawas, que tira desde lejos. Sin ángulo, Pentz la agarra sin problemas.
-- **15'**: Fin del período de J1_INICIO. El partido se estabiliza. Austria 65% de posesión en este tramo.
+- **15'**: Fin del período de J1_INICIO. El partido se estabiliza. Austria 64% de posesión en este tramo.
 - **16'**: Laimer con una recuperación brillante en mitad de cancha, Austria transiciona. Baumgartner conduce y busca a Arnautović, que está en posición de offside. Bandera en alto.
 - **17'**: Reanudación con pelota de Austria desde el medio. Circulación lenta buscando el hueco.
 - **18'**: Seiwald al espacio, Sabitzer entra veloz por derecha pero el pase llega un instante tarde. Lateral.
@@ -157,8 +157,8 @@
 
 | Estadística | Austria 🇦🇹 | Jordania 🇯🇴 |
 |---|---|---|
-| Posesión | 67% | 33% |
-| Tiros (al arco) | 14 (6) | 7 (3) |
+| Posesión | 64% | 36% |
+| Tiros (al arco) | 14 (6) | 8 (3) |
 | Córners | 6 | 3 |
 | Faltas | 9 | 13 |
 | Amarillas | 1 | 1 |
