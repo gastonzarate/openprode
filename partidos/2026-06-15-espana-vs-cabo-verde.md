@@ -150,8 +150,8 @@
 | Estadística | España 🇪🇸 | Cabo Verde 🇨🇻 |
 |---|---|---|
 | Posesión | 68% | 32% |
-| Tiros (al arco) | 14 (7) | 4 (1) |
-| Córners | 6 | 2 |
+| Tiros (al arco) | 21 (9) | 6 (2) |
+| Córners | 8 | 2 |
 | Faltas | 8 | 14 |
 | Amarillas | 0 | 2 |
 | Rojas | 0 | 0 |
