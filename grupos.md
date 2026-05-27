@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-13 — Haití 0-2 Escocia
+> Actualizado tras: 2026-06-14 — Australia 1-2 Turquía
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -30,9 +30,11 @@
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | Estados Unidos | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Australia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Turquía | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Turquía | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
+| 3 | Australia | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
 | 4 | Paraguay | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
+
+> ⚠️ EE.UU. y Turquía igualados en Pts/DG/GF — posición provisional hasta próximos partidos o criterio disciplinario.
 
 ## Grupo E
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
