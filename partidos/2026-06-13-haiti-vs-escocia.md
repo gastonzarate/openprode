@@ -178,7 +178,7 @@ Christie la mueve rápido a Robertson por la izquierda. Robertson no centra esta
 
 | Estadística | 🇭🇹 Haití | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia |
 |-------------|-----------|----------|
-| Posesión | 34% | 66% |
+| Posesión | 35% | 65% |
 | Tiros totales | 8 | 14 |
 | Tiros a puerta | 3 | 6 |
 | Corners | 3 | 6 |
