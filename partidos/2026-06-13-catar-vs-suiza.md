@@ -73,7 +73,7 @@
 - **22'**: Otro córner suizo. Rodríguez lo coloca al segundo palo. Aebischer llega desde la segunda línea. Remate con la derecha al vuelo: Barsham la saca con el puño hacia afuera. ¡Qué reflejos!
 - **23'**: Catar consigue mantener la pelota durante cinco toques consecutivos. Hatem la cede hacia atrás para Boudiaf en el mediocampo. Freuler recupera la presión sin darle tiempo a girar.
 - **24'**: Freuler la da a Embolo en el carril izquierdo. El delantero suizo la controla, mira y busca a Ndoye con un pase largo al otro lado del área. Ndoye la baja de pecho y centra al área. P. Miguel la despeja de cabeza.
-- **25'**: Suiza tiene el 70% de la posesión en los primeros 25 minutos. Catar defiende en orden pero sin espacio para respirar.
+- **25'**: Suiza tiene el 65% de la posesión en los primeros 25 minutos. Catar defiende en orden pero sin espacio para respirar.
 - **26'**: Afif pide el balón en profundidad por la izquierda. Widmer no llega a tiempo. ¡Afif escapa! Conduce con velocidad hasta el borde del área suiza. Akanji sale a cerrarlo y lo frena con clase antes de que dispare.
 - **27'**: El estadio aplaude la jugada de Afif. El extremo de Al-Sadd es la única válvula de escape catarí. Luis Garcia sabe que necesita más de su figura.
 - **28'**: Suiza arma de nuevo. Xhaka y Freuler se combinan en el doble pivote. La ceden a Aebischer que la busca a Okafor en el carril derecho interior.
@@ -158,9 +158,9 @@
 
 | Estadística | Catar | Suiza |
 |---|---|---|
-| Posesión | 32% | 68% |
-| Tiros (al arco) | 7 (3) | 18 (9) |
-| Córners | 3 | 10 |
+| Posesión | 38% | 62% |
+| Tiros (al arco) | 9 (3) | 16 (6) |
+| Córners | 3 | 7 |
 | Faltas | 11 | 8 |
 | Amarillas | 2 | 0 |
 | Rojas | 0 | 0 |
