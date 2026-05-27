@@ -49,3 +49,10 @@ Ver sección 8 del spec en `docs/superpowers/specs/2026-05-26-prode-mundial-desi
 ## Idioma
 
 Todo en **español argentino**: relatos, archivos, comentarios.
+
+## Estado
+
+- ✅ Skills implementadas: `inicializar-mundial`, `simular-partido`.
+- ⏭ Bootstrap pendiente: invocar `inicializar-mundial` para generar `fixture.md`, `grupos.md` y los 48 archivos de `equipos/`.
+- 🏃 Simulación pendiente. Partidos completados: 0/72. Ver `fixture.md` tras el bootstrap.
+- 🚧 Eliminatorias fuera de alcance — spec separado a partir de fase de grupos completa.
