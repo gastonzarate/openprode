@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último partido simulado: 2026-06-16 — Irak 0-3 Noruega
-> Próximo partido pendiente: 2026-06-16 — Argentina vs Argelia (20:00, Arrowhead Stadium, Kansas City)
+> Último partido simulado: 2026-06-16 — Argentina 3-1 Argelia
+> Próximo partido pendiente: 2026-06-17 — Austria vs Jordania (03:00, Levi's Stadium, Santa Clara)
 
 ## Fase de Grupos
 
@@ -27,7 +27,7 @@
 | 2026-06-16 | 03:00 | SoFi Stadium, Inglewood | G | Irán | Nueva Zelanda | ✅ Jugado | 2-0 | [ver](partidos/2026-06-16-iran-vs-nueva-zelanda.md) |
 | 2026-06-16 | 15:00 | MetLife Stadium, East Rutherford | I | Francia | Senegal | ✅ Jugado | 2-1 | [ver](partidos/2026-06-16-francia-vs-senegal.md) |
 | 2026-06-16 | 18:00 | Gillette Stadium, Foxborough | I | Irak | Noruega | ✅ Jugado | 0-3 | [ver](partidos/2026-06-16-irak-vs-noruega.md) |
-| 2026-06-16 | 20:00 | Arrowhead Stadium, Kansas City | J | Argentina | Argelia | ⏳ Pendiente | — | — |
+| 2026-06-16 | 20:00 | Arrowhead Stadium, Kansas City | J | Argentina | Argelia | ✅ Jugado | 3-1 | [ver](partidos/2026-06-16-argentina-vs-argelia.md) |
 | 2026-06-17 | 03:00 | Levi's Stadium, Santa Clara | J | Austria | Jordania | ⏳ Pendiente | — | — |
 | 2026-06-17 | 12:00 | NRG Stadium, Houston | K | Portugal | RD del Congo | ⏳ Pendiente | — | — |
 | 2026-06-17 | 15:00 | AT&T Stadium, Arlington | L | Inglaterra | Croacia | ⏳ Pendiente | — | — |

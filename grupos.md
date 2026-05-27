@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-16 — Irak 0-3 Noruega
+> Actualizado tras: 2026-06-16 — Argentina 3-1 Argelia
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -85,10 +85,12 @@
 ## Grupo J
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Argentina | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Argelia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Austria | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Jordania | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Argentina | 1 | 1 | 0 | 0 | 3 | 1 | +2 | 3 |
+| 2 | Austria | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Jordania | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Argelia | 1 | 0 | 0 | 1 | 1 | 3 | −2 | 0 |
+
+> Austria y Jordania aún no disputaron su J1 (2026-06-17).
 
 ## Grupo K
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
