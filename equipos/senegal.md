@@ -21,7 +21,7 @@
 - Defensa: 82
 - Arco: 84
 - Físico: 86
-- Moral: 80
+- Moral: 75
 - Cohesión: 80
 - Experiencia: 76
 
@@ -60,25 +60,26 @@
 4-3-3: É. Mendy; Diatta, Koulibaly, A. Diallo, Jakobs; I. Gana Gueye, P. M. Sarr, Diarra; I. Sarr, Mané, Jackson.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
+- **En capilla (1 amarilla):** Idrissa Gana Gueye (🟨 min 19', J1 vs Francia), Pape Matar Sarr (🟨 min 63', J1 vs Francia).
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-16 vs Francia: 0-1 (D) — Grupo I J1 Mundial 2026
 - 2026-03-XX vs Sudán: 4-0 (V)
 - 2026-03-XX vs Togo: 2-0 (V)
 - 2025-11-XX vs RD Congo: 2-1 (V)
 - 2025-10-XX vs Mauritania: 1-0 (V)
-- 2025-09-XX vs Burkina Faso: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 0  | 1  | -1 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- (ninguno)
 
 ## Historial vs rivales del grupo
 - vs Francia: 1-0 victoria senegalesa Corea/Japón 2002; 3-0 derrota amistoso 2025.
