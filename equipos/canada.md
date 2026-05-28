@@ -23,7 +23,7 @@
 - Defensa: 72
 - Arco: 74
 - Físico: 80
-- Moral: 78
+- Moral: 76
 - Cohesión: 78
 - Experiencia: 60
 
@@ -62,29 +62,30 @@
 
 ## Lesionados / Suspendidos
 - Alphonso Davies (DEL): lesión muscular de Bayern Munich, duda para debut del 12/06. Recuperación en curso.
+- Cyle Larin (DEL): molestia en tobillo derecho (min. 70 vs Bosnia). **Duda para J2 (vs Catar, 2026-06-18).**
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-12 vs Bosnia y Herzegovina: 0-0 (E) — Grupo B J1 Mundial 2026
 - 2026-03-XX vs Estados Unidos: 1-1 (E)
 - 2026-03-XX vs Panamá: 3-1 (V)
 - 2025-11-XX vs Surinam: 4-0 (V)
 - 2025-10-XX vs México: 0-2 (D)
-- 2025-09-XX vs Australia: 2-2 (E)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 0  | 0  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- (ninguno)
 
 ## Historial vs rivales del grupo
+- vs Bosnia y Herzegovina: 1 PJ — 2026-06-12, 0-0 empate (J1 Mundial 2026).
 - vs Suiza: pocos enfrentamientos, balance favorable suizo.
 - vs Catar: sin antecedentes registrados relevantes.
-- vs Bosnia y Herzegovina: sin antecedentes registrados.
 
 ---
 > Fuente: WebSearch 2026-05-27 (TSN, FoxSports, ESPN).

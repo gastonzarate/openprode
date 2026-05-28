@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último: 2026-06-11 — Corea del Sur 1-1 Chequia
-> Próximo: 2026-06-12 — Canadá vs Bosnia y Herzegovina (15:00, BMO Field, Toronto)
+> Último: 2026-06-12 — Canadá 0-0 Bosnia y Herzegovina
+> Próximo: 2026-06-12 — Estados Unidos vs Paraguay (18:00, SoFi Stadium, Inglewood)
 
 ## Fase de Grupos
 
@@ -11,7 +11,7 @@
 |-------|------|------|-------|-------|-----------|--------|-----------|---------|
 | 2026-06-11 | 13:00 | Estadio Azteca, Ciudad de México | A | México | Sudáfrica | ✅ Jugado | 1-0 | [ver](partidos/2026-06-11-mexico-vs-sudafrica.md) |
 | 2026-06-11 | 20:00 | Estadio Akron, Zapopan | A | Corea del Sur | Chequia | ✅ Jugado | 1-1 | [ver](partidos/2026-06-11-corea-del-sur-vs-chequia.md) |
-| 2026-06-12 | 15:00 | BMO Field, Toronto | B | Canadá | Bosnia y Herzegovina | ⏳ Pendiente | — | — |
+| 2026-06-12 | 15:00 | BMO Field, Toronto | B | Canadá | Bosnia y Herzegovina | ✅ Jugado | 0-0 | [ver](partidos/2026-06-12-canada-vs-bosnia-y-herzegovina.md) |
 | 2026-06-12 | 18:00 | SoFi Stadium, Inglewood | D | Estados Unidos | Paraguay | ⏳ Pendiente | — | — |
 | 2026-06-13 | 12:00 | Levi's Stadium, Santa Clara | B | Catar | Suiza | ⏳ Pendiente | — | — |
 | 2026-06-13 | 18:00 | MetLife Stadium, East Rutherford | C | Brasil | Marruecos | ⏳ Pendiente | — | — |

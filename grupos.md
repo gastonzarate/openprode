@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-11 — Corea del Sur 1-1 Chequia
+> Actualizado tras: 2026-06-12 — Canadá 0-0 Bosnia y Herzegovina
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -13,10 +13,10 @@
 ## Grupo B
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Canadá | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Suiza | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Catar | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Bosnia y Herzegovina | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Canadá 🇨🇦 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 2 | Bosnia y Herzegovina 🇧🇦 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 3 | Suiza | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Catar | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Grupo C
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |

@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 72
 - Físico: 70
-- Moral: 84
+- Moral: 86
 - Cohesión: 78
 - Experiencia: 76
 
@@ -59,28 +59,33 @@
 4-3-3: Vasilj; Dedić, Ahmedhodžić, Katić, Kolašinac; Krunić, Pjanić, Tahirović; Višća, Džeko, Demirović.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## En capilla (1 amarilla acumulada en el Mundial)
+- Sead Kolašinac (DEF) — 1 amarilla (min. 42 vs Canadá)
+- Miralem Pjanić (VOL) — 1 amarilla (min. 50 vs Canadá)
+- Anel Ahmedhodžić (DEF) — 1 amarilla (min. 90'+2 vs Canadá)
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-12 vs Canadá: 0-0 (E) — Grupo B J1 Mundial 2026 (Vasilj MVP)
 - 2026-03-XX vs Italia: 1-1 (4-2 pen, V) — repechaje final
 - 2026-03-XX vs Gales: 0-0 (5-3 pen, V) — semi repechaje
 - 2025-11-XX vs Eslovaquia: 1-1 (E)
 - 2025-10-XX vs Austria: 1-2 (D)
-- 2025-09-XX vs Liechtenstein: 6-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 0  | 0  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- (ninguno)
 
 ## Historial vs rivales del grupo
-- vs Canadá: sin antecedentes registrados.
+- vs Canadá: 1 PJ — 2026-06-12, 0-0 empate (J1 Mundial 2026). Vasilj MVP.
 - vs Suiza: rivalidad UEFA, balance ligeramente favorable a Suiza.
 - vs Catar: sin antecedentes registrados.
 
