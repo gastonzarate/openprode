@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 80
 - Físico: 80
-- Moral: 78
+- Moral: 80
 - Cohesión: 78
 - Experiencia: 68
 
@@ -61,23 +61,26 @@
 ## Lesionados / Suspendidos
 - Riley McGree (VOL): lesión muscular, fuera del Mundial.
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+### En capilla (1 amarilla acumulada — próximo partido: vs EE.UU., J2)
+- Kye Rowles 🟨 (45'+1' vs Turquía — tackle duro)
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-14 vs Turquía: 1-1 (E) — Mundial 2026, Grupo D, J1
 - 2026-03-XX vs Indonesia: 5-1 (V)
 - 2026-03-XX vs Bahréin: 1-0 (V)
 - 2025-11-XX vs Canadá: 2-2 (E)
 - 2025-10-XX vs Corea del Sur: 1-1 (E)
-- 2025-09-XX vs Japón: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Ajdin Hrustic: 1 gol (penal, min. 84' vs Turquía, J1)
 
 ## Historial vs rivales del grupo
 - vs EE.UU.: 1V-1E balance reciente.

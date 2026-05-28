@@ -21,7 +21,7 @@
 - Defensa: 74
 - Arco: 74
 - Físico: 76
-- Moral: 80
+- Moral: 78
 - Cohesión: 78
 - Experiencia: 68
 
@@ -59,25 +59,30 @@
 4-2-3-1: U. Çakır; Ç. Söyüncü, M. Demiral, Kabak, F. Kadıoğlu; Çalhanoğlu, Kökçü; A. Güler, K. Yıldız, K. Aktürkoğlu; C. Ünder.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+### En capilla (1 amarilla acumulada — próximo partido: vs Paraguay, J2)
+- Kerem Aktürkoğlu 🟨 (36' vs Australia — simulación)
+- Çağlar Söyüncü 🟨 (72' vs Australia — falta dura sobre Duke)
+- Merih Demiral 🟨 (83' vs Australia — protestas al árbitro)
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-14 vs Australia: 1-1 (E) — Mundial 2026, Grupo D, J1
 - 2026-03-XX vs Hungría: 3-1 (V)
 - 2026-03-XX vs Austria: 1-2 (D)
 - 2025-11-XX vs Bulgaria: 6-1 (V)
 - 2025-11-XX vs Georgia: 3-2 (V)
-- 2025-10-XX vs España: 0-3 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Kenan Yıldız: 1 gol (jugada elaborada, min. 61' vs Australia, J1)
 
 ## Historial vs rivales del grupo
 - vs EE.UU.: 1-1 amistoso 2022, victoria turca 2-1 amistoso 2020.

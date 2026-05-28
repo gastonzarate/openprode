@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-13 — Haití 0-2 Escocia
+> Actualizado tras: 2026-06-14 — Australia 1-1 Turquía
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -31,8 +31,10 @@
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | Estados Unidos 🇺🇸 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
 | 2 | Paraguay 🇵🇾 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 3 | Australia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Turquía | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Australia 🇦🇺 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 4 | Turquía 🇹🇷 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+
+*Grupo D completamente igualado: los cuatro equipos con 1 punto y diferencia de gol 0. Criterio FIFA (GF): todos con 1 GF — se aplica sorteo si persiste al final de J3.*
 
 ## Grupo E
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
