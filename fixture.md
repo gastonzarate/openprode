@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último: 2026-06-17 — Austria 2-0 Jordania
-> Próximo: 2026-06-17 — Portugal vs RD del Congo (12:00, NRG Stadium, Houston)
+> Último: 2026-06-17 — Portugal 2-1 RD del Congo
+> Próximo: 2026-06-17 — Inglaterra vs Croacia (15:00, AT&T Stadium, Arlington)
 
 ## Fase de Grupos
 
@@ -29,7 +29,7 @@
 | 2026-06-16 | 18:00 | Gillette Stadium, Foxborough | I | Irak | Noruega | ✅ Jugado | 0-4 | [ver](partidos/2026-06-16-irak-vs-noruega.md) |
 | 2026-06-16 | 20:00 | Arrowhead Stadium, Kansas City | J | Argentina | Argelia | ✅ Jugado | 3-1 | [ver](partidos/2026-06-16-argentina-vs-argelia.md) |
 | 2026-06-17 | 03:00 | Levi's Stadium, Santa Clara | J | Austria | Jordania | ✅ Jugado | 2-0 | [ver](partidos/2026-06-17-austria-vs-jordania.md) |
-| 2026-06-17 | 12:00 | NRG Stadium, Houston | K | Portugal | RD del Congo | ⏳ Pendiente | — | — |
+| 2026-06-17 | 12:00 | NRG Stadium, Houston | K | Portugal | RD del Congo | ✅ Jugado | 2-1 | [ver](partidos/2026-06-17-portugal-vs-rd-del-congo.md) |
 | 2026-06-17 | 15:00 | AT&T Stadium, Arlington | L | Inglaterra | Croacia | ⏳ Pendiente | — | — |
 | 2026-06-17 | 19:00 | BMO Field, Toronto | L | Ghana | Panamá | ⏳ Pendiente | — | — |
 | 2026-06-17 | 20:00 | Estadio Azteca, Ciudad de México | K | Uzbekistán | Colombia | ⏳ Pendiente | — | — |

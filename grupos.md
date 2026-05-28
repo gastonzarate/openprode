@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-17 — Austria 2-0 Jordania
+> Actualizado tras: 2026-06-17 — Portugal 2-1 RD del Congo
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -95,10 +95,10 @@
 ## Grupo K
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Portugal | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Colombia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Uzbekistán | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | RD del Congo | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Portugal 🇵🇹 | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
+| 2 | Colombia 🇨🇴 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Uzbekistán 🇺🇿 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | RD del Congo 🇨🇩 | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
 
 ## Grupo L
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
