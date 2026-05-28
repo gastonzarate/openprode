@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último: 2026-06-12 — Estados Unidos 1-1 Paraguay
-> Próximo: 2026-06-13 — Catar vs Suiza (12:00, Levi's Stadium, Santa Clara)
+> Último: 2026-06-13 — Catar 0-2 Suiza
+> Próximo: 2026-06-13 — Brasil vs Marruecos (18:00, MetLife Stadium, East Rutherford)
 
 ## Fase de Grupos
 
@@ -13,7 +13,7 @@
 | 2026-06-11 | 20:00 | Estadio Akron, Zapopan | A | Corea del Sur | Chequia | ✅ Jugado | 1-1 | [ver](partidos/2026-06-11-corea-del-sur-vs-chequia.md) |
 | 2026-06-12 | 15:00 | BMO Field, Toronto | B | Canadá | Bosnia y Herzegovina | ✅ Jugado | 0-0 | [ver](partidos/2026-06-12-canada-vs-bosnia-y-herzegovina.md) |
 | 2026-06-12 | 18:00 | SoFi Stadium, Inglewood | D | Estados Unidos | Paraguay | ✅ Jugado | 1-1 | [ver](partidos/2026-06-12-estados-unidos-vs-paraguay.md) |
-| 2026-06-13 | 12:00 | Levi's Stadium, Santa Clara | B | Catar | Suiza | ⏳ Pendiente | — | — |
+| 2026-06-13 | 12:00 | Levi's Stadium, Santa Clara | B | Catar | Suiza | ✅ Jugado | 0-2 | [ver](partidos/2026-06-13-catar-vs-suiza.md) |
 | 2026-06-13 | 18:00 | MetLife Stadium, East Rutherford | C | Brasil | Marruecos | ⏳ Pendiente | — | — |
 | 2026-06-13 | 21:00 | Gillette Stadium, Foxborough | C | Haití | Escocia | ⏳ Pendiente | — | — |
 | 2026-06-14 | 03:00 | BC Place, Vancouver | D | Australia | Turquía | ⏳ Pendiente | — | — |

@@ -21,7 +21,7 @@
 - Defensa: 64
 - Arco: 66
 - Físico: 68
-- Moral: 70
+- Moral: 62
 - Cohesión: 88
 - Experiencia: 55
 
@@ -59,29 +59,29 @@
 3-5-2: Barsham; P. Miguel, Khoukhi, Al-Rawi; H. Ahmed, Hatem, Madibo, Boudiaf, T. Salman; Afif, Almoez Ali.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- **En capilla (1 amarilla):** Assim Madibo (🟨 vs Suiza, J1)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-13 vs Suiza: 0-2 (D) — Grupo B J1 Mundial 2026
 - 2026-03-XX vs Uzbekistán: 0-1 (D)
 - 2026-03-XX vs Emiratos Árabes: 2-1 (V)
 - 2025-11-XX vs Irán: 1-2 (D)
 - 2025-10-XX vs Kuwait: 3-0 (V)
-- 2025-09-XX vs Corea del Norte: 0-0 (E)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- (ninguno)
 
 ## Historial vs rivales del grupo
 - vs Canadá: sin antecedentes registrados relevantes.
-- vs Suiza: sin antecedentes registrados.
+- vs Suiza: 0-2 (D) — J1 Mundial 2026, 2026-06-13.
 - vs Bosnia y Herzegovina: sin antecedentes registrados.
 
 ---
