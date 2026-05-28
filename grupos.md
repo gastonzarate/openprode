@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-15 — Arabia Saudita 1-1 Uruguay
+> Actualizado tras: 2026-06-16 — Irán 2-0 Nueva Zelanda
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -56,9 +56,11 @@
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | Bélgica 🇧🇪 | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Irán 🇮🇷 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Nueva Zelanda 🇳🇿 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Egipto 🇪🇬 | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
+| 2 | Irán 🇮🇷 | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
+| 3 | Egipto 🇪🇬 | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
+| 4 | Nueva Zelanda 🇳🇿 | 1 | 0 | 0 | 1 | 0 | 2 | −2 | 0 |
+
+*Bélgica e Irán iguales en Pts (3). Irán aventaja por DG (+2 vs +1). Egipto sobre NZ por GF (1 vs 0).*
 
 ## Grupo H
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
