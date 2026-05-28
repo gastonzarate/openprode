@@ -21,7 +21,7 @@
 - Defensa: 62
 - Arco: 64
 - Físico: 70
-- Moral: 78
+- Moral: 70
 - Cohesión: 72
 - Experiencia: 50
 
@@ -59,28 +59,32 @@
 4-3-3: Room; Brenet, Obispo, Bazoer, Sambo; Bacuna, Kuwas, J. Bacuna; Chong, L. García, Hansen.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## En capilla (1 amarilla acumulada)
+- Joshua Brenet 🟨 (45' vs Alemania)
+- Riechedly Bazoer 🟨 (67' vs Alemania)
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-14 vs Alemania: 0-3 (D) — Mundial J1
 - 2026-03-XX vs Jamaica: 1-0 (V) — repechaje intercontinental
 - 2026-03-XX vs Haití: 0-1 (D)
 - 2025-11-XX vs Trinidad: 2-1 (V)
 - 2025-10-XX vs El Salvador: 1-1 (E)
-- 2025-09-XX vs Granada: 4-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 15/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 0  | 3  | -3 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- (ninguno)
 
 ## Historial vs rivales del grupo
-- vs Alemania: sin antecedentes registrados.
+- vs Alemania: **J1 2026-06-14 — 0-3 (D)** [ver](../partidos/2026-06-14-alemania-vs-curazao.md)
 - vs Costa de Marfil: sin antecedentes registrados.
 - vs Ecuador: sin antecedentes registrados.
 

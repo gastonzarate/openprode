@@ -21,7 +21,7 @@
 - Defensa: 82
 - Arco: 85
 - Físico: 80
-- Moral: 78
+- Moral: 83
 - Cohesión: 80
 - Experiencia: 84
 
@@ -61,26 +61,28 @@
 ## Lesionados / Suspendidos
 - (ninguno al inicio del Mundial)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-14 vs Curazao: 3-0 (V) — Mundial J1
 - 2026-03-XX vs Italia: 2-1 (V)
 - 2026-03-XX vs Países Bajos: 2-2 (E)
 - 2025-11-XX vs Hungría: 7-0 (V)
 - 2025-10-XX vs Bosnia: 4-0 (V)
-- 2025-09-XX vs Países Bajos: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 15/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 3  | 0  | +3 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Florian Wirtz: 1 gol (20' vs Curazao — jugada elaborada)
+- Leroy Sané: 1 gol (54' vs Curazao — individual)
+- Antonio Rüdiger: 1 gol (79' vs Curazao — cabezazo)
 
 ## Historial vs rivales del grupo
-- vs Curazao: sin antecedentes registrados.
+- vs Curazao: **J1 2026-06-14 — 3-0 (V)** [ver](../partidos/2026-06-14-alemania-vs-curazao.md)
 - vs Costa de Marfil: Mundial 2006 fase grupos: 0-0 (E), 1V-2E balance histórico.
 - vs Ecuador: amistosos balanced, balance 1V-1E.
 
