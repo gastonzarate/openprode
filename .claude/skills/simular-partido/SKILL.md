@@ -142,6 +142,28 @@ Combinar lo del Paso 2 (equipos) y Paso 3 (internet) para determinar y guardar:
 
 7. **Asistencia esperada**: capacidad del estadio (de Wikipedia / dato del paso de inicialización). Si hay localía pura: 95-100% de capacidad. Si no: 70-90%.
 
+8. **🍀 Factor Suerte del día** (sorteo al inicio, NO muy random — efectos sutiles):
+
+   Tirar un dado ponderado de 5 caras. Distribución:
+   - **0 (neutro)**: 40% de los partidos. Sin efectos especiales.
+   - **+1 / −1 (suerte leve)**: 20% cada uno. Un evento favorable o desfavorable durante el partido.
+   - **+2 / −2 (suerte fuerte, raro)**: 10% cada uno. Un evento decisivo que puede cambiar el resultado.
+
+   **Asignación**: la suerte se aplica al **equipo del sorteo** (50/50 local/visitante). Resultado:
+   - Suerte +1 a equipo X: 1 evento favorable para X (atajada espectacular del arquero rival → no entra un gol cantado; tiro al palo del rival; offside mínimo que anula un gol del rival).
+   - Suerte −1 a equipo X: 1 evento desfavorable (tiro al palo propio que no entra; lesión inoportuna; tarjeta dudosa).
+   - Suerte +2 a equipo X: 1 evento decisivo a favor (penal dudoso convertido; gol con desvío en defensor; rebote favorable que termina en gol).
+   - Suerte −2 a equipo X: 1 evento decisivo en contra (gol en propia; expulsión polémica; penal en contra; gol bien anulado por VAR).
+
+   **Cómo aplicar**:
+   - Si la suerte es 0: no menciones nada especial.
+   - Si la suerte es ±1: insertá UN evento puntual en algún minuto del partido. El evento puede modular el marcador (por ej. el favorito ganaba 2-1, con suerte −1 termina 1-1 porque atajada milagrosa evitó su 2° gol).
+   - Si la suerte es ±2: insertá UN evento decisivo que SÍ cambia el marcador esperado. Ej: un partido que iba 1-0 favorito con suerte −2 a favorito termina 0-0 o incluso 0-1 por gol en propia + penal anulado.
+   - Marcalo en el relato con 🍀 (suerte favorable) o 🌧 (mala suerte) en la línea del minuto.
+   - Documentá en sección 2 del MD del partido: "Suerte del día: X recibió +1 / −2 / neutro".
+
+   **Importante**: la suerte NO sobrescribe el factor narrativo principal. Es un modulador. Un choreo sigue siendo choreo aunque haya suerte negativa — quizás termina 2-0 en lugar de 4-0. Un partido parejo con suerte fuerte puede generar un empate sorpresivo o una victoria inesperada.
+
 Calcular las **Fuerzas Efectivas finales** de ambos equipos aplicando todos los ajustes anteriores. Guardar.
 
 ### Paso 5 — 10 corridas Monte Carlo silenciosas
@@ -178,20 +200,24 @@ Aplicar **el mismo algoritmo** que el Paso 5 una vez más (no usar ninguna de la
 
 Los LLMs tienden a sesgar hacia "victoria del favorito por la mínima con sufrimiento" (2-1) porque es la narrativa más rica. Esto NO es realista. En Mundiales reales la distribución es muy distinta. Antes de elegir el marcador, mirá esta tabla:
 
-**Distribución de marcadores típica en fútbol mundial:**
+**Distribución de marcadores en Mundiales (data histórica real):**
 
-| Marcador | Probabilidad base | Cuándo es más probable |
-|---|---|---|
-| 0-0 | ~7% | Dos defensas firmes, partido cerrado |
-| 1-0 / 0-1 | ~12% | Partido cerrado decidido por una jugada |
-| 1-1 | ~11% | Equipos parejos, ida y vuelta |
-| 2-0 / 0-2 | ~10% | Diferencia clara pero sin goleada |
-| 2-1 / 1-2 | ~14% | Favorito gana con susto |
-| 2-2 | ~5% | Partido loco, defensas mal |
-| 3-0 / 0-3 | ~5% | Diferencia notable |
-| 3-1 / 1-3 | ~6% | Diferencia con descuento |
-| 3-2 / 2-3 | ~3% | Partido espectacular |
-| 4+ | ~7% | Mauling — solo cuando hay abismo (Argentina-Argelia, España-Cabo Verde) |
+Top 6 marcadores cubren ~75% de partidos. Frecuencia histórica (todos los Mundiales):
+
+| Marcador | Histórico (todos) | J1 (más 2-1 típico) | Cuándo es más probable |
+|---|---|---|---|
+| 1-0 / 0-1 | ~16% (**el más común**) | ~16% | Partido cerrado, una jugada lo define |
+| 2-1 / 1-2 | ~14% | ~22% | Favorito gana con susto (típico J1) |
+| 2-0 / 0-2 | ~13% | ~14% | Diferencia clara sin goleada |
+| 0-0 | ~12% (Qatar 2022: 7 en J1) | ~10% | Dos defensas firmes / favoritos cautelosos |
+| 3-0 / 0-3 | ~10% | ~7% | Diferencia notable |
+| 1-1 | ~9% | ~12% | Equipos parejos |
+| 3-1 / 1-3 | ~5% | ~5% | Diferencia con descuento |
+| 2-2 | ~4% | ~4% | Partido loco |
+| 4+ | ~7% | ~5% | Solo cuando hay abismo (Argentina-Argelia, España-Cabo Verde) |
+| 3-2 / 2-3 | ~3% | ~3% | Partido espectacular |
+
+**🚨 Importante para J1:** El 1-0 es el marcador más común en Mundiales, y los empates 0-0 / 1-1 son ~21% del total. Si en una J1 de 24 partidos te están saliendo 0 ó 1 partido 1-0 y 0 empates, **algo está mal**. Esperado en J1 (24 partidos): ~4 partidos 1-0, ~5 partidos 2-1, ~3 partidos 2-0, ~3 empates.
 
 **Modulá las probabilidades según el diferencial de Fuerza Efectiva:**
 
