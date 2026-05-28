@@ -21,7 +21,7 @@
 - Defensa: 73
 - Arco: 73
 - Físico: 80
-- Moral: 75
+- Moral: 73
 - Cohesión: 80
 - Experiencia: 75
 
@@ -59,25 +59,28 @@
 4-2-3-1: Jo H.-w.; Seol, Kim M.-j., J. Castrop, Kim T.-h.; Hwang I.-b., Lee J.-s.; Son, Lee K.-i., Hwang H.-c.; Cho G.-s.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Seol Young-woo: reemplazado al 20' por molestia muscular (seguimiento)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Estado de ánimo / Capilla
+- J1_INICIO completado. Empate como favorito chico: moral −2. Seol Young-woo salió lesionado, incertidumbre para J2.
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-11 vs Chequia (Mundial J1): 1-1 (E)
 - 2026-03-XX vs Japón: 1-2 (D)
 - 2026-03-XX vs Bahréin: 4-0 (V)
 - 2025-11-XX vs Kuwait: 3-0 (V)
 - 2025-10-XX vs Irán: 1-1 (E)
-- 2025-09-XX vs Australia: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Son Heung-min: 1 gol (vs Chequia, 38', J1)
 
 ## Historial vs rivales del grupo
 - vs México: 5 enfrentamientos, balance equilibrado (incluye victoria coreana 2-1 en Rusia 2018).

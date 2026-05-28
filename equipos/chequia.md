@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 72
 - Físico: 76
-- Moral: 70
+- Moral: 72
 - Cohesión: 68
 - Experiencia: 70
 
@@ -59,25 +59,28 @@
 4-2-3-1: Staněk; Coufal, Krejčí, Hranáč, Jurásek; Souček, Provod; Hložek, Barák, Šulc; Schick.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Estado de ánimo / Capilla
+- J1_INICIO completado. Empate como no-favorito: moral +2. Souček como figura, pelota parada funcionó a la perfección.
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-11 vs Corea del Sur (Mundial J1): 1-1 (E)
 - 2026-03-XX vs Eslovaquia: 2-1 (V)
 - 2026-03-XX vs Suecia: 1-1 (E)
 - 2025-11-XX vs San Marino: 4-0 (V)
 - 2025-11-XX vs Ucrania: 1-0 (V)
-- 2025-10-XX vs Polonia: 0-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Tomáš Souček: 1 gol (vs Corea del Sur, 67', J1)
 
 ## Historial vs rivales del grupo
 - vs México: 1-1 amistoso 2014, sin antecedentes mundialistas.
