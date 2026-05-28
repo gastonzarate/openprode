@@ -21,7 +21,7 @@
 - Defensa: 60
 - Arco: 64
 - Físico: 72
-- Moral: 78
+- Moral: 70
 - Cohesión: 70
 - Experiencia: 50
 
@@ -59,25 +59,26 @@
 4-4-2: Placide; Duverne, R. Adé, Jean-Baptiste, Arcus; Saba, Jean Jacques, Sandapa, Lambese; W. Isidor, Nazon.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Stéphane Lambese: 🟨 1 amarilla acumulada (capilla — próximo: Brasil J2)
+- Soni Mustivar: 🟨 1 amarilla acumulada (capilla — próximo: Brasil J2)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-13 vs Escocia: 0-2 (D) — Mundial J1 Grupo C
 - 2026-03-XX vs Curazao: 1-0 (V) — eliminatoria CONCACAF
 - 2026-03-XX vs Costa Rica: 3-2 (V, hat-trick Nazon)
 - 2025-11-XX vs Honduras: 0-1 (D)
 - 2025-10-XX vs Jamaica: 1-1 (E)
-- 2025-09-XX vs Nicaragua: 4-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 0  | 2  | -2 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- (ninguno)
 
 ## Historial vs rivales del grupo
 - vs Brasil: sin antecedentes mundialistas relevantes; amistoso 2004 derrota 6-0.

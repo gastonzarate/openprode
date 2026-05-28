@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-13 — Brasil 2-1 Marruecos
+> Actualizado tras: 2026-06-13 — Haití 0-2 Escocia
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -22,9 +22,9 @@
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | Brasil 🇧🇷 | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Escocia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Haití 🇭🇹 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Marruecos 🇲🇦 | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
+| 2 | Escocia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
+| 3 | Marruecos 🇲🇦 | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
+| 4 | Haití 🇭🇹 | 1 | 0 | 0 | 1 | 0 | 2 | -2 | 0 |
 
 ## Grupo D
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |

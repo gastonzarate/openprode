@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último: 2026-06-13 — Brasil 2-1 Marruecos
-> Próximo: 2026-06-13 — Haití vs Escocia (21:00, Gillette Stadium, Foxborough)
+> Último: 2026-06-13 — Haití 0-2 Escocia
+> Próximo: 2026-06-14 — Australia vs Turquía (03:00, BC Place, Vancouver)
 
 ## Fase de Grupos
 
@@ -15,7 +15,7 @@
 | 2026-06-12 | 18:00 | SoFi Stadium, Inglewood | D | Estados Unidos | Paraguay | ✅ Jugado | 1-1 | [ver](partidos/2026-06-12-estados-unidos-vs-paraguay.md) |
 | 2026-06-13 | 12:00 | Levi's Stadium, Santa Clara | B | Catar | Suiza | ✅ Jugado | 0-2 | [ver](partidos/2026-06-13-catar-vs-suiza.md) |
 | 2026-06-13 | 18:00 | MetLife Stadium, East Rutherford | C | Brasil | Marruecos | ✅ Jugado | 2-1 | [ver](partidos/2026-06-13-brasil-vs-marruecos.md) |
-| 2026-06-13 | 21:00 | Gillette Stadium, Foxborough | C | Haití | Escocia | ⏳ Pendiente | — | — |
+| 2026-06-13 | 21:00 | Gillette Stadium, Foxborough | C | Haití | Escocia | ✅ Jugado | 0-2 | [ver](partidos/2026-06-13-haiti-vs-escocia.md) |
 | 2026-06-14 | 03:00 | BC Place, Vancouver | D | Australia | Turquía | ⏳ Pendiente | — | — |
 | 2026-06-14 | 12:00 | NRG Stadium, Houston | E | Alemania | Curazao | ⏳ Pendiente | — | — |
 | 2026-06-14 | 15:00 | AT&T Stadium, Arlington | F | Países Bajos | Japón | ⏳ Pendiente | — | — |

@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 72
 - Físico: 80
-- Moral: 80
+- Moral: 85
 - Cohesión: 84
 - Experiencia: 64
 
@@ -59,30 +59,31 @@
 3-4-2-1: Gunn; Hanley, Hendry, Tierney; Patterson, McGinn, Gilmour, Robertson; McTominay, Doak; Adams.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-13 vs Haití: 2-0 (V) — Mundial J1 Grupo C
 - 2026-03-XX vs Polonia: 1-1 (E)
 - 2026-03-XX vs Suiza: 0-0 (E)
 - 2025-11-XX vs Bielorrusia: 3-0 (V)
 - 2025-10-XX vs Grecia: 2-1 (V)
-- 2025-09-XX vs Croacia: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Scott McTominay: 1 gol (38' vs Haití, J1)
+- John McGinn: 1 gol (74' vs Haití, J1)
 
 ## Historial vs rivales del grupo
 - vs Brasil: histórico 0-2 (Francia 1998 fase grupos), 1-1 amistoso 2014.
 - vs Marruecos: 0-3 derrota escocesa, Francia 1998 fase grupos.
-- vs Haití: sin antecedentes registrados.
+- vs Haití: 2-0 (V) — Mundial 2026 J1, Gillette Stadium.
 
 ---
 > Fuente: WebSearch 2026-05-27 (ESPN, Scottish FA).
