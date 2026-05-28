@@ -21,7 +21,7 @@
 - Defensa: 74
 - Arco: 74
 - Físico: 84
-- Moral: 84
+- Moral: 89
 - Cohesión: 80
 - Experiencia: 64
 
@@ -61,28 +61,29 @@
 ## Lesionados / Suspendidos
 - (ninguno al inicio del Mundial)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-16 vs Irak: 4-0 (V) — Mundial 2026 J1
 - 2026-03-XX vs Israel: 5-0 (V)
 - 2026-03-XX vs Moldavia: 4-0 (V)
 - 2025-11-XX vs Italia: 3-1 (V) — eliminatorias
 - 2025-10-XX vs Estonia: 4-1 (V)
-- 2025-09-XX vs Suiza: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 4  | 0  | +4 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Erling Haaland: 3 goles (17', 31' 🍀, 70') — vs Irak J1
+- Martin Ødegaard: 1 gol (52') — vs Irak J1
 
 ## Historial vs rivales del grupo
 - vs Francia: balance 2V-2E-4D francés.
 - vs Senegal: sin antecedentes registrados.
-- vs Irak: sin antecedentes registrados.
+- vs Irak: 1V-0E-0D (4-0 · Mundial 2026 J1 · 2026-06-16).
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (NFF).

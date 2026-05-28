@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-16 — Francia 1-0 Senegal
+> Actualizado tras: 2026-06-16 — Irak 0-4 Noruega
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -76,9 +76,11 @@
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | Francia 🇫🇷 | 1 | 1 | 0 | 0 | 1 | 0 | +1 | 3 |
-| 2 | Noruega 🇳🇴 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Irak 🇮🇶 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Senegal 🇸🇳 | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 |
+| 2 | Noruega 🇳🇴 | 1 | 1 | 0 | 0 | 4 | 0 | +4 | 3 |
+| 3 | Senegal 🇸🇳 | 1 | 0 | 0 | 1 | 0 | 1 | −1 | 0 |
+| 4 | Irak 🇮🇶 | 1 | 0 | 0 | 1 | 0 | 4 | −4 | 0 |
+
+*Francia y Noruega iguales en Pts (3). Noruega aventaja por DG (+4 vs +1). Senegal sobre Irak por DG (−1 vs −4).*
 
 ## Grupo J
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
