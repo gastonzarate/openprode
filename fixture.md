@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último: 2026-06-14 — Costa de Marfil 0-1 Ecuador
-> Próximo: 2026-06-14 — Suecia vs Túnez (20:00, Estadio BBVA, Guadalupe)
+> Último: 2026-06-14 — Suecia 1-0 Túnez
+> Próximo: 2026-06-15 — España vs Cabo Verde (12:00, Mercedes-Benz Stadium, Atlanta)
 
 ## Fase de Grupos
 
@@ -20,7 +20,7 @@
 | 2026-06-14 | 12:00 | NRG Stadium, Houston | E | Alemania | Curazao | ✅ Jugado | 3-0 | [ver](partidos/2026-06-14-alemania-vs-curazao.md) |
 | 2026-06-14 | 15:00 | AT&T Stadium, Arlington | F | Países Bajos | Japón | ✅ Jugado | 2-1 | [ver](partidos/2026-06-14-paises-bajos-vs-japon.md) |
 | 2026-06-14 | 19:00 | Lincoln Financial Field, Philadelphia | E | Costa de Marfil | Ecuador | ✅ Jugado | 0-1 | [ver](partidos/2026-06-14-costa-de-marfil-vs-ecuador.md) |
-| 2026-06-14 | 20:00 | Estadio BBVA, Guadalupe | F | Suecia | Túnez | ⏳ Pendiente | — | — |
+| 2026-06-14 | 20:00 | Estadio BBVA, Guadalupe | F | Suecia | Túnez | ✅ Jugado | 1-0 | [ver](partidos/2026-06-14-suecia-vs-tunez.md) |
 | 2026-06-15 | 12:00 | Mercedes-Benz Stadium, Atlanta | H | España | Cabo Verde | ⏳ Pendiente | — | — |
 | 2026-06-15 | 15:00 | Lumen Field, Seattle | G | Bélgica | Egipto | ⏳ Pendiente | — | — |
 | 2026-06-15 | 18:00 | Hard Rock Stadium, Miami Gardens | H | Arabia Saudita | Uruguay | ⏳ Pendiente | — | — |

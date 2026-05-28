@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 72
 - Físico: 78
-- Moral: 72
+- Moral: 67
 - Cohesión: 80
 - Experiencia: 70
 
@@ -59,30 +59,30 @@
 4-3-3: Dahmen; Dräger, Talbi, Bronn, Maâloul; Skhiri, Laïdouni, Ben Romdhane; Msakni, Jebali, Sliti.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- **En capilla (1 amarilla):** Aïssa Laïdouni (🟨 J1 vs Suecia — próximo partido: vs Japón J2)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-14 vs Suecia: 0-1 (D) — Grupo F J1 · Gol en contra: Isak 56'
 - 2026-03-XX vs Marruecos: 1-1 (E)
 - 2026-03-XX vs Mauritania: 2-0 (V)
 - 2025-11-XX vs Namibia: 3-0 (V)
 - 2025-10-XX vs Liberia: 1-0 (V)
-- 2025-09-XX vs Guinea Ecuatorial: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 0  | 1  | −1 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- (ninguno)
 
 ## Historial vs rivales del grupo
 - vs Países Bajos: sin antecedentes mundialistas.
 - vs Japón: amistoso 2-0 derrota tunecina 2023.
-- vs Suecia: sin antecedentes registrados.
+- vs Suecia: 0V 1D — 2026-06-14 Túnez 0-1 Suecia (Grupo F J1).
 
 ---
 > Fuente: WebSearch 2026-05-27 (FIFA, Olympics.com, FourFourTwo).

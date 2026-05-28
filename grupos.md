@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-14 — Costa de Marfil 0-1 Ecuador
+> Actualizado tras: 2026-06-14 — Suecia 1-0 Túnez
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -48,9 +48,9 @@
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | Países Bajos 🇳🇱 | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Túnez 🇹🇳 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Suecia 🇸🇪 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Japón 🇯🇵 | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
+| 2 | Suecia 🇸🇪 | 1 | 1 | 0 | 0 | 1 | 0 | +1 | 3 |
+| 3 | Japón 🇯🇵 | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
+| 4 | Túnez 🇹🇳 | 1 | 0 | 0 | 1 | 0 | 1 | −1 | 0 |
 
 ## Grupo G
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |

@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 74
 - Físico: 82
-- Moral: 78
+- Moral: 82
 - Cohesión: 76
 - Experiencia: 72
 
@@ -59,30 +59,30 @@
 4-4-2: R. Olsen; Krafth, Lindelöf, Hien, Gudmundsson; Kulusevski, Svanberg, H. Larsson, Elanga; Gyökeres, Isak.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- **En capilla (1 amarilla):** Victor Lindelöf (🟨 J1 vs Túnez — próximo partido: vs Países Bajos J2)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-14 vs Túnez: 1-0 (V) — Grupo F J1 · Gol: Isak 56'
 - 2026-03-XX vs Chequia: 1-1 (E)
 - 2026-03-XX vs Albania: 4-1 (V)
 - 2025-11-XX vs Suiza: 2-1 (V)
 - 2025-10-XX vs Eslovenia: 2-1 (V)
-- 2025-09-XX vs Estonia: 3-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 1  | 0  | +1 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Alexander Isak: 1 gol (56' vs Túnez, J1)
 
 ## Historial vs rivales del grupo
 - vs Países Bajos: rivalidad UEFA, balance 2V-2E-1D sueco.
 - vs Japón: pocos enfrentamientos, balance equilibrado.
-- vs Túnez: sin antecedentes registrados.
+- vs Túnez: 1V — 2026-06-14 Suecia 1-0 Túnez (Grupo F J1).
 
 ---
 > Fuente: WebSearch parcial + conocimiento del modelo 2026-05-27.
