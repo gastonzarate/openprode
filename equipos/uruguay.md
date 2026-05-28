@@ -21,7 +21,7 @@
 - Defensa: 80
 - Arco: 76
 - Físico: 82
-- Moral: 80
+- Moral: 78
 - Cohesión: 82
 - Experiencia: 80
 
@@ -60,29 +60,33 @@
 
 ## Lesionados / Suspendidos
 - Nahitan Nández: excluido por decisión técnica de Bielsa.
+- Manuel Ugarte: golpe en rodilla derecha (min. 51 vs Arabia). Duda para J2.
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## En capilla (1 amarilla acumulada)
+- Guillermo Varela (min. 54 vs Arabia Saudita)
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-15 vs Arabia Saudita: 1-1 (E) — Mundial Grupo H J1, penal polémico les quitó la victoria 🌧
 - 2026-03-XX vs Paraguay: 0-1 (D)
 - 2026-03-XX vs Argentina: 0-0 (E)
 - 2025-11-XX vs Bolivia: 3-0 (V)
 - 2025-10-XX vs Colombia: 2-2 (E)
-- 2025-09-XX vs Brasil: 0-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Rodrigo Bentancur: 1 gol (35' vs Arabia Saudita)
 
 ## Historial vs rivales del grupo
 - vs España: balance histórico cerca de 3-3-4 con leve ventaja española.
 - vs Cabo Verde: sin antecedentes registrados.
-- vs Arabia Saudita: 1-0 victoria uruguaya Mundial 2018 fase grupos.
+- vs Arabia Saudita: Mundial 2018 (victoria 1-0) · Mundial 2026 J1 (1-1, penal polémico 🌧).
 
 ---
 > Fuente: WebSearch 2026-05-27 (El Observador, Infobae, Depor).

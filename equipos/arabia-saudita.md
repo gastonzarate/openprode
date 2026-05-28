@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 74
 - Físico: 76
-- Moral: 76
+- Moral: 78
 - Cohesión: 82
 - Experiencia: 70
 
@@ -59,30 +59,35 @@
 4-3-3: Al-Owais; S. Al-Ghannam, Al-Bulayhi, Al-Tambakti, Al-Shahrani; Kanno, S. Al-Faraj, Sharahili; S. Al-Dawsari, F. Al-Buraikan, S. Al-Shehri.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## En capilla (1 amarilla acumulada)
+- Saleh Al-Shehri (min. 26 vs Uruguay)
+- Mohamed Kanno (min. 68 vs Uruguay)
+- Ali Al-Bulayhi (min. 85 vs Uruguay)
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-15 vs Uruguay: 1-1 (E) — Mundial Grupo H J1 🌧 empate heroico con penal de Al-Dawsari
 - 2026-03-XX vs Australia: 0-0 (E)
 - 2026-03-XX vs Indonesia: 2-0 (V)
 - 2025-11-XX vs Bahréin: 3-0 (V)
 - 2025-10-XX vs Japón: 0-2 (D)
-- 2025-09-XX vs China: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Salem Al-Dawsari: 1 gol (pen. 73' vs Uruguay)
 
 ## Historial vs rivales del grupo
 - vs España: 2-2 amistoso 2018.
 - vs Cabo Verde: sin antecedentes registrados.
-- vs Uruguay: 1-0 derrota saudí Mundial 2018 fase grupos.
+- vs Uruguay: Mundial 2018 (derrota 0-1) · Mundial 2026 J1 (1-1 🌧 empate histórico).
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (SAFF).
