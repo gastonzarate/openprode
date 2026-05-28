@@ -21,7 +21,7 @@
 - Defensa: 82
 - Arco: 80
 - Físico: 76
-- Moral: 84
+- Moral: 86
 - Cohesión: 92
 - Experiencia: 90
 
@@ -59,25 +59,26 @@
 4-3-3: Livaković; Juranović, Gvardiol, Šutalo, Sosa; Modrić, Kovačić, M. Pašalić; Vlašić, Kramarić, Perišić.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
+- En capilla (1 amarilla acumulada): Josip Šutalo (falta en min 39), Josip Juranović (falta táctica min 75). Un amarilla más en J2 → suspensión J3.
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-17 vs Inglaterra (G.L J1): 1-1 (E) — empate sorprendente, Kramarić 70' tras gol anulado inglés
 - 2026-03-XX vs Portugal: 1-2 (D)
 - 2026-03-XX vs Francia: 0-2 (D)
 - 2025-11-XX vs Gibraltar: 7-0 (V)
 - 2025-10-XX vs República Checa: 3-1 (V)
-- 2025-09-XX vs Escocia: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 15/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Andrej Kramarić: 1 gol (vs Inglaterra, min 70, G.L J1)
 
 ## Historial vs rivales del grupo
 - vs Inglaterra: 2-1 victoria croata semifinal Mundial 2018.

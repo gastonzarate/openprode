@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 82
 - Físico: 82
-- Moral: 78
+- Moral: 76
 - Cohesión: 75
 - Experiencia: 80
 
@@ -59,25 +59,25 @@
 4-3-3: Pickford; Livramento, Stones, Guéhi, R. James; Rice, Mainoo, Bellingham; Saka, Kane, Rashford.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Kobbie Mainoo (VOL): duda — golpe en muslo (min 53 vs Croacia). Salió min 72 como medida preventiva. Estado en evaluación para J2.
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-17 vs Croacia (G.L J1): 1-1 (E) — gol anulado por VAR, empate en 70'
 - 2026-03-XX vs Brasil: 2-1 (V)
 - 2026-03-XX vs Italia: 1-1 (E)
 - 2025-11-XX vs Letonia: 5-0 (V)
 - 2025-10-XX vs Hungría: 3-1 (V)
-- 2025-09-XX vs Andorra: 4-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 15/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Bukayo Saka: 1 gol (vs Croacia, min 25, G.L J1)
 
 ## Historial vs rivales del grupo
 - vs Croacia: balance histórico 4V-3E-1D; semifinal Rusia 2018 derrota 1-2.

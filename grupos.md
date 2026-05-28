@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-17 — Portugal 2-1 RD del Congo
+> Actualizado tras: 2026-06-17 — Inglaterra 1-1 Croacia
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -103,10 +103,12 @@
 ## Grupo L
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Inglaterra | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Croacia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Ghana | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Panamá | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Inglaterra 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 2 | Croacia 🇭🇷 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 3 | Ghana 🇬🇭 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Panamá 🇵🇦 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+*Inglaterra y Croacia iguales en Pts/DG/GF tras la J1 — próximo partido Ghana vs Panamá (2026-06-17 19:00).*
 
 ## Clasificación a octavos
 Pasan los **2 primeros de cada grupo** + **8 mejores terceros** (Mundial de 48, formato 2026).
