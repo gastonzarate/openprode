@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 78
 - Físico: 82
-- Moral: 80
+- Moral: 84
 - Cohesión: 84
 - Experiencia: 70
 
@@ -59,25 +59,25 @@
 4-3-3: Galíndez; Preciado, Pacho, Hincapié, Estupiñán; M. Caicedo, A. Franco, Páez; G. Plata, E. Valencia, J. Sarmiento.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- William Pacho: 1 amarilla acumulada (en capilla para J2)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-14 vs Costa de Marfil (Mundial J1): 1-0 (V)
 - 2026-03-XX vs Venezuela: 2-1 (V)
 - 2026-03-XX vs Chile: 1-0 (V)
 - 2025-11-XX vs Argentina: 0-1 (D)
 - 2025-10-XX vs Brasil: 1-1 (E)
-- 2025-09-XX vs Bolivia: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 1  | 0  | +1 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Enner Valencia: 1 gol (71' vs Costa de Marfil, J1)
 
 ## Historial vs rivales del grupo
 - vs Alemania: balance 1V-1E históricos, partido amistoso 2-4 derrota.

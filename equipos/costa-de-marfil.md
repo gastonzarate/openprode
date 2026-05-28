@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 74
 - Físico: 84
-- Moral: 82
+- Moral: 77
 - Cohesión: 80
 - Experiencia: 70
 
@@ -59,25 +59,25 @@
 4-3-3: Y. Fofana; Singo, Ndicka, Kossounou, Konan; Kessié, S. Fofana, H. Traoré; A. Diallo, Adingra, Y. Diomande.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-14 vs Ecuador (Mundial J1): 0-1 (D)
 - 2026-03-XX vs Burkina Faso: 1-1 (E)
 - 2026-03-XX vs Burundi: 2-0 (V)
 - 2025-11-XX vs Gambia: 3-0 (V)
 - 2025-10-XX vs Marruecos: 0-1 (D)
-- 2025-09-XX vs Madagascar: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 0  | 1  | -1 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- (ninguno)
 
 ## Historial vs rivales del grupo
 - vs Alemania: 0-0 (Mundial 2006), balance 0V-1E-1D.
