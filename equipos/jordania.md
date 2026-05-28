@@ -21,7 +21,7 @@
 - Defensa: 68
 - Arco: 70
 - Físico: 76
-- Moral: 82
+- Moral: 74
 - Cohesión: 80
 - Experiencia: 50
 
@@ -59,30 +59,34 @@
 4-2-3-1: Abulaila; Al-Ajalin, Y. Al-Arab, B. Marei, Rateb; N. Al-Rawabdeh, M. Al-Mardi; Olwan, Al-Tamari, M. Al-Mawas; Y. Al-Naimat.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## En capilla (amarillas acumuladas)
+- Y. Al-Arab: 1 amarilla (J1 vs Austria, 60')
+- Al-Mawas: 1 amarilla (J1 vs Austria, 44')
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-17 vs Austria: 0-2 (D) — Mundial J1 ✅
 - 2026-03-XX vs Irak: 0-0 (E)
 - 2026-03-XX vs Surinam: 1-0 (V)
 - 2025-11-XX vs Catar: 1-1 (E)
 - 2025-10-XX vs Omán: 4-0 (V)
-- 2025-09-XX vs Kuwait: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- (ninguno)
 
 ## Historial vs rivales del grupo
 - vs Argentina: sin antecedentes registrados.
 - vs Argelia: sin antecedentes registrados.
-- vs Austria: sin antecedentes registrados.
+- vs Austria: 0V-0E-1D. Único partido: 2026-06-17, 0-2 (Grupo J, J1 Mundial).
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (JFA).

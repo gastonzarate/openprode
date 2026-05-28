@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 72
 - Físico: 82
-- Moral: 78
+- Moral: 83
 - Cohesión: 84
 - Experiencia: 72
 
@@ -59,30 +59,34 @@
 4-2-2-2: Pentz; Posch, Danso, Alaba, Mwene; Seiwald, Laimer; Sabitzer, Baumgartner; Arnautović, Gregoritsch.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## En capilla (amarillas acumuladas)
+- Posch: 1 amarilla (J1 vs Jordania, 80')
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-17 vs Jordania: 2-0 (V) — Mundial J1 ✅
 - 2026-03-XX vs Turquía: 2-1 (V)
 - 2026-03-XX vs Eslovenia: 1-1 (E)
 - 2025-11-XX vs Estonia: 2-0 (V)
 - 2025-10-XX vs Bosnia: 2-1 (V)
-- 2025-09-XX vs Bélgica: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Baumgartner: 1 gol (J1 vs Jordania, 38' — jugada elaborada)
+- Alaba: 1 gol (J1 vs Jordania, 74' — tiro libre)
 
 ## Historial vs rivales del grupo
 - vs Argentina: balance 2V-1E-6D para Argentina; último 1-2 derrota austriaca amistoso 2008.
 - vs Argelia: sin antecedentes registrados.
-- vs Jordania: sin antecedentes registrados.
+- vs Jordania: 1V-0E-0D. Único partido: 2026-06-17, 2-0 (Grupo J, J1 Mundial).
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (ÖFB).

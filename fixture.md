@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último: 2026-06-16 — Argentina 3-1 Argelia
-> Próximo: 2026-06-17 — Austria vs Jordania (03:00, Levi's Stadium, Santa Clara)
+> Último: 2026-06-17 — Austria 2-0 Jordania
+> Próximo: 2026-06-17 — Portugal vs RD del Congo (12:00, NRG Stadium, Houston)
 
 ## Fase de Grupos
 
@@ -28,7 +28,7 @@
 | 2026-06-16 | 15:00 | MetLife Stadium, East Rutherford | I | Francia | Senegal | ✅ Jugado | 1-0 | [ver](partidos/2026-06-16-francia-vs-senegal.md) |
 | 2026-06-16 | 18:00 | Gillette Stadium, Foxborough | I | Irak | Noruega | ✅ Jugado | 0-4 | [ver](partidos/2026-06-16-irak-vs-noruega.md) |
 | 2026-06-16 | 20:00 | Arrowhead Stadium, Kansas City | J | Argentina | Argelia | ✅ Jugado | 3-1 | [ver](partidos/2026-06-16-argentina-vs-argelia.md) |
-| 2026-06-17 | 03:00 | Levi's Stadium, Santa Clara | J | Austria | Jordania | ⏳ Pendiente | — | — |
+| 2026-06-17 | 03:00 | Levi's Stadium, Santa Clara | J | Austria | Jordania | ✅ Jugado | 2-0 | [ver](partidos/2026-06-17-austria-vs-jordania.md) |
 | 2026-06-17 | 12:00 | NRG Stadium, Houston | K | Portugal | RD del Congo | ⏳ Pendiente | — | — |
 | 2026-06-17 | 15:00 | AT&T Stadium, Arlington | L | Inglaterra | Croacia | ⏳ Pendiente | — | — |
 | 2026-06-17 | 19:00 | BMO Field, Toronto | L | Ghana | Panamá | ⏳ Pendiente | — | — |

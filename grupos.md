@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-16 — Argentina 3-1 Argelia
+> Actualizado tras: 2026-06-17 — Austria 2-0 Jordania
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -86,9 +86,11 @@
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | Argentina 🇦🇷 | 1 | 1 | 0 | 0 | 3 | 1 | +2 | 3 |
-| 2 | Austria 🇦🇹 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Jordania 🇯🇴 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Argelia 🇩🇿 | 1 | 0 | 0 | 1 | 1 | 3 | −2 | 0 |
+| 2 | Austria 🇦🇹 | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
+| 3 | Argelia 🇩🇿 | 1 | 0 | 0 | 1 | 1 | 3 | −2 | 0 |
+| 4 | Jordania 🇯🇴 | 1 | 0 | 0 | 1 | 0 | 2 | −2 | 0 |
+
+*Argentina y Austria iguales en Pts (3) y DG (+2). Argentina aventaja por GF (3 vs 2). Argelia sobre Jordania por GF (1 vs 0).*
 
 ## Grupo K
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
