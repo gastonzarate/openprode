@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 74
 - Físico: 78
-- Moral: 76
+- Moral: 68
 - Cohesión: 78
 - Experiencia: 70
 
@@ -59,25 +59,29 @@
 4-3-3: M'Bolhi; Atal, A. Mandi, M. Tougai, Bensebaini; Bennacer, Aouar, Zerrouki; Mahrez, Amoura, Benrahma.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## En capilla (1 amarilla acumulada)
+- Bentaleb (70' vs Argentina)
+- Bensebaini (90'+1' vs Argentina)
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-16 vs Argentina: 1-3 (D) — Mundial J1
 - 2026-03-XX vs Marruecos: 1-2 (D)
 - 2026-03-XX vs Togo: 3-0 (V)
 - 2025-11-XX vs Burkina Faso: 1-1 (E)
 - 2025-10-XX vs Mozambique: 3-0 (V)
-- 2025-09-XX vs Guinea: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 1  | 3  | −2 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Mohamed Amoura: 1 gol (53' vs Argentina — contraataque)
 
 ## Historial vs rivales del grupo
 - vs Argentina: amistoso 4-3 victoria argelina (1982), 1V-0E-4D global.

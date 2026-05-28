@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 88
 - Físico: 82
-- Moral: 92
+- Moral: 97
 - Cohesión: 95
 - Experiencia: 92
 
@@ -59,25 +59,30 @@
 4-3-3: E. Martínez; Molina, Romero, Otamendi, Tagliafico; De Paul, E. Fernández, Mac Allister; Messi, J. Álvarez, Di María (alt: T. Almada).
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## En capilla (1 amarilla acumulada)
+- Enzo Fernández (41' vs Argelia)
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-16 vs Argelia: 3-1 (V) — Mundial J1
 - 2026-03-XX vs Brasil: 1-0 (V)
 - 2026-03-XX vs Uruguay: 0-0 (E)
 - 2025-11-XX vs Paraguay: 2-1 (V)
 - 2025-10-XX vs Ecuador: 1-0 (V)
-- 2025-09-XX vs Chile: 3-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 3  | 1  | +2 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Alexis Mac Allister: 1 gol (22' vs Argelia)
+- Lionel Messi: 1 gol (36' vs Argelia — tiro libre) + 2 asistencias
+- Julián Álvarez: 1 gol (67' vs Argelia)
 
 ## Historial vs rivales del grupo
 - vs Argelia: 4V-0E-1D balance argentino (incluye amistoso 4-3 victoria argelina 2002).
