@@ -21,69 +21,63 @@
 - Defensa: 72
 - Arco: 74
 - Físico: 78
-- Moral: 68
+- Moral: 76
 - Cohesión: 78
 - Experiencia: 70
 
 ## Plantilla (26 jugadores, regla FIFA 2026)
 | # | Jugador | Pos | Edad | Club | Ataque | Defensa | Físico | Técnica | Estado |
 |---|---------|-----|------|------|--------|---------|--------|---------|--------|
-| 1 | Raïs M'Bolhi | ARQ | 39 | CR Belouizdad | 10 | 76 | 65 | 65 | 95% |
+| 1 | Raïs M'Bolhi | ARQ | 39 | CR Belouizdad | 10 | 76 | 65 | 65 | 100% |
 | 12 | Anthony Mandrea | ARQ | 28 | Angers | 10 | 76 | 65 | 65 | 100% |
 | 23 | Alexandre Oukidja | ARQ | 38 | Metz | 10 | 74 | 63 | 63 | 100% |
-| 2 | Aïssa Mandi | DEF | 34 | Lille | 24 | 78 | 75 | 64 | 95% |
-| 3 | Ramy Bensebaini | DEF | 31 | Dortmund | 24 | 80 | 76 | 64 | 95% |
-| 4 | Mohamed Tougai | DEF | 26 | ES Tunis | 23 | 76 | 73 | 61 | 95% |
-| 5 | Houssem Aouar | DEF | 27 | Roma | 23 | 76 | 72 | 61 | 95% |
+| 2 | Aïssa Mandi | DEF | 34 | Lille | 24 | 78 | 75 | 64 | 100% |
+| 3 | Ramy Bensebaini | DEF | 31 | Dortmund | 24 | 80 | 76 | 64 | 100% |
+| 4 | Mohamed Tougai | DEF | 26 | ES Tunis | 23 | 76 | 73 | 61 | 100% |
+| 5 | Houssem Aouar | DEF | 27 | Roma | 23 | 76 | 72 | 61 | 100% |
 | 13 | Jaouen Hadjam | DEF | 22 | Young Boys | 23 | 75 | 71 | 60 | 100% |
 | 14 | Yousri Bouzok | DEF | 33 | USM Alger | 22 | 74 | 70 | 59 | 100% |
 | 15 | Akim Zedadka | DEF | 31 | Le Havre | 22 | 74 | 70 | 59 | 100% |
 | 16 | Mehdi Tahrat | DEF | 35 | Konyaspor | 22 | 73 | 69 | 58 | 100% |
-| 22 | Youcef Atal | DEF | 30 | Mladá Boleslav | 23 | 76 | 73 | 61 | 95% |
-| 6 | Ismaël Bennacer | VOL | 28 | Marsella | 60 | 55 | 76 | 84 | 95% |
+| 22 | Youcef Atal | DEF | 30 | Mladá Boleslav | 23 | 76 | 73 | 61 | 100% |
+| 6 | Ismaël Bennacer | VOL | 28 | Marsella | 60 | 55 | 76 | 84 | 100% |
 | 8 | Sofiane Feghouli | VOL | 36 | Étoile Sahel | 58 | 50 | 70 | 82 | 100% |
-| 10 | Riyad Mahrez (C) | DEL | 35 | Al-Ahli | 78 | 23 | 71 | 90 | 95% |
+| 10 | Riyad Mahrez (C) | DEL | 35 | Al-Ahli | 78 | 23 | 71 | 90 | 100% |
 | 11 | Yacine Brahimi | DEL | 36 | Trabzonspor | 76 | 23 | 72 | 80 | 100% |
-| 17 | Adam Ounas | VOL | 29 | Lille | 60 | 35 | 70 | 80 | 98% |
-| 18 | Ramiz Zerrouki | VOL | 27 | Feyenoord | 55 | 55 | 75 | 78 | 98% |
+| 17 | Adam Ounas | VOL | 29 | Lille | 60 | 35 | 70 | 80 | 100% |
+| 18 | Ramiz Zerrouki | VOL | 27 | Feyenoord | 55 | 55 | 75 | 78 | 100% |
 | 19 | Hicham Boudaoui | VOL | 26 | Niza | 55 | 55 | 73 | 78 | 100% |
 | 20 | Nabil Bentaleb | VOL | 31 | Angers | 55 | 55 | 75 | 78 | 100% |
 | 21 | Riyad Mahrez (alt) | VOL | 35 | Al-Ahli | 65 | 35 | 70 | 86 | 100% |
-| 7 | Mohamed Amoura | DEL | 26 | Wolfsburgo | 80 | 24 | 75 | 78 | 98% |
-| 9 | Baghdad Bounedjah | DEL | 34 | Al-Sadd | 76 | 23 | 75 | 72 | 98% |
+| 7 | Mohamed Amoura | DEL | 26 | Wolfsburgo | 80 | 24 | 75 | 78 | 100% |
+| 9 | Baghdad Bounedjah | DEL | 34 | Al-Sadd | 76 | 23 | 75 | 72 | 100% |
 | 24 | Adam Ounas (alt) | DEL | 29 | Lille | 76 | 23 | 71 | 80 | 100% |
-| 25 | Said Benrahma | DEL | 30 | Neom | 78 | 23 | 71 | 80 | 98% |
-| 26 | Islam Slimani | DEL | 37 | Mascara | 76 | 23 | 75 | 72 | 98% |
+| 25 | Said Benrahma | DEL | 30 | Neom | 78 | 23 | 71 | 80 | 100% |
+| 26 | Islam Slimani | DEL | 37 | Mascara | 76 | 23 | 75 | 72 | 100% |
 
 ## XI titular probable
 4-3-3: M'Bolhi; Atal, A. Mandi, M. Tougai, Bensebaini; Bennacer, Aouar, Zerrouki; Mahrez, Amoura, Benrahma.
 
 ## Lesionados / Suspendidos
-- (ninguno)
+- (ninguno al inicio del Mundial)
 
-## En capilla (1 amarilla acumulada — próximo partido)
-- Ramy Bensebaini (amarilla vs Argentina J1)
-- Ramiz Zerrouki (amarilla vs Argentina J1)
-- Aïssa Mandi (amarilla vs Argentina J1)
-- Baghdad Bounedjah (amarilla vs Argentina J1)
-
-## Forma reciente (últimos 5 partidos)
-- 2026-06-16 vs Argentina: 1-3 (D) — Mundial J1 ⚽ Mandi
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Marruecos: 1-2 (D)
 - 2026-03-XX vs Togo: 3-0 (V)
 - 2025-11-XX vs Burkina Faso: 1-1 (E)
 - 2025-10-XX vs Mozambique: 3-0 (V)
+- 2025-09-XX vs Guinea: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 3  | −2 | 0   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- Aïssa Mandi: 1 gol (52' vs Argentina J1)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs Argentina: amistoso 4-3 victoria argelina (1982), 1V-0E-4D global.

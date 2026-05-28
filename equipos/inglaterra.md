@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 82
 - Físico: 82
-- Moral: 82
+- Moral: 78
 - Cohesión: 75
 - Experiencia: 80
 
@@ -59,33 +59,28 @@
 4-3-3: Pickford; Livramento, Stones, Guéhi, R. James; Rice, Mainoo, Bellingham; Saka, Kane, Rashford.
 
 ## Lesionados / Suspendidos
-- (ninguno)
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-17 vs Croacia: 2-1 (V) — Grupo L J1 · Kane, Bellingham / Kramarić
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Brasil: 2-1 (V)
 - 2026-03-XX vs Italia: 1-1 (E)
 - 2025-11-XX vs Letonia: 5-0 (V)
 - 2025-10-XX vs Hungría: 3-1 (V)
+- 2025-09-XX vs Andorra: 4-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- Harry Kane: 1 gol (J1 vs Croacia 38')
-- Jude Bellingham: 1 gol (J1 vs Croacia 64')
-
-## En capilla (1 amarilla acumulada)
-- Kobbie Mainoo (17' vs Croacia)
-- John Stones (72' vs Croacia)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
-- vs Croacia: balance histórico 4V-3E-1D; semifinal Rusia 2018 derrota 1-2. **J1 Mundial 2026: victoria 2-1.**
+- vs Croacia: balance histórico 4V-3E-1D; semifinal Rusia 2018 derrota 1-2.
 - vs Ghana: amistoso 2011: 1-1.
 - vs Panamá: 6-1 victoria inglesa Mundial 2018 fase grupos.
 

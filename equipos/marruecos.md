@@ -21,7 +21,7 @@
 - Defensa: 82
 - Arco: 84
 - Físico: 78
-- Moral: 80
+- Moral: 82
 - Cohesión: 84
 - Experiencia: 82
 
@@ -59,25 +59,25 @@
 4-3-3: Bounou; Hakimi, Aguerd, Saïss, Mazraoui; Amrabat, El Khannouss, Ounahi; B. Díaz, En-Nesyri, Ziyech.
 
 ## Lesionados / Suspendidos
-- **En capilla (1 amarilla):** Romain Saïss
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos, incl. Mundial)
-- 2026-06-13 vs Brasil (J1): 1-2 (D)
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Túnez: 1-1 (E)
 - 2026-03-XX vs Burkina Faso: 2-0 (V)
 - 2025-11-XX vs Gabón: 5-1 (V)
 - 2025-10-XX vs RD Congo: 1-1 (E)
+- 2025-09-XX vs Zambia: 2-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 2  | −1 | 0   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- Nayef Aguerd: 1 gol (65' vs Brasil)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs Brasil: 2-1 amistoso 2023, último cruce.

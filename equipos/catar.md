@@ -21,7 +21,7 @@
 - Defensa: 64
 - Arco: 66
 - Físico: 68
-- Moral: 65
+- Moral: 70
 - Cohesión: 88
 - Experiencia: 55
 
@@ -59,33 +59,29 @@
 3-5-2: Barsham; P. Miguel, Khoukhi, Al-Rawi; H. Ahmed, Hatem, Madibo, Boudiaf, T. Salman; Afif, Almoez Ali.
 
 ## Lesionados / Suspendidos
-- (ninguno)
+- (ninguno al inicio del Mundial)
 
-## En capilla (1 amarilla acumulada)
-- Tarek Salman 🟨 (J1 · falta táctica 40')
-- Issa Laye 🟨 (J1 · falta táctica 85')
-
-## Forma reciente (últimos 5 partidos)
-- 2026-06-13 vs Suiza: 0-2 (D) — Mundial J1 ✅
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Uzbekistán: 0-1 (D)
 - 2026-03-XX vs Emiratos Árabes: 2-1 (V)
 - 2025-11-XX vs Irán: 1-2 (D)
 - 2025-10-XX vs Kuwait: 3-0 (V)
+- 2025-09-XX vs Corea del Norte: 0-0 (E)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- (ninguno)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs Canadá: sin antecedentes registrados relevantes.
-- vs Suiza: **0-2 (J1 · 2026-06-13)** — Embolo 34', Ndoye 71'.
+- vs Suiza: sin antecedentes registrados.
 - vs Bosnia y Herzegovina: sin antecedentes registrados.
 
 ---

@@ -61,31 +61,28 @@
 ## Lesionados / Suspendidos
 - (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos, incl. Mundial)
-- 2026-06-13 vs Escocia: 0-2 (D) — Grupo C J1, Gillette Stadium
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Curazao: 1-0 (V) — eliminatoria CONCACAF
 - 2026-03-XX vs Costa Rica: 3-2 (V, hat-trick Nazon)
 - 2025-11-XX vs Honduras: 0-1 (D)
 - 2025-10-XX vs Jamaica: 1-1 (E)
+- 2025-09-XX vs Nicaragua: 4-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 13/100
-
-## Moral actual
-- Baja tras la derrota frente a Escocia; Wilson Isidor fue el mejor y mantiene la llama competitiva.
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- (ninguno)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs Brasil: sin antecedentes mundialistas relevantes; amistoso 2004 derrota 6-0.
 - vs Marruecos: sin antecedentes registrados.
-- vs Escocia: 0-2 (D) · 2026-06-13 · Grupo C J1.
+- vs Escocia: sin antecedentes registrados.
 
 ---
 > Fuente: WebSearch 2026-05-27 (Haitian Times, FIFA, FourFourTwo).

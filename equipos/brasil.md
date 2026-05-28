@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 92
 - Físico: 82
-- Moral: 86
+- Moral: 84
 - Cohesión: 80
 - Experiencia: 86
 
@@ -59,26 +59,25 @@
 4-3-3: Alisson; Vanderson, Marquinhos, Magalhães, C. Henrique; Casemiro, Bruno G., Paquetá; Raphinha, Vinícius, Neymar.
 
 ## Lesionados / Suspendidos
-- **En capilla (1 amarilla):** Caio Henrique
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos, incl. Mundial)
-- 2026-06-13 vs Marruecos (J1): 2-1 (V) ✅
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Colombia: 2-1 (V)
 - 2026-03-XX vs Argentina: 0-1 (D)
 - 2025-11-XX vs Uruguay: 2-0 (V)
 - 2025-10-XX vs Chile: 3-0 (V)
+- 2025-09-XX vs Ecuador: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- Vinícius Jr.: 1 gol (34' vs Marruecos)
-- Pedro: 1 gol (79' vs Marruecos)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs Marruecos: amistoso 2023 derrota brasileña 1-2, último cruce.

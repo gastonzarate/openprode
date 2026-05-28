@@ -21,7 +21,7 @@
 - Defensa: 80
 - Arco: 82
 - Físico: 76
-- Moral: 80
+- Moral: 76
 - Cohesión: 86
 - Experiencia: 86
 
@@ -61,28 +61,27 @@
 ## Lesionados / Suspendidos
 - (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-13 vs Catar: 2-0 (V) — Mundial J1 ✅
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs España: 0-2 (D)
 - 2026-03-XX vs Italia: 1-1 (E)
 - 2025-11-XX vs Kosovo: 2-0 (V)
 - 2025-11-XX vs Suecia: 1-2 (D)
+- 2025-10-XX vs Eslovenia: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- Breel Embolo (1) — 34' vs Catar (J1)
-- Dan Ndoye (1) — 71' vs Catar (J1)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs Canadá: 1 amistoso reciente con victoria suiza 3-0.
-- vs Catar: **2-0 (J1 · 2026-06-13)** — Embolo 34', Ndoye 71'.
+- vs Catar: sin antecedentes mundialistas.
 - vs Bosnia y Herzegovina: rivalidad UEFA, balance equilibrado (4V 3E 3D suizo).
 
 ---

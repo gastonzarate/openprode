@@ -21,7 +21,7 @@
 - Defensa: 80
 - Arco: 80
 - Físico: 80
-- Moral: 89
+- Moral: 84
 - Cohesión: 80
 - Experiencia: 86
 
@@ -59,28 +59,25 @@
 4-3-3: D. Costa; Dalot, R. Dias, Inácio, N. Mendes; Vitinha, Palhinha, B. Fernandes; B. Silva, C. Ronaldo, R. Leão.
 
 ## Lesionados / Suspendidos
-- En memoria: Diogo Jota (baja pre-torneo).
-- En capilla (1 amarilla): Palhinha.
+- (ninguno al inicio del Mundial). En memoria: Diogo Jota.
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-17 vs RD del Congo: 3-1 (V) — Mundial Grupo K J1
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs España: 1-1 (E)
 - 2026-03-XX vs Croacia: 2-1 (V)
 - 2025-11-XX vs Polonia: 3-1 (V)
 - 2025-10-XX vs Eslovaquia: 2-0 (V)
+- 2025-09-XX vs Irlanda: 3-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 3  | 1  | +2 | 3   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- Rafael Leão: 1 gol (30' vs RD del Congo, J1)
-- Cristiano Ronaldo: 1 gol (43' vs RD del Congo, J1)
-- Bruno Fernandes: 1 gol (77' vs RD del Congo, J1)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs Colombia: amistoso 1-0 victoria portuguesa 2024.

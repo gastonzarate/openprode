@@ -1,7 +1,7 @@
 # Fixture Mundial 2026
 
-> Último: 2026-06-17 — Uzbekistán 0-2 Colombia
-> Próximo: 2026-06-18 — Chequia vs Sudáfrica (12:00, Mercedes-Benz Stadium, Atlanta)
+> Último partido simulado: 2026-06-11 — México 2-1 Sudáfrica
+> Próximo partido pendiente: 2026-06-11 — Corea del Sur vs Chequia (20:00, Estadio Akron, Zapopan)
 
 ## Fase de Grupos
 
@@ -10,29 +10,29 @@
 | Fecha | Hora | Sede | Grupo | Local | Visitante | Estado | Resultado | Archivo |
 |-------|------|------|-------|-------|-----------|--------|-----------|---------|
 | 2026-06-11 | 13:00 | Estadio Azteca, Ciudad de México | A | México | Sudáfrica | ✅ Jugado | 2-1 | [ver](partidos/2026-06-11-mexico-vs-sudafrica.md) |
-| 2026-06-11 | 20:00 | Estadio Akron, Zapopan | A | Corea del Sur | Chequia | ✅ Jugado | 2-1 | [ver](partidos/2026-06-11-corea-del-sur-vs-chequia.md) |
-| 2026-06-12 | 15:00 | BMO Field, Toronto | B | Canadá | Bosnia y Herzegovina | ✅ Jugado | 2-1 | [ver](partidos/2026-06-12-canada-vs-bosnia-y-herzegovina.md) |
-| 2026-06-12 | 18:00 | SoFi Stadium, Inglewood | D | Estados Unidos | Paraguay | ✅ Jugado | 2-1 | [ver](partidos/2026-06-12-estados-unidos-vs-paraguay.md) |
-| 2026-06-13 | 12:00 | Levi's Stadium, Santa Clara | B | Catar | Suiza | ✅ Jugado | 0-2 | [ver](partidos/2026-06-13-catar-vs-suiza.md) |
-| 2026-06-13 | 18:00 | MetLife Stadium, East Rutherford | C | Brasil | Marruecos | ✅ Jugado | 2-1 | [ver](partidos/2026-06-13-brasil-vs-marruecos.md) |
-| 2026-06-13 | 21:00 | Gillette Stadium, Foxborough | C | Haití | Escocia | ✅ Jugado | 0-2 | [ver](partidos/2026-06-13-haiti-vs-escocia.md) |
-| 2026-06-14 | 03:00 | BC Place, Vancouver | D | Australia | Turquía | ✅ Jugado | 1-2 | [ver](partidos/2026-06-14-australia-vs-turquia.md) |
-| 2026-06-14 | 12:00 | NRG Stadium, Houston | E | Alemania | Curazao | ✅ Jugado | 3-0 | [ver](partidos/2026-06-14-alemania-vs-curazao.md) |
-| 2026-06-14 | 15:00 | AT&T Stadium, Arlington | F | Países Bajos | Japón | ✅ Jugado | 2-1 | [ver](partidos/2026-06-14-paises-bajos-vs-japon.md) |
-| 2026-06-14 | 19:00 | Lincoln Financial Field, Philadelphia | E | Costa de Marfil | Ecuador | ✅ Jugado | 1-1 | [ver](partidos/2026-06-14-costa-de-marfil-vs-ecuador.md) |
-| 2026-06-14 | 20:00 | Estadio BBVA, Guadalupe | F | Suecia | Túnez | ✅ Jugado | 2-0 | [ver](partidos/2026-06-14-suecia-vs-tunez.md) |
-| 2026-06-15 | 12:00 | Mercedes-Benz Stadium, Atlanta | H | España | Cabo Verde | ✅ Jugado | 3-0 | [ver](partidos/2026-06-15-espana-vs-cabo-verde.md) |
-| 2026-06-15 | 15:00 | Lumen Field, Seattle | G | Bélgica | Egipto | ✅ Jugado | 2-1 | [ver](partidos/2026-06-15-belgica-vs-egipto.md) |
-| 2026-06-15 | 18:00 | Hard Rock Stadium, Miami Gardens | H | Arabia Saudita | Uruguay | ✅ Jugado | 1-2 | [ver](partidos/2026-06-15-arabia-saudita-vs-uruguay.md) |
-| 2026-06-16 | 03:00 | SoFi Stadium, Inglewood | G | Irán | Nueva Zelanda | ✅ Jugado | 2-0 | [ver](partidos/2026-06-16-iran-vs-nueva-zelanda.md) |
-| 2026-06-16 | 15:00 | MetLife Stadium, East Rutherford | I | Francia | Senegal | ✅ Jugado | 2-1 | [ver](partidos/2026-06-16-francia-vs-senegal.md) |
-| 2026-06-16 | 18:00 | Gillette Stadium, Foxborough | I | Irak | Noruega | ✅ Jugado | 0-3 | [ver](partidos/2026-06-16-irak-vs-noruega.md) |
-| 2026-06-16 | 20:00 | Arrowhead Stadium, Kansas City | J | Argentina | Argelia | ✅ Jugado | 3-1 | [ver](partidos/2026-06-16-argentina-vs-argelia.md) |
-| 2026-06-17 | 03:00 | Levi's Stadium, Santa Clara | J | Austria | Jordania | ✅ Jugado | 2-0 | [ver](partidos/2026-06-17-austria-vs-jordania.md) |
-| 2026-06-17 | 12:00 | NRG Stadium, Houston | K | Portugal | RD del Congo | ✅ Jugado | 3-1 | [ver](partidos/2026-06-17-portugal-vs-rd-del-congo.md) |
-| 2026-06-17 | 15:00 | AT&T Stadium, Arlington | L | Inglaterra | Croacia | ✅ Jugado | 2-1 | [ver](partidos/2026-06-17-inglaterra-vs-croacia.md) |
-| 2026-06-17 | 19:00 | BMO Field, Toronto | L | Ghana | Panamá | ✅ Jugado | 2-1 | [ver](partidos/2026-06-17-ghana-vs-panama.md) |
-| 2026-06-17 | 20:00 | Estadio Azteca, Ciudad de México | K | Uzbekistán | Colombia | ✅ Jugado | 0-2 | [ver](partidos/2026-06-17-uzbekistan-vs-colombia.md) |
+| 2026-06-11 | 20:00 | Estadio Akron, Zapopan | A | Corea del Sur | Chequia | ⏳ Pendiente | — | — |
+| 2026-06-12 | 15:00 | BMO Field, Toronto | B | Canadá | Bosnia y Herzegovina | ⏳ Pendiente | — | — |
+| 2026-06-12 | 18:00 | SoFi Stadium, Inglewood | D | Estados Unidos | Paraguay | ⏳ Pendiente | — | — |
+| 2026-06-13 | 12:00 | Levi's Stadium, Santa Clara | B | Catar | Suiza | ⏳ Pendiente | — | — |
+| 2026-06-13 | 18:00 | MetLife Stadium, East Rutherford | C | Brasil | Marruecos | ⏳ Pendiente | — | — |
+| 2026-06-13 | 21:00 | Gillette Stadium, Foxborough | C | Haití | Escocia | ⏳ Pendiente | — | — |
+| 2026-06-14 | 03:00 | BC Place, Vancouver | D | Australia | Turquía | ⏳ Pendiente | — | — |
+| 2026-06-14 | 12:00 | NRG Stadium, Houston | E | Alemania | Curazao | ⏳ Pendiente | — | — |
+| 2026-06-14 | 15:00 | AT&T Stadium, Arlington | F | Países Bajos | Japón | ⏳ Pendiente | — | — |
+| 2026-06-14 | 19:00 | Lincoln Financial Field, Philadelphia | E | Costa de Marfil | Ecuador | ⏳ Pendiente | — | — |
+| 2026-06-14 | 20:00 | Estadio BBVA, Guadalupe | F | Suecia | Túnez | ⏳ Pendiente | — | — |
+| 2026-06-15 | 12:00 | Mercedes-Benz Stadium, Atlanta | H | España | Cabo Verde | ⏳ Pendiente | — | — |
+| 2026-06-15 | 15:00 | Lumen Field, Seattle | G | Bélgica | Egipto | ⏳ Pendiente | — | — |
+| 2026-06-15 | 18:00 | Hard Rock Stadium, Miami Gardens | H | Arabia Saudita | Uruguay | ⏳ Pendiente | — | — |
+| 2026-06-16 | 03:00 | SoFi Stadium, Inglewood | G | Irán | Nueva Zelanda | ⏳ Pendiente | — | — |
+| 2026-06-16 | 15:00 | MetLife Stadium, East Rutherford | I | Francia | Senegal | ⏳ Pendiente | — | — |
+| 2026-06-16 | 18:00 | Gillette Stadium, Foxborough | I | Irak | Noruega | ⏳ Pendiente | — | — |
+| 2026-06-16 | 20:00 | Arrowhead Stadium, Kansas City | J | Argentina | Argelia | ⏳ Pendiente | — | — |
+| 2026-06-17 | 03:00 | Levi's Stadium, Santa Clara | J | Austria | Jordania | ⏳ Pendiente | — | — |
+| 2026-06-17 | 12:00 | NRG Stadium, Houston | K | Portugal | RD del Congo | ⏳ Pendiente | — | — |
+| 2026-06-17 | 15:00 | AT&T Stadium, Arlington | L | Inglaterra | Croacia | ⏳ Pendiente | — | — |
+| 2026-06-17 | 19:00 | BMO Field, Toronto | L | Ghana | Panamá | ⏳ Pendiente | — | — |
+| 2026-06-17 | 20:00 | Estadio Azteca, Ciudad de México | K | Uzbekistán | Colombia | ⏳ Pendiente | — | — |
 
 ### Jornada 2
 

@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 80
 - Físico: 80
-- Moral: 73
+- Moral: 78
 - Cohesión: 78
 - Experiencia: 68
 
@@ -40,20 +40,20 @@
 | 15 | Jordan Bos | DEF | 23 | Westerlo | 23 | 74 | 70 | 59 | 100% |
 | 16 | Nathaniel Atkinson | DEF | 27 | Hearts | 22 | 73 | 69 | 58 | 100% |
 | 22 | Thomas Deng | DEF | 28 | Yokohama F. Marinos | 22 | 73 | 69 | 58 | 100% |
-| 6 | Aiden O'Neill ⚠️ | VOL | 27 | Standard Liège | 52 | 55 | 75 | 74 | 95% |
+| 6 | Aiden O'Neill | VOL | 27 | Standard Liège | 52 | 55 | 75 | 74 | 100% |
 | 8 | Connor Metcalfe | VOL | 26 | St. Pauli | 50 | 50 | 71 | 71 | 100% |
-| 10 | Ajdin Hrustic | VOL | 30 | Heracles | 56 | 40 | 70 | 80 | 95% |
-| 11 | Awer Mabil | VOL | 30 | Anorthosis | 60 | 35 | 72 | 80 | 95% |
-| 17 | Jackson Irvine | VOL | 33 | St. Pauli | 56 | 55 | 78 | 78 | 95% |
+| 10 | Ajdin Hrustic | VOL | 30 | Heracles | 56 | 40 | 70 | 80 | 100% |
+| 11 | Awer Mabil | VOL | 30 | Anorthosis | 60 | 35 | 72 | 80 | 100% |
+| 17 | Jackson Irvine | VOL | 33 | St. Pauli | 56 | 55 | 78 | 78 | 100% |
 | 18 | Keanu Baccus | VOL | 27 | St. Mirren | 52 | 52 | 70 | 74 | 100% |
-| 19 | Massimo Luongo | VOL | 33 | Ipswich | 53 | 53 | 70 | 75 | 98% |
+| 19 | Massimo Luongo | VOL | 33 | Ipswich | 53 | 53 | 70 | 75 | 100% |
 | 20 | Cameron Devlin | VOL | 27 | Aberdeen | 50 | 50 | 70 | 71 | 100% |
 | 21 | Hayden Matthews | VOL | 20 | Portsmouth | 50 | 50 | 67 | 71 | 100% |
-| 7 | Mathew Leckie | DEL | 35 | Melbourne City | 72 | 22 | 72 | 68 | 95% |
-| 9 | Mitchell Duke | DEL | 35 | Machida Zelvia | 70 | 21 | 75 | 67 | 95% |
+| 7 | Mathew Leckie | DEL | 35 | Melbourne City | 72 | 22 | 72 | 68 | 100% |
+| 9 | Mitchell Duke | DEL | 35 | Machida Zelvia | 70 | 21 | 75 | 67 | 100% |
 | 24 | Adam Taggart | DEL | 33 | Perth Glory | 70 | 21 | 70 | 67 | 100% |
 | 25 | Kusini Yengi | DEL | 27 | Portsmouth | 72 | 22 | 75 | 68 | 100% |
-| 26 | Nestory Irankunda | DEL | 20 | Watford | 74 | 22 | 70 | 70 | 98% |
+| 26 | Nestory Irankunda | DEL | 20 | Watford | 74 | 22 | 70 | 70 | 100% |
 
 ## XI titular probable
 4-2-3-1: M. Ryan; Atkinson, Souttar, Rowles, Behich; J. Irvine, O'Neill; Leckie, Hrustic, Mabil; Duke.
@@ -61,26 +61,23 @@
 ## Lesionados / Suspendidos
 - Riley McGree (VOL): lesión muscular, fuera del Mundial.
 
-## En capilla (1 amarilla acumulada)
-- Aiden O'Neill (min. 23' vs Turquía)
-
-## Forma reciente (últimos 5 partidos)
-- 2026-06-14 vs Turquía (Grupo D J1): 1-2 (D)
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Indonesia: 5-1 (V)
 - 2026-03-XX vs Bahréin: 1-0 (V)
 - 2025-11-XX vs Canadá: 2-2 (E)
 - 2025-10-XX vs Corea del Sur: 1-1 (E)
+- 2025-09-XX vs Japón: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 2  | −1 | 0   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- Mitchell Duke: 1 gol (min. 62' vs Turquía, cabezazo)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs EE.UU.: 1V-1E balance reciente.

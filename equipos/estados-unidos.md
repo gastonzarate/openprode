@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 78
 - Físico: 80
-- Moral: 86
+- Moral: 82
 - Cohesión: 82
 - Experiencia: 70
 
@@ -59,29 +59,25 @@
 4-3-3: Turner; Dest, Richards, Carter-Vickers, A. Robinson; Adams, McKennie, Musah; Weah, Pepi, Pulisic.
 
 ## Lesionados / Suspendidos
-- (ninguno)
+- (ninguno al inicio del Mundial)
 
-## En capilla (1 amarilla acumulada)
-- Antonee Robinson 🟨 (J1 vs PAR)
-
-## Forma reciente (últimos 5 partidos, incluido Mundial)
-- 2026-06-12 vs Paraguay: 2-1 (V) — **J1 Mundial**
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Canadá: 1-1 (E)
 - 2026-03-XX vs Jamaica: 2-1 (V)
 - 2025-11-XX vs Colombia: 0-2 (D)
 - 2025-10-XX vs México: 2-2 (E)
+- 2025-09-XX vs Panamá: 3-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- Christian Pulisic: 1 gol (20' penal vs PAR · J1)
-- Weston McKennie: 1 gol (73' vs PAR · J1)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs Paraguay: pocos enfrentamientos, balance equilibrado.

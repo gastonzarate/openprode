@@ -23,7 +23,7 @@
 - Defensa: 72
 - Arco: 74
 - Físico: 80
-- Moral: 82
+- Moral: 78
 - Cohesión: 78
 - Experiencia: 60
 
@@ -64,23 +64,22 @@
 - Alphonso Davies (DEL): lesión muscular de Bayern Munich, duda para debut del 12/06. Recuperación en curso.
 
 ## Forma reciente (pre-Mundial, últimos 5 partidos)
-- 2026-06-12 vs Bosnia y Herzegovina: 2-1 (V) — Grupo B J1 Mundial
 - 2026-03-XX vs Estados Unidos: 1-1 (E)
 - 2026-03-XX vs Panamá: 3-1 (V)
 - 2025-11-XX vs Surinam: 4-0 (V)
 - 2025-10-XX vs México: 0-2 (D)
+- 2025-09-XX vs Australia: 2-2 (E)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- Jonathan David (1)
-- Tajon Buchanan (1)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs Suiza: pocos enfrentamientos, balance favorable suizo.

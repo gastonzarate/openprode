@@ -61,32 +61,28 @@
 ## Lesionados / Suspendidos
 - (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos, incl. Mundial)
-- 2026-06-13 vs Haití: 2-0 (V) — Grupo C J1, Gillette Stadium (McTominay 28', McGinn 71')
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Polonia: 1-1 (E)
 - 2026-03-XX vs Suiza: 0-0 (E)
 - 2025-11-XX vs Bielorrusia: 3-0 (V)
 - 2025-10-XX vs Grecia: 2-1 (V)
+- 2025-09-XX vs Croacia: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 13/100
-
-## Moral actual
-- Alta tras la victoria sólida ante Haití; McTominay y McGinn en gran nivel.
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- Scott McTominay: 1 gol (28' vs Haití)
-- John McGinn: 1 gol (71' vs Haití)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs Brasil: histórico 0-2 (Francia 1998 fase grupos), 1-1 amistoso 2014.
 - vs Marruecos: 0-3 derrota escocesa, Francia 1998 fase grupos.
-- vs Haití: 2-0 (V) · 2026-06-13 · Grupo C J1.
+- vs Haití: sin antecedentes registrados.
 
 ---
 > Fuente: WebSearch 2026-05-27 (ESPN, Scottish FA).

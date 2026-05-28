@@ -69,16 +69,15 @@
 - 2025-09-XX vs Chad: 5-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 12/100
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- Mohammed Kudus: 1 gol (vs Panamá, 27', J1)
-- Antoine Semenyo: 1 gol (vs Panamá, 74', J1)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs Inglaterra: 1-1 amistoso 2011.

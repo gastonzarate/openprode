@@ -69,15 +69,15 @@
 - 2025-09-XX vs Estados Unidos: 0-3 (D)
 
 ## Carga física acumulada en el Mundial
-- 12/100
+- 0/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 2  | -1 | 0   |
+| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
 
 ### Goleadores propios
-- Ismael Díaz: 1 gol (vs Ghana, 58', J1)
+- (ninguno al inicio)
 
 ## Historial vs rivales del grupo
 - vs Inglaterra: 1-6 derrota panameña Mundial 2018 fase grupos.

@@ -1,123 +1,102 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-17 — Ghana 2-1 Panamá
+> Actualizado tras: 2026-06-11 — México 2-1 Sudáfrica
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | México | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Corea del Sur | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 3 | Sudáfrica | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
-| 4 | Chequia | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
+| 2 | Corea del Sur | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Chequia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Sudáfrica | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
 
 ## Grupo B
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Canadá | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Suiza | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
-| 3 | Catar | 1 | 0 | 0 | 1 | 0 | 2 | −2 | 0 |
-| 4 | Bosnia y Herzegovina | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
+| 1 | Canadá | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Suiza | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Catar | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Bosnia y Herzegovina | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Grupo C
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Brasil | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Escocia | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
-| 3 | Marruecos | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
-| 4 | Haití | 1 | 0 | 0 | 1 | 0 | 2 | −2 | 0 |
+| 1 | Brasil | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Marruecos | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Escocia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Haití | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Grupo D
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Estados Unidos | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Turquía | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 3 | Australia | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
-| 4 | Paraguay | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
-
-> ⚠️ EE.UU. y Turquía igualados en Pts/DG/GF — posición provisional hasta próximos partidos o criterio disciplinario.
+| 1 | Estados Unidos | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Paraguay | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Australia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Turquía | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Grupo E
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Alemania | 1 | 1 | 0 | 0 | 3 | 0 | +3 | 3 |
-| 2 | Costa de Marfil | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 3 | Ecuador | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 4 | Curazao | 1 | 0 | 0 | 1 | 0 | 3 | −3 | 0 |
-
-> ⚠️ Costa de Marfil y Ecuador igualados en Pts/DG/GF — posición provisional hasta próximos partidos o criterio disciplinario.
+| 1 | Alemania | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Curazao | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Costa de Marfil | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Ecuador | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Grupo F
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Países Bajos | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Suecia | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
-| 3 | Japón | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
-| 4 | Túnez | 1 | 0 | 0 | 1 | 0 | 2 | −2 | 0 |
+| 1 | Países Bajos | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Japón | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Túnez | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Suecia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Grupo G
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Bélgica | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Irán | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
-| 3 | Egipto | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
-| 4 | Nueva Zelanda | 1 | 0 | 0 | 1 | 0 | 2 | −2 | 0 |
-
-> ⚠️ Bélgica e Irán igualados en Pts — Irán supera en DG (+2 vs +1). Orden provisional hasta próximos partidos.
+| 1 | Bélgica | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Egipto | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Irán | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Nueva Zelanda | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Grupo H
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | España | 1 | 1 | 0 | 0 | 3 | 0 | +3 | 3 |
-| 2 | Uruguay | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 3 | Arabia Saudita | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
-| 4 | Cabo Verde | 1 | 0 | 0 | 1 | 0 | 3 | −3 | 0 |
+| 1 | España | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Cabo Verde | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Arabia Saudita | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Uruguay | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Grupo I
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Francia | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Noruega | 1 | 1 | 0 | 0 | 3 | 0 | +3 | 3 |
-| 3 | Senegal | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
-| 4 | Irak | 1 | 0 | 0 | 1 | 0 | 3 | −3 | 0 |
-
-> ⚠️ Francia y Noruega igualados en Pts (3) — Noruega supera en DG (+3 vs +1). Orden provisional hasta próximos partidos.
+| 1 | Francia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Senegal | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Noruega | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Irak | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Grupo J
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Argentina | 1 | 1 | 0 | 0 | 3 | 1 | +2 | 3 |
-| 2 | Austria | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
-| 3 | Argelia | 1 | 0 | 0 | 1 | 1 | 3 | −2 | 0 |
-| 4 | Jordania | 1 | 0 | 0 | 1 | 0 | 2 | −2 | 0 |
-
-> ⚠️ Argentina y Austria igualados en Pts (3) — Argentina supera en DG (+2 vs +2 también igual). Igualados también en DG y GF (3 vs 2): Argentina 1° por GF superior. Orden provisional hasta J2.
-> ⚠️ Argelia y Jordania igualados en Pts (0) — Argelia supera en GF (1 vs 0). Orden provisional hasta J2.
+| 1 | Argentina | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Argelia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Austria | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Jordania | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Grupo K
-> Actualizado tras: 2026-06-17 — Uzbekistán 0-2 Colombia
-
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Portugal | 1 | 1 | 0 | 0 | 3 | 1 | +2 | 3 |
-| 2 | Colombia | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
-| 3 | RD del Congo | 1 | 0 | 0 | 1 | 1 | 3 | -2 | 0 |
-| 4 | Uzbekistán | 1 | 0 | 0 | 1 | 0 | 2 | -2 | 0 |
-
-> ⚠️ Portugal y Colombia igualados en Pts (3) — Portugal 1° por mayor GF (3 vs 2). Orden provisional hasta J2.
-> ⚠️ RD del Congo y Uzbekistán igualados en Pts (0) — RD del Congo 3° por mayor GF (1 vs 0). Orden provisional hasta J2.
+| 1 | Portugal | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Colombia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Uzbekistán | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | RD del Congo | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Grupo L
-> Actualizado tras: 2026-06-17 — Ghana 2-1 Panamá
-
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Inglaterra | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Ghana | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 3 | Croacia | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
-| 4 | Panamá | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 |
-
-> ⚠️ Inglaterra y Ghana igualados en Pts (3) y DG (+1) — Inglaterra 1° por GF superior (2 vs 2, igual). Orden provisional hasta J2.
-> ⚠️ Croacia y Panamá igualados en Pts (0) y DG (-1) — orden provisional hasta J2.
+| 1 | Inglaterra | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Croacia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Ghana | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Panamá | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Clasificación a octavos
 Pasan los **2 primeros de cada grupo** + **8 mejores terceros** (Mundial de 48, formato 2026).
