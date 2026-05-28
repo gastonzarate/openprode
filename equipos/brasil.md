@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 92
 - Físico: 82
-- Moral: 84
+- Moral: 88 *(+4 — victoria J1 vs Marruecos)*
 - Cohesión: 80
 - Experiencia: 86
 
@@ -59,28 +59,32 @@
 4-3-3: Alisson; Vanderson, Marquinhos, Magalhães, C. Henrique; Casemiro, Bruno G., Paquetá; Raphinha, Vinícius, Neymar.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Capilla (en riesgo por amarillas)
+- Caio Henrique 🟡 (1/2 — próxima amarilla = suspensión en J2)
+
+## Forma reciente (últimos 5 partidos, incl. Mundial)
+- 2026-06-13 vs Marruecos: 2-1 (V) — Grupo C J1 Mundial
 - 2026-03-XX vs Colombia: 2-1 (V)
 - 2026-03-XX vs Argentina: 0-1 (D)
 - 2025-11-XX vs Uruguay: 2-0 (V)
 - 2025-10-XX vs Chile: 3-0 (V)
-- 2025-09-XX vs Ecuador: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Vinícius Jr.: 1 gol (min 19 vs Marruecos)
+- Raphinha: 1 gol (min 75 vs Marruecos)
 
 ## Historial vs rivales del grupo
-- vs Marruecos: amistoso 2023 derrota brasileña 1-2, último cruce.
+- vs Marruecos: amistoso 2023 derrota 1-2; **Mundial 2026 J1: Victoria 2-1** (Vini 19', Raphinha 75').
 - vs Escocia: balance histórico favorable a Brasil 3V-1E-1D.
 - vs Haití: sin antecedentes mundialistas relevantes.
 

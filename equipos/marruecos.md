@@ -21,7 +21,7 @@
 - Defensa: 82
 - Arco: 84
 - Físico: 78
-- Moral: 82
+- Moral: 77 *(-5 — derrota J1 vs Brasil)*
 - Cohesión: 84
 - Experiencia: 82
 
@@ -59,28 +59,32 @@
 4-3-3: Bounou; Hakimi, Aguerd, Saïss, Mazraoui; Amrabat, El Khannouss, Ounahi; B. Díaz, En-Nesyri, Ziyech.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Capilla (en riesgo por amarillas)
+- Sofyan Amrabat 🟡 (1/2 — próxima amarilla = suspensión en J2)
+- Hamza Igamane 🟡 (1/2 — próxima amarilla = suspensión en J2)
+
+## Forma reciente (últimos 5 partidos, incl. Mundial)
+- 2026-06-13 vs Brasil: 1-2 (D) — Grupo C J1 Mundial
 - 2026-03-XX vs Túnez: 1-1 (E)
 - 2026-03-XX vs Burkina Faso: 2-0 (V)
 - 2025-11-XX vs Gabón: 5-1 (V)
 - 2025-10-XX vs RD Congo: 1-1 (E)
-- 2025-09-XX vs Zambia: 2-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 1  | 2  | -1 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Hakim Ziyech: 1 gol (min 53 vs Brasil)
 
 ## Historial vs rivales del grupo
-- vs Brasil: 2-1 amistoso 2023, último cruce.
+- vs Brasil: amistoso 2023 victoria 2-1; **Mundial 2026 J1: Derrota 1-2** (Ziyech 53').
 - vs Escocia: sin antecedentes mundialistas; 3-0 derrota marroquí Francia 1998.
 - vs Haití: sin antecedentes registrados.
 
