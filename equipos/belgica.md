@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 86
 - Físico: 78
-- Moral: 78
+- Moral: 82 _(V1 +4)_
 - Cohesión: 78
 - Experiencia: 84
 
@@ -61,26 +61,27 @@
 ## Lesionados / Suspendidos
 - (ninguno al inicio del Mundial)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos, incluyendo Mundial)
+- 2026-06-15 vs Egipto: 2-1 (V) — Grupo G J1 Mundial 2026 ⭐
 - 2026-03-XX vs Macedonia del Norte: 4-0 (V)
 - 2026-03-XX vs Eslovenia: 2-1 (V)
 - 2025-11-XX vs Israel: 0-0 (E)
 - 2025-10-XX vs Estonia: 5-1 (V)
-- 2025-09-XX vs Austria: 0-1 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Romelu Lukaku: 1 gol (38' vs Egipto — cabezazo en córner)
+- Loïs Openda: 1 gol (81' vs Egipto — jugada elaborada)
 
 ## Historial vs rivales del grupo
-- vs Egipto: pocos enfrentamientos amistosos, balance equilibrado.
+- vs Egipto: **1V** en Mundial 2026 (2-1, J1). Amistosos previos: balance equilibrado.
 - vs Irán: amistoso 2014: 1-0 victoria belga.
 - vs Nueva Zelanda: sin antecedentes registrados.
 

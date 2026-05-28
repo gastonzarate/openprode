@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 76
 - Físico: 76
-- Moral: 78
+- Moral: 73 _(D1 -5)_
 - Cohesión: 80
 - Experiencia: 70
 
@@ -61,26 +61,26 @@
 ## Lesionados / Suspendidos
 - (ninguno al inicio del Mundial)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos, incluyendo Mundial)
+- 2026-06-15 vs Bélgica: 1-2 (D) — Grupo G J1 Mundial 2026 (Salah marcó)
 - 2026-03-XX vs Burkina Faso: 1-0 (V)
 - 2026-03-XX vs Sierra Leona: 2-1 (V)
 - 2025-11-XX vs Guinea-Bisáu: 3-1 (V)
 - 2025-10-XX vs Etiopía: 2-0 (V)
-- 2025-09-XX vs Botsuana: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 1  | 2  | -1 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Mohamed Salah: 1 gol (64' vs Bélgica — individual, recorte y disparo cruzado)
 
 ## Historial vs rivales del grupo
-- vs Bélgica: amistoso reciente: 2-1 derrota egipcia.
+- vs Bélgica: **1D** en Mundial 2026 (1-2, J1). Amistosos previos: derrota también 2-1.
 - vs Irán: pocos enfrentamientos, balance equilibrado.
 - vs Nueva Zelanda: sin antecedentes registrados.
 
