@@ -21,7 +21,7 @@
 - Defensa: 88
 - Arco: 84
 - Físico: 82
-- Moral: 80
+- Moral: 84 *(+4 — Victoria J1)*
 - Cohesión: 84
 - Experiencia: 82
 
@@ -61,26 +61,27 @@
 ## Lesionados / Suspendidos
 - Xavi Simons (VOL): lesión grave de rodilla, fuera del torneo completo.
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-14 vs Japón (J1): 2-1 **(V)** ← último
 - 2026-03-XX vs Alemania: 2-2 (E)
 - 2026-03-XX vs España: 1-1 (E)
 - 2025-11-XX vs Hungría: 4-0 (V)
 - 2025-11-XX vs Polonia: 2-0 (V)
-- 2025-10-XX vs Bosnia: 5-2 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 15/100 *(+15 — J1 calor extremo 33 °C, 90'+4 min)*
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Memphis Depay: 1 gol (J1 vs Japón, 33')
+- Cody Gakpo: 1 gol (J1 vs Japón, 79')
 
 ## Historial vs rivales del grupo
-- vs Japón: 4-0 derrota japonesa Brasil 2014 (octavos amistoso 2025: 2-1 victoria neerlandesa).
+- vs Japón: 4-0 derrota japonesa Brasil 2014; amistoso 2025: 2-1 victoria neerlandesa; **J1 2026: 2-1 victoria** (Depay 33', Gakpo 79').
 - vs Túnez: sin antecedentes mundialistas relevantes.
 - vs Suecia: pareja UEFA histórica, 2V-2E-1D balance.
 

@@ -21,7 +21,7 @@
 - Defensa: 78
 - Arco: 75
 - Físico: 75
-- Moral: 78
+- Moral: 73 *(-5 — Derrota J1)*
 - Cohesión: 90
 - Experiencia: 80
 
@@ -63,26 +63,26 @@
 - Takumi Minamino — fuera del Mundial por lesión de LCA.
 - Hidemasa Morita — descartado del plantel final (decisión técnica + forma).
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-14 vs Países Bajos (J1): 1-2 **(D)** ← último
 - 2026-03-XX vs Inglaterra (amistoso): 0-2 (D)
 - 2026-03-XX vs Escocia (amistoso): 1-1 (E)
 - 2026-03-XX vs Corea del Sur: 2-1 (V)
 - 2026-03-XX vs Bahréin: 5-0 (V)
-- 2025-11-XX vs Indonesia: 4-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 15/100 *(+15 — J1 calor extremo 33 °C, 90'+4 min)*
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 1  | 2  | -1 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Ritsu Doan: 1 gol (J1 vs Países Bajos, 67')
 
 ## Historial vs rivales del grupo
-- vs Países Bajos: 4-0 derrota japonesa Brasil 2014 octavos; amistoso 2025 2-1 derrota.
+- vs Países Bajos: 4-0 derrota Brasil 2014; amistoso 2025 2-1 derrota; **J1 2026: 1-2 derrota** (Doan 67').
 - vs Túnez: amistoso 2-0 victoria japonesa 2023.
 - vs Suecia: pocos enfrentamientos, balance equilibrado.
 
