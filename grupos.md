@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-12 — Canadá 0-0 Bosnia y Herzegovina
+> Actualizado tras: 2026-06-12 — Estados Unidos 1-1 Paraguay
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -29,8 +29,8 @@
 ## Grupo D
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Estados Unidos | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Paraguay | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Estados Unidos 🇺🇸 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 2 | Paraguay 🇵🇾 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
 | 3 | Australia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 4 | Turquía | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 

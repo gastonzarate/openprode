@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 78
 - Físico: 80
-- Moral: 82
+- Moral: 80
 - Cohesión: 82
 - Experiencia: 70
 
@@ -59,28 +59,28 @@
 4-3-3: Turner; Dest, Richards, Carter-Vickers, A. Robinson; Adams, McKennie, Musah; Weah, Pepi, Pulisic.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Weston McKennie: 🟨 (1 amarilla — en capilla)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-12 vs Paraguay (Mundial J1): 1-1 (E)
 - 2026-03-XX vs Canadá: 1-1 (E)
 - 2026-03-XX vs Jamaica: 2-1 (V)
 - 2025-11-XX vs Colombia: 0-2 (D)
 - 2025-10-XX vs México: 2-2 (E)
-- 2025-09-XX vs Panamá: 3-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Christian Pulisic: 1 gol (vs Paraguay, 23', J1)
 
 ## Historial vs rivales del grupo
-- vs Paraguay: pocos enfrentamientos, balance equilibrado.
+- vs Paraguay: 1 partido en Mundial 2026 — 1-1 (J1, 2026-06-12). Pre-Mundial: balance equilibrado.
 - vs Australia: 2 amistosos recientes, balance favorable USA 1V-1E.
 - vs Turquía: 2-1 derrota USA amistoso 2022.
 
