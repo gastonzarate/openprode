@@ -1,14 +1,14 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-11 — México 2-1 Sudáfrica
+> Actualizado tras: 2026-06-11 — México 1-0 Sudáfrica
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | México | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
+| 1 | México | 1 | 1 | 0 | 0 | 1 | 0 | +1 | 3 |
 | 2 | Corea del Sur | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Chequia | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Sudáfrica | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
+| 4 | Sudáfrica | 1 | 0 | 0 | 1 | 0 | 1 | −1 | 0 |
 
 ## Grupo B
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |

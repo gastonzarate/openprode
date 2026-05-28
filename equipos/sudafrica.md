@@ -23,7 +23,7 @@
 - Defensa: 66
 - Arco: 80
 - Físico: 73
-- Moral: 73
+- Moral: 68
 - Cohesión: 80
 - Experiencia: 60
 
@@ -61,10 +61,10 @@
 4-3-3: R. Williams; Mudau, Sibisi, Mvala, Modiba; Mokoena, Adams, Maswanganyi; Mofokeng, Foster, Zwane.
 
 ## Lesionados / Suspendidos
-- En capilla (1 amarilla acumulada): Mokoena, Modiba.
+- En capilla (1 amarilla acumulada): Mokoena, Modiba (2da amarilla vs México).
 
 ## Forma reciente (pre-Mundial + Mundial, últimos 5 partidos)
-- 2026-06-11 vs México (Mundial J1): 1-2 (D)
+- 2026-06-11 vs México (Mundial J1): 0-1 (D)
 - 2026-03-XX vs Nigeria: 1-1 (E)
 - 2025-11-XX vs Lesoto: 3-0 (V)
 - 2025-10-XX vs Zimbabue: 0-0 (E)
@@ -76,13 +76,13 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 2  | −1 | 0   |
+| 1  | 0 | 0 | 1 | 0  | 1  | −1 | 0   |
 
 ### Goleadores propios
-- 61' (vs México) Lyle Foster
+*(sin goles en J1)*
 
 ## Historial vs rivales del grupo
-- vs México: 1-1 en Soccer City 2010, pocos enfrentamientos posteriores.
+- vs México: 0-1 en J1 (2026-06-11, Azteca). Anteriormente: 1-1 en Soccer City 2010.
 - vs Corea del Sur: 1 partido amistoso, victoria coreana 2-1.
 - vs Chequia: sin antecedentes registrados.
 
