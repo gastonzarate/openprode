@@ -1,6 +1,6 @@
 # Tablas de posiciones — Fase de Grupos
 
-> Actualizado tras: 2026-06-17 — Ghana 1-1 Panamá
+> Actualizado tras: 2026-06-17 — Uzbekistán 0-2 Colombia
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
@@ -96,9 +96,11 @@
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
 | 1 | Portugal 🇵🇹 | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 2 | Colombia 🇨🇴 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Uzbekistán 🇺🇿 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | RD del Congo 🇨🇩 | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
+| 2 | Colombia 🇨🇴 | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
+| 3 | RD del Congo 🇨🇩 | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
+| 4 | Uzbekistán 🇺🇿 | 1 | 0 | 0 | 1 | 0 | 2 | −2 | 0 |
+
+*Portugal y Colombia iguales en Pts (3). Colombia aventaja por DG (+2 vs +1). RD Congo sobre Uzbekistán por GF (1 vs 0).*
 
 ## Grupo L
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |

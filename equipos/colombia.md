@@ -21,7 +21,7 @@
 - Defensa: 78
 - Arco: 78
 - Físico: 78
-- Moral: 82
+- Moral: 87
 - Cohesión: 82
 - Experiencia: 78
 
@@ -59,29 +59,30 @@
 4-3-3: C. Vargas; D. Muñoz, D. Sánchez, J. Lucumí, J. Mojica; Lerma, R. Ríos, James; J. Arias, L. Suárez, L. Díaz.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-17 vs Uzbekistán: 2-0 (V) — Grupo K J1, Azteca
 - 2026-03-XX vs Brasil: 1-2 (D)
 - 2026-03-XX vs Uruguay: 2-2 (E)
 - 2025-11-XX vs Argentina: 1-0 (V)
 - 2025-10-XX vs Bolivia: 4-0 (V)
-- 2025-09-XX vs Chile: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Luis Díaz: 1 gol (38' vs Uzbekistán, volea)
+- James Rodríguez: 1 gol (71' vs Uzbekistán, tiro libre)
 
 ## Historial vs rivales del grupo
 - vs Portugal: 1-0 derrota colombiana amistoso 2024.
-- vs Uzbekistán: sin antecedentes registrados.
+- vs Uzbekistán: 2-0 (V) — 2026-06-17, Grupo K J1, Azteca.
 - vs RD Congo: sin antecedentes registrados.
 
 ---

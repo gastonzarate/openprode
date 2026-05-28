@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 70
 - Físico: 78
-- Moral: 82
+- Moral: 74
 - Cohesión: 80
 - Experiencia: 48
 
@@ -59,29 +59,34 @@
 4-3-3: Yusupov; Nasrullaev, Khusanov, Krimets, Erkinov; O. Shukurov, Alijonov, Fayzullaev; Masharipov, Shomurodov, Turgunboev.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- (ninguno)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## En capilla (1 amarilla acumulada — J1)
+- Alijonov 🟨 (vs Colombia, 11')
+- Turgunboev 🟨 (vs Colombia, 55')
+- Khusanov 🟨 (vs Colombia, 81')
+
+## Forma reciente (últimos 5 partidos)
+- 2026-06-17 vs Colombia: 0-2 (D) — Grupo K J1, Azteca
 - 2026-03-XX vs Catar: 1-0 (V)
 - 2026-03-XX vs Irán: 1-1 (E)
 - 2025-11-XX vs Tayikistán: 2-0 (V)
 - 2025-10-XX vs Kirguistán: 3-1 (V)
-- 2025-09-XX vs Turkmenistán: 2-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 14/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- (ninguno)
 
 ## Historial vs rivales del grupo
 - vs Portugal: sin antecedentes registrados.
-- vs Colombia: sin antecedentes registrados.
+- vs Colombia: 0-2 (D) — 2026-06-17, Grupo K J1, Azteca.
 - vs RD Congo: sin antecedentes registrados.
 
 ---
