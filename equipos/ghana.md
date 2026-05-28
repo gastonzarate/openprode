@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 70
 - Físico: 84
-- Moral: 76
+- Moral: 74
 - Cohesión: 76
 - Experiencia: 70
 
@@ -59,9 +59,10 @@
 4-3-3: Wollacott; Lamptey, Salisu, Djiku, Mensah; Partey, S. Samed, Kudus; Semenyo, J. Ayew, K. Sulemana.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Mohammed Salisu: en capilla (1 amarilla acumulada — J1 vs Panamá)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-17 vs Panamá (Mundial J1): 1-1 (E)
 - 2026-03-XX vs Sudáfrica: 1-1 (E)
 - 2026-03-XX vs Madagascar: 2-0 (V)
 - 2025-11-XX vs Mali: 0-0 (E)
@@ -69,20 +70,20 @@
 - 2025-09-XX vs Chad: 5-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Mohammed Kudus: 1 gol (J1 vs Panamá, 67')
 
 ## Historial vs rivales del grupo
 - vs Inglaterra: 1-1 amistoso 2011.
 - vs Croacia: 1-1 amistoso 2014.
-- vs Panamá: sin antecedentes registrados.
+- vs Panamá: 1-1 (Mundial 2026 J1, BMO Field Toronto, 2026-06-17).
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (GFA).

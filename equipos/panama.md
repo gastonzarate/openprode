@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 74
 - Físico: 78
-- Moral: 78
+- Moral: 80
 - Cohesión: 80
 - Experiencia: 55
 
@@ -59,9 +59,10 @@
 4-3-3: Mosquera; Blackman, F. Escobar, M. Murillo, E. Davis; Carrasquilla, Godoy, C. Harvey; J. L. Rodríguez, I. Díaz, Bárcenas.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Michael Murillo: en capilla (1 amarilla acumulada — J1 vs Ghana)
 
-## Forma reciente (pre-Mundial, últimos 5 partidos)
+## Forma reciente (últimos 5 partidos)
+- 2026-06-17 vs Ghana (Mundial J1): 1-1 (E)
 - 2026-03-XX vs Honduras: 1-1 (E)
 - 2026-03-XX vs Surinam: 2-0 (V)
 - 2025-11-XX vs Costa Rica: 1-1 (E)
@@ -69,20 +70,20 @@
 - 2025-09-XX vs Estados Unidos: 0-3 (D)
 
 ## Carga física acumulada en el Mundial
-- 0/100
+- 13/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 0  | 0 | 0 | 0 | 0  | 0  | 0  | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno al inicio)
+- Ismael Díaz: 1 gol (J1 vs Ghana, 79')
 
 ## Historial vs rivales del grupo
 - vs Inglaterra: 1-6 derrota panameña Mundial 2018 fase grupos.
 - vs Croacia: sin antecedentes registrados.
-- vs Ghana: sin antecedentes registrados.
+- vs Ghana: 1-1 (Mundial 2026 J1, BMO Field Toronto, 2026-06-17).
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (FEPAFUT).
