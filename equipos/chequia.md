@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 72
 - Físico: 76
-- Moral: 72
+- Moral: 69
 - Cohesión: 68
 - Experiencia: 70
 
@@ -62,10 +62,10 @@
 - (ninguno)
 
 ## Estado de ánimo / Capilla
-- J1_INICIO completado. Empate como no-favorito: moral +2. Souček como figura, pelota parada funcionó a la perfección.
+Derrota 1-2 vs Corea del Sur. El equipo cedió la victoria en la segunda mitad. Revisión táctica necesaria.
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-11 vs Corea del Sur (Mundial J1): 1-1 (E)
+- 2026-06-11 vs Corea del Sur: 1-2 (D) — Grupo A J1 Mundial 2026
 - 2026-03-XX vs Eslovaquia: 2-1 (V)
 - 2026-03-XX vs Suecia: 1-1 (E)
 - 2025-11-XX vs San Marino: 4-0 (V)
@@ -77,15 +77,20 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 1  | 0 | 0 | 1 | 1  | 2  | −1 | 0   |
 
 ### Goleadores propios
-- Tomáš Souček: 1 gol (vs Corea del Sur, 67', J1)
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
 - vs México: 1-1 amistoso 2014, sin antecedentes mundialistas.
 - vs Sudáfrica: sin antecedentes registrados.
 - vs Corea del Sur: 2-0 derrota chequia amistoso 2018.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Chequia 1-1 Corea del Sur
+- **Real:** Chequia 1-2 Corea del Sur
+- **Diagnóstico:** Simulamos empate (1-1) cuando en realidad perdieron 1-2; la cohesión coreana fue subestimada.
 
 ---
 > Fuente: WebSearch 2026-05-27 (Olympics.com, FourFourTwo).

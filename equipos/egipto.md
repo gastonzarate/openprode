@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 76
 - Físico: 76
-- Moral: 73 _(D1 -5)_
+- Moral: 80
 - Cohesión: 80
 - Experiencia: 70
 
@@ -62,7 +62,7 @@
 - (ninguno al inicio del Mundial)
 
 ## Forma reciente (últimos 5 partidos, incluyendo Mundial)
-- 2026-06-15 vs Bélgica: 1-2 (D) — Grupo G J1 Mundial 2026 (Salah marcó)
+- 2026-06-15 vs Bélgica: 1-1 (E) — Grupo G J1 Mundial 2026
 - 2026-03-XX vs Burkina Faso: 1-0 (V)
 - 2026-03-XX vs Sierra Leona: 2-1 (V)
 - 2025-11-XX vs Guinea-Bisáu: 3-1 (V)
@@ -74,15 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 2  | -1 | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- Mohamed Salah: 1 gol (64' vs Bélgica — individual, recorte y disparo cruzado)
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
-- vs Bélgica: **1D** en Mundial 2026 (1-2, J1). Amistosos previos: derrota también 2-1.
+- vs Bélgica: **1E** en Mundial 2026 (1-1, J1). Amistosos previos: derrota 2-1.
 - vs Irán: pocos enfrentamientos, balance equilibrado.
 - vs Nueva Zelanda: sin antecedentes registrados.
+
+## Estado de ánimo
+Empate 1-1 vs Bélgica. Con Salah como figura, Egipto demostró ser competitivo a nivel mundial. Punto valioso en el debut.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Bélgica 2-1 Egipto
+- **Real:** Bélgica 1-1 Egipto
+- **Diagnóstico:** Simulamos derrota 1-2 pero Egipto empató 1-1; Salah y la compactidad defensiva egipcia superan lo que asignaron los stats iniciales.
 
 ---
 > Fuente: WebSearch parcial + conocimiento del modelo 2026-05-27.

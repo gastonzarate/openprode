@@ -21,7 +21,7 @@
 - Defensa: 73
 - Arco: 73
 - Físico: 80
-- Moral: 73
+- Moral: 76
 - Cohesión: 80
 - Experiencia: 75
 
@@ -62,10 +62,10 @@
 - Seol Young-woo: reemplazado al 20' por molestia muscular (seguimiento)
 
 ## Estado de ánimo / Capilla
-- J1_INICIO completado. Empate como favorito chico: moral −2. Seol Young-woo salió lesionado, incertidumbre para J2.
+Victoria 2-1 vs Chequia. Son condujo a la remontada. Moral alta de cara a México en J2.
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-11 vs Chequia (Mundial J1): 1-1 (E)
+- 2026-06-11 vs Chequia: 2-1 (V) — Grupo A J1 Mundial 2026
 - 2026-03-XX vs Japón: 1-2 (D)
 - 2026-03-XX vs Bahréin: 4-0 (V)
 - 2025-11-XX vs Kuwait: 3-0 (V)
@@ -77,15 +77,20 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
 
 ### Goleadores propios
-- Son Heung-min: 1 gol (vs Chequia, 38', J1)
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
 - vs México: 5 enfrentamientos, balance equilibrado (incluye victoria coreana 2-1 en Rusia 2018).
 - vs Sudáfrica: 1-1 último amistoso, ventaja sudafricana 2-1 cara a cara.
 - vs Chequia: 2-0 victoria coreana amistoso 2018.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Corea del Sur 1-1 Chequia
+- **Real:** Corea del Sur 2-1 Chequia
+- **Diagnóstico:** Error de resultado: simulamos empate (1-1) pero Corea ganó 2-1; el diferencial de fuerza fue mayor de lo que el modelo estimó.
 
 ---
 > Fuente: WebSearch 2026-05-27 (ESPN, beIN Sports, FourFourTwo).

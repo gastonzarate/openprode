@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 72
 - Físico: 70
-- Moral: 86
+- Moral: 87
 - Cohesión: 78
 - Experiencia: 76
 
@@ -67,7 +67,7 @@
 - Anel Ahmedhodžić (DEF) — 1 amarilla (min. 90'+2 vs Canadá)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-12 vs Canadá: 0-0 (E) — Grupo B J1 Mundial 2026 (Vasilj MVP)
+- 2026-06-12 vs Canadá: 1-1 (E) — Grupo B J1 Mundial 2026
 - 2026-03-XX vs Italia: 1-1 (4-2 pen, V) — repechaje final
 - 2026-03-XX vs Gales: 0-0 (5-3 pen, V) — semi repechaje
 - 2025-11-XX vs Eslovaquia: 1-1 (E)
@@ -79,15 +79,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 0  | 0  | 0  | 1   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno)
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
-- vs Canadá: 1 PJ — 2026-06-12, 0-0 empate (J1 Mundial 2026). Vasilj MVP.
+- vs Canadá: 1 PJ — 2026-06-12, 1-1 empate (J1 Mundial 2026).
 - vs Suiza: rivalidad UEFA, balance ligeramente favorable a Suiza.
 - vs Catar: sin antecedentes registrados.
+
+## Estado de ánimo
+Empate 1-1 vs Canadá. Punto valioso en debut mundialista. Vasilj y Džeko respondieron bien.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Bosnia y Herzegovina 0-0 Canadá
+- **Real:** Bosnia y Herzegovina 1-1 Canadá
+- **Diagnóstico:** Simulamos 0-0, fue 1-1; acertamos el empate pero el modelo subestimó la capacidad goleadora de Džeko.
 
 ---
 > Fuente: WebSearch 2026-05-27 (FIFA, beIN Sports).

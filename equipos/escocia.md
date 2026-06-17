@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 72
 - Físico: 80
-- Moral: 85
+- Moral: 78 *(+0 base — victoria ajustada J1 vs Haití)*
 - Cohesión: 84
 - Experiencia: 64
 
@@ -62,7 +62,7 @@
 - (ninguno)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-13 vs Haití: 2-0 (V) — Mundial J1 Grupo C
+- 2026-06-13 vs Haití: 1-0 (V) — Grupo C J1 Mundial 2026
 - 2026-03-XX vs Polonia: 1-1 (E)
 - 2026-03-XX vs Suiza: 0-0 (E)
 - 2025-11-XX vs Bielorrusia: 3-0 (V)
@@ -74,16 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
+| 1  | 1 | 0 | 0 | 1  | 0  | +1 | 3   |
 
 ### Goleadores propios
-- Scott McTominay: 1 gol (38' vs Haití, J1)
-- John McGinn: 1 gol (74' vs Haití, J1)
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
 - vs Brasil: histórico 0-2 (Francia 1998 fase grupos), 1-1 amistoso 2014.
 - vs Marruecos: 0-3 derrota escocesa, Francia 1998 fase grupos.
-- vs Haití: 2-0 (V) — Mundial 2026 J1, Gillette Stadium.
+- vs Haití: 1-0 (V) — Mundial 2026 J1.
+
+## Estado de ánimo
+Victoria 1-0 vs Haití. Los tres puntos son lo que importa. Resultado limpio y base sólida para J2 vs Marruecos.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Escocia 2-0 Haití
+- **Real:** Escocia 1-0 Haití
+- **Diagnóstico:** Acertamos la victoria pero el marcador fue 1-0, no 2-0; Escocia fue más eficiente y Haití más compacto de lo esperado.
 
 ---
 > Fuente: WebSearch 2026-05-27 (ESPN, Scottish FA).

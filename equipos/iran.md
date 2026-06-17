@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 72
 - Físico: 76
-- Moral: 77
+- Moral: 74
 - Cohesión: 76
 - Experiencia: 72
 
@@ -63,7 +63,7 @@
 - En capilla (1 amarilla): Moharrami.
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-16 vs Nueva Zelanda: 2-0 (V) — Mundial J1
+- 2026-06-16 vs Nueva Zelanda: 2-2 (E) — Grupo G J1 Mundial 2026
 - 2026-03-XX vs Catar: 2-1 (V)
 - 2026-03-XX vs Corea del Norte: 3-0 (V)
 - 2025-11-XX vs Uzbekistán: 1-1 (E)
@@ -75,15 +75,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
+| 1  | 0 | 1 | 0 | 2  | 2  | 0  | 1   |
 
 ### Goleadores propios
-- Mehdi Taremi: 2 (J1 vs Nueva Zelanda — 33' y 83')
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
 - vs Bélgica: amistoso 2014: 1-0 derrota iraní.
 - vs Egipto: pocos enfrentamientos amistosos.
-- vs Nueva Zelanda: 1 PJ — 1 V (2-0, Mundial 2026 J1).
+- vs Nueva Zelanda: 1 PJ — 1 E (2-2, Mundial 2026 J1).
+
+## Estado de ánimo
+Empate 2-2 vs Nueva Zelanda. Irán cedió ventaja y no pudo sostener el marcador. Nueva Zelanda demostró ser rival serio.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Irán 2-0 Nueva Zelanda
+- **Real:** Irán 2-2 Nueva Zelanda
+- **Diagnóstico:** Simulamos victoria 2-0 pero fue 2-2; Irán cedió la ventaja y Nueva Zelanda demostró ser más peligrosa de lo modelado.
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (Iran sede en México por bloqueo, confirmado por reportes).

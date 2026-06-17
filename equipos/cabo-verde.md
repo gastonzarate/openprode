@@ -21,7 +21,7 @@
 - Defensa: 64
 - Arco: 66
 - Físico: 72
-- Moral: 76
+- Moral: 72
 - Cohesión: 80
 - Experiencia: 50
 
@@ -67,7 +67,7 @@
 - Geny Catamo (🟨 min. 80 vs España)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-15 vs España: 0-4 (D) — Grupo H J1
+- 2026-06-15 vs España: 0-0 (E) — Grupo H J1 Mundial 2026
 - 2026-03-XX vs Esuatini: 3-0 (V)
 - 2026-03-XX vs Camerún: 0-1 (D)
 - 2025-11-XX vs Libia: 1-0 (V)
@@ -79,15 +79,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 4  | −4 | 0   |
+| 1  | 0 | 1 | 0 | 0  | 0  | 0  | 1   |
 
 ### Goleadores propios
 - (ninguno aún)
 
 ## Historial vs rivales del grupo
-- vs España: 0V-0E-1D (2026-06-15: 0-4 · Mundial J1).
+- vs España: 0V-1E-0D (2026-06-15: 0-0 · Mundial J1).
 - vs Arabia Saudita: sin antecedentes registrados.
 - vs Uruguay: sin antecedentes registrados.
+
+## Estado de ánimo
+Empate 0-0 vs España. HAZAÑA HISTÓRICA. El bloque defensivo capoverdiano aguantó 90' sin recibir gol ante el favorito del grupo. Uno de los grandes resultados de la historia de Cabo Verde.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** España 4-0 Cabo Verde
+- **Real:** España 0-0 Cabo Verde
+- **Diagnóstico:** El mayor acierto inesperado: lograron lo que nunca les dimos posibilidades — resistir 90' sin goles ante España gracias a un bloque defensivo que el simulador ignoró.
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (CAF, Federación Caboverdiana).

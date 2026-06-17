@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 74
 - Físico: 82
-- Moral: 82
+- Moral: 85 *(+3 — Goleada J1)*
 - Cohesión: 76
 - Experiencia: 72
 
@@ -62,7 +62,7 @@
 - **En capilla (1 amarilla):** Victor Lindelöf (🟨 J1 vs Túnez — próximo partido: vs Países Bajos J2)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-14 vs Túnez: 1-0 (V) — Grupo F J1 · Gol: Isak 56'
+- 2026-06-14 vs Túnez: 5-1 (V) — Grupo F J1 Mundial 2026
 - 2026-03-XX vs Chequia: 1-1 (E)
 - 2026-03-XX vs Albania: 4-1 (V)
 - 2025-11-XX vs Suiza: 2-1 (V)
@@ -74,15 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 1  | 0  | +1 | 3   |
+| 1  | 1 | 0 | 0 | 5  | 1  | +4 | 3   |
 
 ### Goleadores propios
-- Alexander Isak: 1 gol (56' vs Túnez, J1)
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
 - vs Países Bajos: rivalidad UEFA, balance 2V-2E-1D sueco.
 - vs Japón: pocos enfrentamientos, balance equilibrado.
-- vs Túnez: 1V — 2026-06-14 Suecia 1-0 Túnez (Grupo F J1).
+- vs Túnez: 1V — 2026-06-14 Suecia 5-1 Túnez (Grupo F J1).
+
+## Estado de ánimo
+Goleada 5-1 vs Túnez. Actuación de ensueño — el equipo mostró su mejor versión goleadora. Lideran el grupo con autoridad.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Victoria 1-0 vs Túnez
+- **Real:** Victoria 5-1 vs Túnez
+- **Diagnóstico:** Acertamos el ganador pero 5-1 vs 1-0 simulado; Túnez fue mucho más débil de lo proyectado y Suecia demostró ser más ofensiva.
 
 ---
 > Fuente: WebSearch parcial + conocimiento del modelo 2026-05-27.

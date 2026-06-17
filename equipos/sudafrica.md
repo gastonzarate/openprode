@@ -23,7 +23,7 @@
 - Defensa: 66
 - Arco: 80
 - Físico: 73
-- Moral: 68
+- Moral: 62
 - Cohesión: 80
 - Experiencia: 60
 
@@ -63,8 +63,11 @@
 ## Lesionados / Suspendidos
 - En capilla (1 amarilla acumulada): Mokoena, Modiba (2da amarilla vs México).
 
+## Estado de ánimo
+Derrota 0-2 vs México en el Azteca. Resultado esperado pero falta de gol preocupante.
+
 ## Forma reciente (pre-Mundial + Mundial, últimos 5 partidos)
-- 2026-06-11 vs México (Mundial J1): 0-1 (D)
+- 2026-06-11 vs México: 0-2 (D) — Grupo A J1 Mundial 2026
 - 2026-03-XX vs Nigeria: 1-1 (E)
 - 2025-11-XX vs Lesoto: 3-0 (V)
 - 2025-10-XX vs Zimbabue: 0-0 (E)
@@ -76,15 +79,20 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 1  | −1 | 0   |
+| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
 
 ### Goleadores propios
-*(sin goles en J1)*
+- (ninguno)
 
 ## Historial vs rivales del grupo
-- vs México: 0-1 en J1 (2026-06-11, Azteca). Anteriormente: 1-1 en Soccer City 2010.
+- vs México: 0-2 en J1 (2026-06-11, Azteca). Anteriormente: 1-1 en Soccer City 2010.
 - vs Corea del Sur: 1 partido amistoso, victoria coreana 2-1.
 - vs Chequia: sin antecedentes registrados.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Sudáfrica 0-1 México
+- **Real:** Sudáfrica 0-2 México
+- **Diagnóstico:** Acertamos la derrota, pero México fue más contundente que lo simulado (0-2 vs 0-1 simulado).
 
 ---
 > Fuente: WebSearch 2026-05-27 (SAFA, FIFA, TimesLIVE).

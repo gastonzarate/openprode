@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 74
 - Físico: 84
-- Moral: 77
+- Moral: 81
 - Cohesión: 80
 - Experiencia: 70
 
@@ -62,7 +62,7 @@
 - (ninguno)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-14 vs Ecuador (Mundial J1): 0-1 (D)
+- 2026-06-14 vs Ecuador: 1-0 (V) — Grupo E J1 Mundial 2026
 - 2026-03-XX vs Burkina Faso: 1-1 (E)
 - 2026-03-XX vs Burundi: 2-0 (V)
 - 2025-11-XX vs Gambia: 3-0 (V)
@@ -74,15 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 1  | -1 | 0   |
+| 1  | 1 | 0 | 0 | 1  | 0  | +1 | 3   |
 
 ### Goleadores propios
-- (ninguno)
+- (goleadores reales a confirmar — 1 gol)
 
 ## Historial vs rivales del grupo
 - vs Alemania: 0-0 (Mundial 2006), balance 0V-1E-1D.
 - vs Curazao: sin antecedentes registrados.
 - vs Ecuador: sin antecedentes registrados.
+
+## Estado de ánimo
+Victoria 1-0 vs Ecuador. SORPRESA DEL GRUPO — los Elefantes superaron al favorito con gol único y gran solidez defensiva.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Costa de Marfil 0-1 Ecuador
+- **Real:** Costa de Marfil 1-0 Ecuador
+- **Diagnóstico:** Error de resultado: simulamos derrota 0-1 pero ganaron 1-0; Ecuador fue sobrevalorado en nuestros stats frente a la calidad individual africana.
 
 ---
 > Fuente: WebSearch 2026-05-27 (FIFA, FourFourTwo, Olympics.com).

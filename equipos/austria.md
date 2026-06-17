@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 72
 - Físico: 82
-- Moral: 83
+- Moral: 81
 - Cohesión: 84
 - Experiencia: 72
 
@@ -65,7 +65,7 @@
 - Posch: 1 amarilla (J1 vs Jordania, 80')
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-17 vs Jordania: 2-0 (V) — Mundial J1 ✅
+- 2026-06-17 vs Jordania: 3-1 (V) — Grupo J J1 Mundial 2026
 - 2026-03-XX vs Turquía: 2-1 (V)
 - 2026-03-XX vs Eslovenia: 1-1 (E)
 - 2025-11-XX vs Estonia: 2-0 (V)
@@ -77,16 +77,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
+| 1  | 1 | 0 | 0 | 3  | 1  | +2 | 3   |
 
 ### Goleadores propios
-- Baumgartner: 1 gol (J1 vs Jordania, 38' — jugada elaborada)
-- Alaba: 1 gol (J1 vs Jordania, 74' — tiro libre)
+- (goleadores reales a confirmar — 3 goles)
 
 ## Historial vs rivales del grupo
 - vs Argentina: balance 2V-1E-6D para Argentina; último 1-2 derrota austriaca amistoso 2008.
 - vs Argelia: sin antecedentes registrados.
 - vs Jordania: 1V-0E-0D. Único partido: 2026-06-17, 2-0 (Grupo J, J1 Mundial).
+
+## Estado de ánimo
+Victoria 3-1 vs Jordania. Buen debut. Alaba y el equipo fueron contundentes aunque cedieron un gol.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Austria 2-0 Jordania
+- **Real:** Austria 3-1 Jordania
+- **Diagnóstico:** Acertamos el ganador pero el real fue 3-1 vs nuestro 2-0 simulado; Jordania anotó un gol que no modelamos y Austria fue más goleadora.
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (ÖFB).

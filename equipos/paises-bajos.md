@@ -21,7 +21,7 @@
 - Defensa: 88
 - Arco: 84
 - Físico: 82
-- Moral: 84 *(+4 — Victoria J1)*
+- Moral: 78 *(empate J1)*
 - Cohesión: 84
 - Experiencia: 82
 
@@ -62,7 +62,7 @@
 - Xavi Simons (VOL): lesión grave de rodilla, fuera del torneo completo.
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-14 vs Japón (J1): 2-1 **(V)** ← último
+- 2026-06-14 vs Japón: 2-2 (E) — Grupo F J1 Mundial 2026
 - 2026-03-XX vs Alemania: 2-2 (E)
 - 2026-03-XX vs España: 1-1 (E)
 - 2025-11-XX vs Hungría: 4-0 (V)
@@ -74,16 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
+| 1  | 0 | 1 | 0 | 2  | 2  | 0  | 1   |
 
 ### Goleadores propios
-- Memphis Depay: 1 gol (J1 vs Japón, 33')
-- Cody Gakpo: 1 gol (J1 vs Japón, 79')
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
-- vs Japón: 4-0 derrota japonesa Brasil 2014; amistoso 2025: 2-1 victoria neerlandesa; **J1 2026: 2-1 victoria** (Depay 33', Gakpo 79').
+- vs Japón: 4-0 derrota japonesa Brasil 2014; amistoso 2025: 2-1 victoria neerlandesa; **J1 2026: 2-2 empate**.
 - vs Túnez: sin antecedentes mundialistas relevantes.
 - vs Suecia: pareja UEFA histórica, 2V-2E-1D balance.
+
+## Estado de ánimo
+Empate 2-2 vs Japón. Resultado decepcionante — lideraron el partido y Japón remontó. La defensa holandesa mostró vulnerabilidades.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Victoria 2-1 vs Japón
+- **Real:** Empate 2-2 vs Japón
+- **Diagnóstico:** Simulamos victoria 2-1 pero fue empate 2-2; Japón volvió a demostrar que su mentalidad competitiva supera lo que reflejan los ratings FIFA.
 
 ---
 > Fuente: WebSearch 2026-05-27 (FourFourTwo, FIFA, FifaWorldCupNews).

@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 92
 - Físico: 82
-- Moral: 88 *(+4 — victoria J1 vs Marruecos)*
+- Moral: 83 *(empate J1 vs Marruecos)*
 - Cohesión: 80
 - Experiencia: 86
 
@@ -65,7 +65,7 @@
 - Caio Henrique 🟡 (1/2 — próxima amarilla = suspensión en J2)
 
 ## Forma reciente (últimos 5 partidos, incl. Mundial)
-- 2026-06-13 vs Marruecos: 2-1 (V) — Grupo C J1 Mundial
+- 2026-06-13 vs Marruecos: 1-1 (E) — Grupo C J1 Mundial 2026
 - 2026-03-XX vs Colombia: 2-1 (V)
 - 2026-03-XX vs Argentina: 0-1 (D)
 - 2025-11-XX vs Uruguay: 2-0 (V)
@@ -77,16 +77,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- Vinícius Jr.: 1 gol (min 19 vs Marruecos)
-- Raphinha: 1 gol (min 75 vs Marruecos)
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
-- vs Marruecos: amistoso 2023 derrota 1-2; **Mundial 2026 J1: Victoria 2-1** (Vini 19', Raphinha 75').
+- vs Marruecos: amistoso 2023 derrota 1-2; **Mundial 2026 J1: Empate 1-1**.
 - vs Escocia: balance histórico favorable a Brasil 3V-1E-1D.
 - vs Haití: sin antecedentes mundialistas relevantes.
+
+## Estado de ánimo
+Empate 1-1 vs Marruecos. Resultado decepcionante para la Seleção que esperaba victoria. Bounou fue determinante. Neymar y compañía no encontraron el segundo gol.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Brasil 2-1 Marruecos
+- **Real:** Brasil 1-1 Marruecos
+- **Diagnóstico:** Simulamos victoria 2-1 pero fue 1-1; sobreestimamos la brecha Brasil-Marruecos sin considerar la mejora defensiva marroquí desde Qatar 2022.
 
 ---
 > Fuente: WebSearch 2026-05-27 (FIFA, DAZN, ESPN).

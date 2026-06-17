@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 80
 - Físico: 80
-- Moral: 80
+- Moral: 81
 - Cohesión: 78
 - Experiencia: 68
 
@@ -65,7 +65,7 @@
 - Kye Rowles 🟨 (45'+1' vs Turquía — tackle duro)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-14 vs Turquía: 1-1 (E) — Mundial 2026, Grupo D, J1
+- 2026-06-14 vs Turquía: 2-0 (V) — Grupo D J1 Mundial 2026
 - 2026-03-XX vs Indonesia: 5-1 (V)
 - 2026-03-XX vs Bahréin: 1-0 (V)
 - 2025-11-XX vs Canadá: 2-2 (E)
@@ -77,15 +77,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
 
 ### Goleadores propios
-- Ajdin Hrustic: 1 gol (penal, min. 84' vs Turquía, J1)
+- (goleadores reales a confirmar — 2 goles)
 
 ## Historial vs rivales del grupo
 - vs EE.UU.: 1V-1E balance reciente.
 - vs Paraguay: sin antecedentes registrados relevantes.
 - vs Turquía: sin antecedentes registrados.
+
+## Estado de ánimo
+Victoria 2-0 vs Turquía como sorpresa positiva. Australia mostró organización táctica y solidez defensiva.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** 1-1 vs Turquía
+- **Real:** 2-0 vs Turquía
+- **Diagnóstico:** Error de resultado: simulamos 1-1 pero Australia ganó 2-0; subestimamos la evolución del fútbol australiano y sobrevaloramos a Turquía.
 
 ---
 > Fuente: WebSearch 2026-05-27 (Socceroos.com.au, FIFA Series).

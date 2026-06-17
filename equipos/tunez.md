@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 72
 - Físico: 78
-- Moral: 67
+- Moral: 67 *(-5 — Goleada en contra J1)*
 - Cohesión: 80
 - Experiencia: 70
 
@@ -62,7 +62,7 @@
 - **En capilla (1 amarilla):** Aïssa Laïdouni (🟨 J1 vs Suecia — próximo partido: vs Japón J2)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-14 vs Suecia: 0-1 (D) — Grupo F J1 · Gol en contra: Isak 56'
+- 2026-06-14 vs Suecia: 1-5 (D) — Grupo F J1 Mundial 2026
 - 2026-03-XX vs Marruecos: 1-1 (E)
 - 2026-03-XX vs Mauritania: 2-0 (V)
 - 2025-11-XX vs Namibia: 3-0 (V)
@@ -74,15 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 1  | −1 | 0   |
+| 1  | 0 | 0 | 1 | 1  | 5  | −4 | 0   |
 
 ### Goleadores propios
-- (ninguno)
+- (goleadores reales a confirmar — 1 gol)
 
 ## Historial vs rivales del grupo
 - vs Países Bajos: sin antecedentes mundialistas.
 - vs Japón: amistoso 2-0 derrota tunecina 2023.
-- vs Suecia: 0V 1D — 2026-06-14 Túnez 0-1 Suecia (Grupo F J1).
+- vs Suecia: 0V 1D — 2026-06-14 Túnez 1-5 Suecia (Grupo F J1).
+
+## Estado de ánimo
+Derrota 1-5 ante Suecia. Goleada que duele. Necesita recomponerse para J2 vs Japón con la clasificación ya complicada.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Derrota 0-1 vs Suecia
+- **Real:** Derrota 1-5 vs Suecia
+- **Diagnóstico:** Acertamos la derrota pero 1-5 vs 0-1 simulado; subestimamos la brecha Suecia-Túnez en capacidad ofensiva real.
 
 ---
 > Fuente: WebSearch 2026-05-27 (FIFA, Olympics.com, FourFourTwo).

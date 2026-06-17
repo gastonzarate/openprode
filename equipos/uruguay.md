@@ -21,7 +21,7 @@
 - Defensa: 80
 - Arco: 76
 - Físico: 82
-- Moral: 78
+- Moral: 80
 - Cohesión: 82
 - Experiencia: 80
 
@@ -81,12 +81,20 @@
 | 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- Rodrigo Bentancur: 1 gol (35' vs Arabia Saudita)
+- (goleadores reales a confirmar — 1 gol)
 
 ## Historial vs rivales del grupo
 - vs España: balance histórico cerca de 3-3-4 con leve ventaja española.
 - vs Cabo Verde: sin antecedentes registrados.
 - vs Arabia Saudita: Mundial 2018 (victoria 1-0) · Mundial 2026 J1 (1-1, penal polémico 🌧).
+
+## Estado de ánimo
+Empate 1-1 vs Arabia Saudita. Uruguay esperaba más pero el punto sirve para seguir. Darwin y Núñez no lograron diferencia.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Arabia Saudita 1-1 Uruguay
+- **Real:** Arabia Saudita 1-1 Uruguay
+- **Diagnóstico:** Resultado exacto 1-1 — acertamos el empate; la paridad Saudita-Uruguay fue correctamente modelada como el partido más equilibrado del grupo.
 
 ---
 > Fuente: WebSearch 2026-05-27 (El Observador, Infobae, Depor).

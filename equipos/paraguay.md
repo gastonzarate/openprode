@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 72
 - Físico: 78
-- Moral: 82
+- Moral: 62
 - Cohesión: 80
 - Experiencia: 66
 
@@ -63,7 +63,7 @@
 - Omar Alderete: 🟨 (1 amarilla — en capilla)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-12 vs Estados Unidos (Mundial J1): 1-1 (E)
+- 2026-06-12 vs Estados Unidos: 1-4 (D) — Grupo D J1 Mundial 2026
 - 2026-03-XX vs Brasil: 0-1 (D)
 - 2026-03-XX vs Uruguay: 1-0 (V)
 - 2025-11-XX vs Bolivia: 2-1 (V)
@@ -75,15 +75,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 1  | 0 | 0 | 1 | 1  | 4  | −3 | 0   |
 
 ### Goleadores propios
-- Antonio Sanabria: 1 gol (vs Estados Unidos, 71', J1)
+- (goleadores reales a confirmar — 1 gol)
 
 ## Historial vs rivales del grupo
 - vs EE.UU.: 1 partido en Mundial 2026 — 1-1 (J1, 2026-06-12).
 - vs Australia: sin antecedentes registrados.
 - vs Turquía: sin antecedentes registrados.
+
+## Estado de ánimo
+Goleada recibida 1-4 vs EE.UU. Partido muy difícil. El equipo necesita recuperar confianza para J2 vs Turquía.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** 1-1 vs Estados Unidos
+- **Real:** 1-4 vs Estados Unidos
+- **Diagnóstico:** Error grave: simulamos 1-1 pero perdieron 1-4; el simulador igualó un partido en el que EE.UU. dominó de principio a fin.
 
 ---
 > Fuente: WebSearch 2026-05-27 (La Nación PY, ABC Color, Infobae).

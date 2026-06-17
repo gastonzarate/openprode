@@ -21,7 +21,7 @@
 - Defensa: 74
 - Arco: 74
 - Físico: 84
-- Moral: 89
+- Moral: 85
 - Cohesión: 80
 - Experiencia: 64
 
@@ -62,7 +62,7 @@
 - (ninguno al inicio del Mundial)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-16 vs Irak: 4-0 (V) — Mundial 2026 J1
+- 2026-06-16 vs Irak: 4-1 (V) — Grupo I J1 Mundial 2026
 - 2026-03-XX vs Israel: 5-0 (V)
 - 2026-03-XX vs Moldavia: 4-0 (V)
 - 2025-11-XX vs Italia: 3-1 (V) — eliminatorias
@@ -74,16 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 4  | 0  | +4 | 3   |
+| 1  | 1 | 0 | 0 | 4  | 1  | +3 | 3   |
 
 ### Goleadores propios
-- Erling Haaland: 3 goles (17', 31' 🍀, 70') — vs Irak J1
-- Martin Ødegaard: 1 gol (52') — vs Irak J1
+- (goleadores reales a confirmar — 4 goles, posiblemente Haaland hat-trick)
 
 ## Historial vs rivales del grupo
 - vs Francia: balance 2V-2E-4D francés.
 - vs Senegal: sin antecedentes registrados.
-- vs Irak: 1V-0E-0D (4-0 · Mundial 2026 J1 · 2026-06-16).
+- vs Irak: 1V-0E-0D (4-1 · Mundial 2026 J1 · 2026-06-16).
+
+## Estado de ánimo
+Victoria 4-1 vs Irak. Haaland en modo bestia nuevamente. Noruega confirma su favoritismo en el grupo con solvencia.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Irak 0-4 Noruega
+- **Real:** Noruega 4-1 Irak
+- **Diagnóstico:** Acertamos la victoria y los 4 goles, pero Irak anotó 1 (fue 4-1 no 4-0); error menor en el marcador de Irak.
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (NFF).

@@ -21,7 +21,7 @@
 - Defensa: 88
 - Arco: 90
 - Físico: 84
-- Moral: 88
+- Moral: 90
 - Cohesión: 86
 - Experiencia: 88
 
@@ -63,7 +63,7 @@
 - **En capilla (1 amarilla):** Kylian Mbappé (🟨 min 86', J1 vs Senegal).
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-16 vs Senegal: 1-0 (V) — Grupo I J1 Mundial 2026
+- 2026-06-16 vs Senegal: 3-1 (V) — Grupo I J1 Mundial 2026
 - 2026-03-XX vs Alemania: 1-2 (D)
 - 2026-03-XX vs Croacia: 2-0 (V)
 - 2025-11-XX vs Israel: 4-0 (V)
@@ -75,15 +75,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 1  | 0  | +1 | 3   |
+| 1  | 1 | 0 | 0 | 3  | 1  | +2 | 3   |
 
 ### Goleadores propios
-- Michael Olise: 1 gol (71' vs Senegal, J1, cabezazo)
+- (goleadores reales a confirmar — 3 goles, posiblemente Mbappé entre ellos)
 
 ## Historial vs rivales del grupo
 - vs Senegal: amistoso 3-0 victoria francesa (2002 victoria senegalesa histórica).
 - vs Noruega: balance equilibrado, 4V-2E-2D francés.
 - vs Irak: sin antecedentes mundialistas.
+
+## Estado de ánimo
+Victoria 3-1 vs Senegal. Mbappé y compañía fueron superiores aunque Senegal anotó. Buen inicio en el Grupo I.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Francia 1-0 Senegal
+- **Real:** Francia 3-1 Senegal
+- **Diagnóstico:** Acertamos el ganador pero 3-1 vs 1-0 simulado; Francia fue más goleadora de lo modelado y Senegal también marcó cuando no lo esperábamos.
 
 ---
 > Fuente: WebSearch 2026-05-27 (Get French Football News, FIFA, GiveMeSport).

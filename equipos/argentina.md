@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 88
 - Físico: 82
-- Moral: 97
+- Moral: 94
 - Cohesión: 95
 - Experiencia: 92
 
@@ -65,7 +65,7 @@
 - Enzo Fernández (41' vs Argelia)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-16 vs Argelia: 3-1 (V) — Mundial J1
+- 2026-06-16 vs Argelia: 3-0 (V) — Grupo J J1 Mundial 2026
 - 2026-03-XX vs Brasil: 1-0 (V)
 - 2026-03-XX vs Uruguay: 0-0 (E)
 - 2025-11-XX vs Paraguay: 2-1 (V)
@@ -77,17 +77,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 3  | 1  | +2 | 3   |
+| 1  | 1 | 0 | 0 | 3  | 0  | +3 | 3   |
 
 ### Goleadores propios
-- Alexis Mac Allister: 1 gol (22' vs Argelia)
-- Lionel Messi: 1 gol (36' vs Argelia — tiro libre) + 2 asistencias
-- Julián Álvarez: 1 gol (67' vs Argelia)
+- (goleadores reales a confirmar — 3 goles, posiblemente Messi entre ellos)
 
 ## Historial vs rivales del grupo
 - vs Argelia: 4V-0E-1D balance argentino (incluye amistoso 4-3 victoria argelina 2002).
 - vs Austria: 6V-1E-2D balance ampliamente favorable a Argentina.
 - vs Jordania: sin antecedentes registrados.
+
+## Estado de ánimo
+Victoria 3-0 vs Argelia. La Albiceleste fue sólida y sin conceder. Messi lidera a un equipo que muestra la consistencia del campeón vigente.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Argentina 3-1 Argelia
+- **Real:** Argentina 3-0 Argelia
+- **Diagnóstico:** Acertamos la victoria 3-0 y hasta los 3 goles argentinos — el error fue que le dimos 1 gol a Argelia cuando en realidad no marcaron nada.
 
 ---
 > Fuente: WebSearch 2026-05-27 (Infobae, El Destape, La Nación).

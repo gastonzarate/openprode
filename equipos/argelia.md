@@ -66,7 +66,7 @@
 - Bensebaini (90'+1' vs Argentina)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-16 vs Argentina: 1-3 (D) — Mundial J1
+- 2026-06-16 vs Argentina: 0-3 (D) — Grupo J J1 Mundial 2026
 - 2026-03-XX vs Marruecos: 1-2 (D)
 - 2026-03-XX vs Togo: 3-0 (V)
 - 2025-11-XX vs Burkina Faso: 1-1 (E)
@@ -78,15 +78,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 3  | −2 | 0   |
+| 1  | 0 | 0 | 1 | 0  | 3  | −3 | 0   |
 
 ### Goleadores propios
-- Mohamed Amoura: 1 gol (53' vs Argentina — contraataque)
+- (ninguno)
 
 ## Historial vs rivales del grupo
 - vs Argentina: amistoso 4-3 victoria argelina (1982), 1V-0E-4D global.
 - vs Austria: sin antecedentes registrados.
 - vs Jordania: sin antecedentes registrados.
+
+## Estado de ánimo
+Derrota 0-3 vs Argentina. Sin poder marcar ante el campeón del mundo. Salida rápida del torneo si no reacciona en J2.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Argelia 1-3 Argentina
+- **Real:** Argelia 0-3 Argentina
+- **Diagnóstico:** Simulamos que marcaban 1 gol (3-1) pero Argelia terminó 0-3 sin poder marcar; subestimamos la solidez defensiva argentina post-Qatar.
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (FAF).

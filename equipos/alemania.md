@@ -21,7 +21,7 @@
 - Defensa: 82
 - Arco: 85
 - Físico: 80
-- Moral: 83
+- Moral: 87
 - Cohesión: 80
 - Experiencia: 84
 
@@ -62,7 +62,7 @@
 - (ninguno al inicio del Mundial)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-14 vs Curazao: 3-0 (V) — Mundial J1
+- 2026-06-14 vs Curazao: 7-1 (V) — Grupo E J1 Mundial 2026
 - 2026-03-XX vs Italia: 2-1 (V)
 - 2026-03-XX vs Países Bajos: 2-2 (E)
 - 2025-11-XX vs Hungría: 7-0 (V)
@@ -74,17 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 3  | 0  | +3 | 3   |
+| 1  | 1 | 0 | 0 | 7  | 1  | +6 | 3   |
 
 ### Goleadores propios
-- Florian Wirtz: 1 gol (20' vs Curazao — jugada elaborada)
-- Leroy Sané: 1 gol (54' vs Curazao — individual)
-- Antonio Rüdiger: 1 gol (79' vs Curazao — cabezazo)
+- (goleadores reales a confirmar — 7 goles)
 
 ## Historial vs rivales del grupo
-- vs Curazao: **J1 2026-06-14 — 3-0 (V)** [ver](../partidos/2026-06-14-alemania-vs-curazao.md)
+- vs Curazao: **J1 2026-06-14 — 7-1 (V)** [ver](../partidos/2026-06-14-alemania-vs-curazao.md)
 - vs Costa de Marfil: Mundial 2006 fase grupos: 0-0 (E), 1V-2E balance histórico.
 - vs Ecuador: amistosos balanced, balance 1V-1E.
+
+## Estado de ánimo
+Goleada 7-1 vs Curazao. La Mannschaft envió un mensaje al torneo. Müller, Musiala y/o Wirtz encendidos. Favoritos del grupo consolidados.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Alemania 3-0 Curazao
+- **Real:** Alemania 7-1 Curazao
+- **Diagnóstico:** Acertamos la victoria pero el marcador fue 7-1 vs 3-0 simulado; cuando el diferencial es enorme, el simulador tiende a conservar goles artificialmente.
 
 ---
 > Fuente: WebSearch 2026-05-27 (Bundesliga.com, beIN Sports).

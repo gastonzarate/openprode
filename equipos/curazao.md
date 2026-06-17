@@ -21,7 +21,7 @@
 - Defensa: 62
 - Arco: 64
 - Físico: 70
-- Moral: 70
+- Moral: 57
 - Cohesión: 72
 - Experiencia: 50
 
@@ -66,7 +66,7 @@
 - Riechedly Bazoer 🟨 (67' vs Alemania)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-14 vs Alemania: 0-3 (D) — Mundial J1
+- 2026-06-14 vs Alemania: 1-7 (D) — Grupo E J1 Mundial 2026
 - 2026-03-XX vs Jamaica: 1-0 (V) — repechaje intercontinental
 - 2026-03-XX vs Haití: 0-1 (D)
 - 2025-11-XX vs Trinidad: 2-1 (V)
@@ -78,15 +78,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 3  | -3 | 0   |
+| 1  | 0 | 0 | 1 | 1  | 7  | -6 | 0   |
 
 ### Goleadores propios
-- (ninguno)
+- (goleadores reales a confirmar — 1 gol)
 
 ## Historial vs rivales del grupo
-- vs Alemania: **J1 2026-06-14 — 0-3 (D)** [ver](../partidos/2026-06-14-alemania-vs-curazao.md)
+- vs Alemania: **J1 2026-06-14 — 1-7 (D)** [ver](../partidos/2026-06-14-alemania-vs-curazao.md)
 - vs Costa de Marfil: sin antecedentes registrados.
 - vs Ecuador: sin antecedentes registrados.
+
+## Estado de ánimo
+Derrota 1-7 ante Alemania. Goleada esperada ante un gigante, pero el honor de marcar un gol en un Mundial es histórico para el país.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Curazao 0-3 Alemania
+- **Real:** Curazao 1-7 Alemania
+- **Diagnóstico:** Acertamos la derrota pero la goleada fue mucho mayor (1-7 vs 0-3); Curazao tiene menos resistencia defensiva de lo modelado y Alemania más contundencia.
 
 ---
 > Fuente: WebSearch 2026-05-27 (FIFA, beIN Sports, Daily Beirut).

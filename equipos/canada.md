@@ -23,7 +23,7 @@
 - Defensa: 72
 - Arco: 74
 - Físico: 80
-- Moral: 76
+- Moral: 74
 - Cohesión: 78
 - Experiencia: 60
 
@@ -65,7 +65,7 @@
 - Cyle Larin (DEL): molestia en tobillo derecho (min. 70 vs Bosnia). **Duda para J2 (vs Catar, 2026-06-18).**
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-12 vs Bosnia y Herzegovina: 0-0 (E) — Grupo B J1 Mundial 2026
+- 2026-06-12 vs Bosnia y Herzegovina: 1-1 (E) — Grupo B J1 Mundial 2026
 - 2026-03-XX vs Estados Unidos: 1-1 (E)
 - 2026-03-XX vs Panamá: 3-1 (V)
 - 2025-11-XX vs Surinam: 4-0 (V)
@@ -77,15 +77,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 0  | 0  | 0  | 1   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno)
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
-- vs Bosnia y Herzegovina: 1 PJ — 2026-06-12, 0-0 empate (J1 Mundial 2026).
+- vs Bosnia y Herzegovina: 1 PJ — 2026-06-12, 1-1 empate (J1 Mundial 2026).
 - vs Suiza: pocos enfrentamientos, balance favorable suizo.
 - vs Catar: sin antecedentes registrados relevantes.
+
+## Estado de ánimo
+Empate 1-1 vs Bosnia. Como anfitrión local esperaba más; Davies se recuperó pero el equipo no encontró el gol definitivo.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Canadá 0-0 Bosnia y Herzegovina
+- **Real:** Canadá 1-1 Bosnia y Herzegovina
+- **Diagnóstico:** Simulamos 0-0, fue 1-1; acertamos el empate pero ambos equipos sí marcaron — el simulador fue excesivamente conservador con la generación ofensiva canadiense.
 
 ---
 > Fuente: WebSearch 2026-05-27 (TSN, FoxSports, ESPN).

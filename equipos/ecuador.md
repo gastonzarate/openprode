@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 78
 - Físico: 82
-- Moral: 84
+- Moral: 74
 - Cohesión: 84
 - Experiencia: 70
 
@@ -62,7 +62,7 @@
 - William Pacho: 1 amarilla acumulada (en capilla para J2)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-14 vs Costa de Marfil (Mundial J1): 1-0 (V)
+- 2026-06-14 vs Costa de Marfil: 0-1 (D) — Grupo E J1 Mundial 2026
 - 2026-03-XX vs Venezuela: 2-1 (V)
 - 2026-03-XX vs Chile: 1-0 (V)
 - 2025-11-XX vs Argentina: 0-1 (D)
@@ -74,15 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 1  | 0  | +1 | 3   |
+| 1  | 0 | 0 | 1 | 0  | 1  | -1 | 0   |
 
 ### Goleadores propios
-- Enner Valencia: 1 gol (71' vs Costa de Marfil, J1)
+- (ninguno)
 
 ## Historial vs rivales del grupo
 - vs Alemania: balance 1V-1E históricos, partido amistoso 2-4 derrota.
 - vs Curazao: sin antecedentes registrados.
 - vs Costa de Marfil: sin antecedentes registrados.
+
+## Estado de ánimo
+Derrota 0-1 vs Costa de Marfil. Resultado inesperado y duro. La Tri perdió un partido que debía ganar según las stats. J2 vs Curazao es vital.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Ecuador 1-0 Costa de Marfil
+- **Real:** Ecuador 0-1 Costa de Marfil
+- **Diagnóstico:** Error de resultado: simulamos victoria 1-0 pero perdieron 0-1; Costa de Marfil demostró más cohesión táctica de la proyectada.
 
 ---
 > Fuente: WebSearch 2026-05-27 (Primicias, ESPN, Extra EC).

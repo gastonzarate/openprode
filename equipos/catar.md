@@ -21,7 +21,7 @@
 - Defensa: 64
 - Arco: 66
 - Físico: 68
-- Moral: 62
+- Moral: 67
 - Cohesión: 88
 - Experiencia: 55
 
@@ -62,7 +62,7 @@
 - **En capilla (1 amarilla):** Assim Madibo (🟨 vs Suiza, J1)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-13 vs Suiza: 0-2 (D) — Grupo B J1 Mundial 2026
+- 2026-06-13 vs Suiza: 1-1 (E) — Grupo B J1 Mundial 2026
 - 2026-03-XX vs Uzbekistán: 0-1 (D)
 - 2026-03-XX vs Emiratos Árabes: 2-1 (V)
 - 2025-11-XX vs Irán: 1-2 (D)
@@ -74,15 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- (ninguno)
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
 - vs Canadá: sin antecedentes registrados relevantes.
-- vs Suiza: 0-2 (D) — J1 Mundial 2026, 2026-06-13.
+- vs Suiza: 1-1 (E) — J1 Mundial 2026, 2026-06-13.
 - vs Bosnia y Herzegovina: sin antecedentes registrados.
+
+## Estado de ánimo
+Empate 1-1 vs Suiza. SORPRESA POSITIVA — punto inesperado ante un favorito europeo. La cohesión catarí fue clave.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Catar 0-2 Suiza
+- **Real:** Catar 1-1 Suiza
+- **Diagnóstico:** Error de resultado: simulamos derrota 0-2 pero Catar empató 1-1 con Suiza; subestimamos gravemente la cohesión y adaptación catarí fuera de Asia.
 
 ---
 > Fuente: WebSearch 2026-05-27 (QFA, Al Kass).

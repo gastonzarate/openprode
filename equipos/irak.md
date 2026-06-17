@@ -21,7 +21,7 @@
 - Defensa: 66
 - Arco: 68
 - Físico: 74
-- Moral: 72
+- Moral: 65
 - Cohesión: 78
 - Experiencia: 50
 
@@ -62,7 +62,7 @@
 - Amjad Attwan 🟨 — en capilla (1 amarilla acumulada, próximo partido vs Francia J2)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-16 vs Noruega: 0-4 (D) — Mundial 2026 J1
+- 2026-06-16 vs Noruega: 1-4 (D) — Grupo I J1 Mundial 2026
 - 2026-03-XX vs EAU: 1-0 (V) — repechaje
 - 2026-03-XX vs Indonesia: 2-1 (V)
 - 2025-11-XX vs Kuwait: 1-0 (V)
@@ -74,15 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 4  | −4 | 0   |
+| 1  | 0 | 0 | 1 | 1  | 4  | −3 | 0   |
 
 ### Goleadores propios
-- (ninguno)
+- (goleadores reales a confirmar — 1 gol de honor)
 
 ## Historial vs rivales del grupo
 - vs Francia: sin antecedentes registrados.
 - vs Senegal: sin antecedentes registrados.
-- vs Noruega: 0V-0E-1D (0-4 · Mundial 2026 J1 · 2026-06-16).
+- vs Noruega: 0V-0E-1D (1-4 · Mundial 2026 J1 · 2026-06-16).
+
+## Estado de ánimo
+Derrota 1-4 vs Noruega. Goleada esperada ante uno de los favoritos del grupo. El gol de honor da algo de dignidad.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Irak 0-4 Noruega
+- **Real:** Noruega 4-1 Irak
+- **Diagnóstico:** Acertamos la goleada de Noruega (4 goles) pero Irak anotó 1 gol que no simulamos; el simulador cometió el error de dejarlos en 0.
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (IFA).

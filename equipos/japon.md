@@ -21,7 +21,7 @@
 - Defensa: 78
 - Arco: 75
 - Físico: 75
-- Moral: 73 *(-5 — Derrota J1)*
+- Moral: 83 *(empate J1 — remontada)*
 - Cohesión: 90
 - Experiencia: 80
 
@@ -64,7 +64,7 @@
 - Hidemasa Morita — descartado del plantel final (decisión técnica + forma).
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-14 vs Países Bajos (J1): 1-2 **(D)** ← último
+- 2026-06-14 vs Países Bajos: 2-2 (E) — Grupo F J1 Mundial 2026
 - 2026-03-XX vs Inglaterra (amistoso): 0-2 (D)
 - 2026-03-XX vs Escocia (amistoso): 1-1 (E)
 - 2026-03-XX vs Corea del Sur: 2-1 (V)
@@ -76,15 +76,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 2  | -1 | 0   |
+| 1  | 0 | 1 | 0 | 2  | 2  | 0  | 1   |
 
 ### Goleadores propios
-- Ritsu Doan: 1 gol (J1 vs Países Bajos, 67')
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
-- vs Países Bajos: 4-0 derrota Brasil 2014; amistoso 2025 2-1 derrota; **J1 2026: 1-2 derrota** (Doan 67').
+- vs Países Bajos: 4-0 derrota Brasil 2014; amistoso 2025 2-1 derrota; **J1 2026: 2-2 empate** (remontada japonesa).
 - vs Túnez: amistoso 2-0 victoria japonesa 2023.
 - vs Suecia: pocos enfrentamientos, balance equilibrado.
+
+## Estado de ánimo
+Empate 2-2 vs Países Bajos. Remontada notable. Japón volvió a demostrar su mentalidad competitiva en Mundiales. Moral alta.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Derrota 1-2 vs Países Bajos
+- **Real:** Empate 2-2 vs Países Bajos
+- **Diagnóstico:** Simulamos derrota 1-2 pero empataron 2-2 — el patrón japonés de remontadas se repitió, algo que el simulador no modeló suficientemente.
 
 ---
 > Fuente: WebSearch 2026-05-27 (FIFA, beIN Sports, FourFourTwo, Japan Times). Lista de 26 oficial al 15/05.

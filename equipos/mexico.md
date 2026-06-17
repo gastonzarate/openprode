@@ -21,7 +21,7 @@
 - Defensa: 74
 - Arco: 78
 - Físico: 77
-- Moral: 88
+- Moral: 84
 - Cohesión: 78
 - Experiencia: 78
 
@@ -61,8 +61,11 @@
 ## Lesionados / Suspendidos
 - En capilla (1 amarilla acumulada): Edson Álvarez, Johan Vásquez.
 
+## Estado de ánimo
+Victoria dominante 2-0 en casa. Quiñones (9') y Jiménez sentenciaron. Moral alta como anfitrión.
+
 ## Forma reciente (pre-Mundial + Mundial, últimos 5 partidos)
-- 2026-06-11 vs Sudáfrica (Mundial J1): 1-0 (V)
+- 2026-06-11 vs Sudáfrica: 2-0 (V) — Grupo A J1 Mundial 2026
 - 2026-03-XX vs Estados Unidos: 0-0 (E)
 - 2026-03-XX vs Honduras: 2-0 (V)
 - 2026-01-XX vs Chile: 1-0 (V)
@@ -74,15 +77,21 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 1  | 0  | +1 | 3   |
+| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
 
 ### Goleadores propios
-- 9' (vs Sudáfrica) Santiago Giménez
+- Julián Quiñones: 1 gol (vs Sudáfrica, 9', J1)
+- Raúl Jiménez: 1 gol (vs Sudáfrica, 2T, J1 — minuto a confirmar)
 
 ## Historial vs rivales del grupo
-- vs Sudáfrica: 1-0 en J1 (2026-06-11, Azteca). Anteriormente: pocos enfrentamientos, último amistoso reciente con leve ventaja mexicana.
+- vs Sudáfrica: 2-0 en J1 (2026-06-11, Azteca). Anteriormente: pocos enfrentamientos, último amistoso reciente con leve ventaja mexicana.
 - vs Corea del Sur: ventaja histórica de México (incluyendo Mundial 2018: México 1-2 Corea, derrota recordada).
 - vs Chequia: 1-1 en amistoso 2014, sin antecedentes mundialistas.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** México 1-0 Sudáfrica
+- **Real:** México 2-0 Sudáfrica
+- **Diagnóstico:** Acertamos al ganador pero subestimamos la superioridad local; México fue más dominante de lo modelado (Quiñones marcó en el 9').
 
 ---
 > Fuente: WebSearch 2026-05-27 (TUDN, SI, ESPN). Lista preliminar; cierre oficial 1-jun-2026.

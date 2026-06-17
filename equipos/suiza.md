@@ -21,7 +21,7 @@
 - Defensa: 80
 - Arco: 82
 - Físico: 76
-- Moral: 81
+- Moral: 77
 - Cohesión: 86
 - Experiencia: 86
 
@@ -62,7 +62,7 @@
 - (ninguno)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-13 vs Catar: 2-0 (V) — Grupo B J1 Mundial 2026
+- 2026-06-13 vs Catar: 1-1 (E) — Grupo B J1 Mundial 2026
 - 2026-03-XX vs España: 0-2 (D)
 - 2026-03-XX vs Italia: 1-1 (E)
 - 2025-11-XX vs Kosovo: 2-0 (V)
@@ -74,16 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- **Dan Ndoye** — 1 gol (54' vs Catar, J1)
-- **Manuel Akanji** — 1 gol (79' vs Catar, J1)
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
 - vs Canadá: 1 amistoso reciente con victoria suiza 3-0.
-- vs Catar: 2-0 (V) — J1 Mundial 2026, 2026-06-13.
+- vs Catar: 1-1 (E) — J1 Mundial 2026, 2026-06-13.
 - vs Bosnia y Herzegovina: rivalidad UEFA, balance equilibrado (4V 3E 3D suizo).
+
+## Estado de ánimo
+Empate 1-1 vs Catar. Decepción — se esperaba victoria clara y Catar resistió e igualó. El modelo esperaba más de Xhaka y compañía.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Suiza 2-0 Catar
+- **Real:** Suiza 1-1 Catar
+- **Diagnóstico:** Error de resultado: simulamos victoria 2-0 pero fue 1-1; Catar demostró tener más nivel del asignado en nuestras estadísticas.
 
 ---
 > Fuente: WebSearch 2026-05-27 (ESPN, beIN Sports).

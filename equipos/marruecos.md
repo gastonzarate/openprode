@@ -21,7 +21,7 @@
 - Defensa: 82
 - Arco: 84
 - Físico: 78
-- Moral: 77 *(-5 — derrota J1 vs Brasil)*
+- Moral: 81 *(empate J1 vs Brasil)*
 - Cohesión: 84
 - Experiencia: 82
 
@@ -66,7 +66,7 @@
 - Hamza Igamane 🟡 (1/2 — próxima amarilla = suspensión en J2)
 
 ## Forma reciente (últimos 5 partidos, incl. Mundial)
-- 2026-06-13 vs Brasil: 1-2 (D) — Grupo C J1 Mundial
+- 2026-06-13 vs Brasil: 1-1 (E) — Grupo C J1 Mundial 2026
 - 2026-03-XX vs Túnez: 1-1 (E)
 - 2026-03-XX vs Burkina Faso: 2-0 (V)
 - 2025-11-XX vs Gabón: 5-1 (V)
@@ -78,15 +78,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 2  | -1 | 0   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- Hakim Ziyech: 1 gol (min 53 vs Brasil)
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
-- vs Brasil: amistoso 2023 victoria 2-1; **Mundial 2026 J1: Derrota 1-2** (Ziyech 53').
+- vs Brasil: amistoso 2023 victoria 2-1; **Mundial 2026 J1: Empate 1-1**.
 - vs Escocia: sin antecedentes mundialistas; 3-0 derrota marroquí Francia 1998.
 - vs Haití: sin antecedentes registrados.
+
+## Estado de ánimo
+Empate 1-1 vs Brasil. Punto histórico contra uno de los grandes. La solidez defensiva del Atlas post-Qatar 2022 volvió a brillar.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Marruecos 1-2 Brasil
+- **Real:** Marruecos 1-1 Brasil
+- **Diagnóstico:** Simulamos derrota 1-2 pero lograron empate 1-1; Bounou y la defensa marroquí son mejores de lo que reflejaban nuestros stats.
 
 ---
 > Fuente: WebSearch 2026-05-27 (CAF, Hespress, FourFourTwo).

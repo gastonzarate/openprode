@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 86
 - Físico: 78
-- Moral: 82 _(V1 +4)_
+- Moral: 77
 - Cohesión: 78
 - Experiencia: 84
 
@@ -62,7 +62,7 @@
 - (ninguno al inicio del Mundial)
 
 ## Forma reciente (últimos 5 partidos, incluyendo Mundial)
-- 2026-06-15 vs Egipto: 2-1 (V) — Grupo G J1 Mundial 2026 ⭐
+- 2026-06-15 vs Egipto: 1-1 (E) — Grupo G J1 Mundial 2026
 - 2026-03-XX vs Macedonia del Norte: 4-0 (V)
 - 2026-03-XX vs Eslovenia: 2-1 (V)
 - 2025-11-XX vs Israel: 0-0 (E)
@@ -74,16 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
+| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- Romelu Lukaku: 1 gol (38' vs Egipto — cabezazo en córner)
-- Loïs Openda: 1 gol (81' vs Egipto — jugada elaborada)
+- (goleadores reales a confirmar)
 
 ## Historial vs rivales del grupo
-- vs Egipto: **1V** en Mundial 2026 (2-1, J1). Amistosos previos: balance equilibrado.
+- vs Egipto: **1E** en Mundial 2026 (1-1, J1). Amistosos previos: balance equilibrado.
 - vs Irán: amistoso 2014: 1-0 victoria belga.
 - vs Nueva Zelanda: sin antecedentes registrados.
+
+## Estado de ánimo
+Empate 1-1 vs Egipto. La Bélgica post-Generación Dorada no pudo con un Egipto liderado por Salah. Resultó más difícil de lo proyectado.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Bélgica 2-1 Egipto
+- **Real:** Bélgica 1-1 Egipto
+- **Diagnóstico:** Simulamos victoria 2-1 pero fue 1-1; sobrestimamos a la Bélgica actual y subestimamos al Egipto con Salah como conductor.
 
 ---
 > Fuente: WebSearch 2026-05-27 (beIN Sports, FIFA, FourFourTwo).

@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 80
 - Físico: 80
-- Moral: 93
+- Moral: 76
 - Cohesión: 90
 - Experiencia: 84
 
@@ -62,7 +62,7 @@
 - (ninguno al inicio del Mundial)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-15 vs Cabo Verde: 4-0 (V) — Grupo H J1
+- 2026-06-15 vs Cabo Verde: 0-0 (E) — Grupo H J1 Mundial 2026
 - 2026-03-XX vs Países Bajos: 1-1 (E)
 - 2026-03-XX vs Italia: 2-0 (V)
 - 2025-11-XX vs Dinamarca: 3-1 (V)
@@ -74,17 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 4  | 0  | +4 | 3   |
+| 1  | 0 | 1 | 0 | 0  | 0  | 0  | 1   |
 
 ### Goleadores propios
-- Lamine Yamal: 2 goles (vs Cabo Verde, 24' y 54')
-- Nico Williams: 1 gol (vs Cabo Verde, 82')
-- Autogol R. Lopes (🍀 desvío Laporte): 1 gol (vs Cabo Verde, 37')
+- (ninguno)
 
 ## Historial vs rivales del grupo
-- vs Cabo Verde: 1V-0E-0D (2026-06-15: 4-0 · Mundial J1).
+- vs Cabo Verde: 0V-1E-0D (2026-06-15: 0-0 · Mundial J1).
 - vs Arabia Saudita: amistoso 2-2 (2018).
 - vs Uruguay: balance histórico, 4V-3E-3D ligeramente favorable a España.
+
+## Estado de ánimo
+Empate 0-0 vs Cabo Verde. CATÁSTROFE — la Roja no pudo marcar ante uno de los equipos más débiles del torneo. Yamal, Morata y Olmo inoperantes. Crisis de confianza severa.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** España 4-0 Cabo Verde
+- **Real:** España 0-0 Cabo Verde
+- **Diagnóstico:** Error más grande de toda la J1: simulamos 4-0 pero fue 0-0 — sobreestimamos brutalmente a España y no modelamos el estilo ultra-defensivo de Cabo Verde ni la posible fatiga/presión española.
 
 ---
 > Fuente: WebSearch 2026-05-27 (Infobae España, RFEF).

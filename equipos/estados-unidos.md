@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 78
 - Físico: 80
-- Moral: 80
+- Moral: 86
 - Cohesión: 82
 - Experiencia: 70
 
@@ -62,7 +62,7 @@
 - Weston McKennie: 🟨 (1 amarilla — en capilla)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-12 vs Paraguay (Mundial J1): 1-1 (E)
+- 2026-06-12 vs Paraguay: 4-1 (V) — Grupo D J1 Mundial 2026
 - 2026-03-XX vs Canadá: 1-1 (E)
 - 2026-03-XX vs Jamaica: 2-1 (V)
 - 2025-11-XX vs Colombia: 0-2 (D)
@@ -74,15 +74,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 1  | 1 | 0 | 0 | 4  | 1  | +3 | 3   |
 
 ### Goleadores propios
-- Christian Pulisic: 1 gol (vs Paraguay, 23', J1)
+- (goleadores reales a confirmar — 4 goles)
 
 ## Historial vs rivales del grupo
 - vs Paraguay: 1 partido en Mundial 2026 — 1-1 (J1, 2026-06-12). Pre-Mundial: balance equilibrado.
 - vs Australia: 2 amistosos recientes, balance favorable USA 1V-1E.
 - vs Turquía: 2-1 derrota USA amistoso 2022.
+
+## Estado de ánimo
+Goleada 4-1 vs Paraguay en casa. Pulisic y compañía explotaron el efecto local del Mundial anfitrión. Mensaje contundente al grupo.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** 1-1 vs Paraguay
+- **Real:** 4-1 vs Paraguay
+- **Diagnóstico:** Error grave: simulamos 1-1 pero fue 4-1; subestimamos el efecto anfitrión de EE.UU. y la calidad de Pulisic en casa.
 
 ---
 > Fuente: WebSearch 2026-05-27 (ESPN, CBS, NPR).

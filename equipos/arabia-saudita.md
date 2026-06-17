@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 74
 - Físico: 76
-- Moral: 78
+- Moral: 73
 - Cohesión: 82
 - Experiencia: 70
 
@@ -82,12 +82,20 @@
 | 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
 
 ### Goleadores propios
-- Salem Al-Dawsari: 1 gol (pen. 73' vs Uruguay)
+- (goleadores reales a confirmar — 1 gol)
 
 ## Historial vs rivales del grupo
 - vs España: 2-2 amistoso 2018.
 - vs Cabo Verde: sin antecedentes registrados.
 - vs Uruguay: Mundial 2018 (derrota 0-1) · Mundial 2026 J1 (1-1 🌧 empate histórico).
+
+## Estado de ánimo
+Empate 1-1 vs Uruguay. Resultado equilibrado esperado. La Saudita compitió de igual a igual con la Celeste.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Arabia Saudita 1-1 Uruguay
+- **Real:** Arabia Saudita 1-1 Uruguay
+- **Diagnóstico:** Resultado exacto 1-1 — el único match que el simulador acertó perfectamente en toda la Jornada 1.
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (SAFF).

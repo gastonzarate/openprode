@@ -21,7 +21,7 @@
 - Defensa: 74
 - Arco: 74
 - Físico: 76
-- Moral: 78
+- Moral: 72
 - Cohesión: 78
 - Experiencia: 68
 
@@ -67,7 +67,7 @@
 - Merih Demiral 🟨 (83' vs Australia — protestas al árbitro)
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-14 vs Australia: 1-1 (E) — Mundial 2026, Grupo D, J1
+- 2026-06-14 vs Australia: 0-2 (D) — Grupo D J1 Mundial 2026
 - 2026-03-XX vs Hungría: 3-1 (V)
 - 2026-03-XX vs Austria: 1-2 (D)
 - 2025-11-XX vs Bulgaria: 6-1 (V)
@@ -79,15 +79,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
 
 ### Goleadores propios
-- Kenan Yıldız: 1 gol (jugada elaborada, min. 61' vs Australia, J1)
+- (ninguno)
 
 ## Historial vs rivales del grupo
 - vs EE.UU.: 1-1 amistoso 2022, victoria turca 2-1 amistoso 2020.
 - vs Australia: sin antecedentes registrados.
 - vs Paraguay: sin antecedentes registrados.
+
+## Estado de ánimo
+Derrota 0-2 vs Australia. Resultado inesperado. Montella debe reconfigurar el bloque para J2 vs Paraguay.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** 1-1 vs Australia
+- **Real:** 0-2 vs Australia
+- **Diagnóstico:** Error de resultado: simulamos empate 1-1 pero perdieron 0-2 ante Australia; Turquía rindió por debajo de sus stats proyectadas.
 
 ---
 > Fuente: WebSearch 2026-05-27 (Daily Sabah, FourFourTwo, Türkiye Today).

@@ -21,7 +21,7 @@
 - Defensa: 68
 - Arco: 70
 - Físico: 76
-- Moral: 74
+- Moral: 64
 - Cohesión: 80
 - Experiencia: 50
 
@@ -66,7 +66,7 @@
 - Al-Mawas: 1 amarilla (J1 vs Austria, 44')
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-17 vs Austria: 0-2 (D) — Mundial J1 ✅
+- 2026-06-17 vs Austria: 1-3 (D) — Grupo J J1 Mundial 2026
 - 2026-03-XX vs Irak: 0-0 (E)
 - 2026-03-XX vs Surinam: 1-0 (V)
 - 2025-11-XX vs Catar: 1-1 (E)
@@ -78,15 +78,23 @@
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
+| 1  | 0 | 0 | 1 | 1  | 3  | −2 | 0   |
 
 ### Goleadores propios
-- (ninguno)
+- (goleadores reales a confirmar — 1 gol)
 
 ## Historial vs rivales del grupo
 - vs Argentina: sin antecedentes registrados.
 - vs Argelia: sin antecedentes registrados.
 - vs Austria: 0V-0E-1D. Único partido: 2026-06-17, 0-2 (Grupo J, J1 Mundial).
+
+## Estado de ánimo
+Derrota 1-3 vs Austria. Al menos marcaron un gol de honor. El equipo mostró espíritu ante un favorito europeo.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Jordania 0-2 Austria
+- **Real:** Jordania 1-3 Austria
+- **Diagnóstico:** Simulamos derrota 0-2 pero fue 1-3 — Jordania anotó un gol de honor que no esperábamos, aunque la derrota era previsible.
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (JFA).
