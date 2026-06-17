@@ -49,19 +49,26 @@ Simula un partido de la fase de grupos: relato minuto a minuto + 10 corridas Mon
 1. Resolver el slug del archivo a partir del nombre del equipo: minúsculas, sin tildes, espacios → guiones.
 2. Leer `equipos/<local-slug>.md` y `equipos/<visitante-slug>.md` completos.
 3. De cada uno extraer y guardar en memoria:
-   - Stats del equipo (8 valores 0-100).
+   - Stats del equipo (9 valores 0-100): Ataque, Mediocampo, Defensa, Arco, Físico, Cohesión, Experiencia, Moral, **Agallas**.
    - Esquema base.
    - XI titular probable (lista de 11 nombres ordenados por posición).
    - Plantilla completa con rating individual por jugador y estado actual (% disponibilidad).
    - Lesionados / Suspendidos.
    - Carga física acumulada.
    - Moral actual.
+   - **Agallas** (valor fijo de carácter competitivo — no cambia partido a partido).
 
 4. Si algún jugador del XI titular está suspendido o con disponibilidad <60%, reemplazarlo por el suplente de la misma posición con mayor rating disponible. Marcar el cambio para reflejarlo en el "XI confirmado" del MD del partido y para el cálculo de Cohesión.
 
 5. Si tras los reemplazos cae más de 2 titulares, aplicar **−2 a la Cohesión del equipo solo para este partido**.
 
-6. Calcular **Fuerza Efectiva inicial** de cada equipo (ver sección 8.2 del spec). Guardar.
+6. Calcular **Fuerza Efectiva inicial** de cada equipo con la siguiente fórmula (incluye Agallas):
+
+   ```
+   FE = Ataque×0.32 + Mediocampo×0.23 + Defensa×0.18 + Arco×0.09 + Físico×0.04 + Cohesión×0.05 + Agallas×0.09
+   ```
+
+   **Nota:** Agallas tiene peso 0.09 porque en J1 del Mundial 2026 quedó demostrado que el espíritu competitivo modula resultados más que stats técnicos (NZ empató 2-2 con Irán remontando, Cabo Verde contuvo a España 0-0, etc.). Guardar FE de ambos equipos.
 
 ### Paso 3 — Enriquecer con datos de internet
 
@@ -124,7 +131,7 @@ Combinar lo del Paso 2 (equipos) y Paso 3 (internet) para determinar y guardar:
    - Calor >30 °C: marcar para activar degradación de Físico tras minuto 60.
    - Viento >25 km/h: −3 a pases largos y centros.
 
-2. **Localía**: el equipo local es **México / USA / Canadá** si juega en uno de sus estadios. En otro caso, neutral. Si hay localía clara: +5 a Moral del local solo para este partido.
+2. **Localía**: el equipo local es **México / USA / Canadá** si juega en uno de sus estadios. En otro caso, neutral. Si hay localía clara: **+10 a Moral del local** solo para este partido (demostrado en J1 real: EE.UU. 4-1 Paraguay, México 2-0 Sudáfrica — el efecto anfitrión en un Mundial propio es sustancialmente mayor de lo modelado inicialmente).
 
 3. **Altitud Azteca** (2.240 m): si la sede es Estadio Azteca y el visitante no es México: marcar para −3 a Físico del visitante en el segundo tiempo.
 
@@ -163,6 +170,29 @@ Combinar lo del Paso 2 (equipos) y Paso 3 (internet) para determinar y guardar:
    - Documentá en sección 2 del MD del partido: "Suerte del día: X recibió +1 / −2 / neutro".
 
    **Importante**: la suerte NO sobrescribe el factor narrativo principal. Es un modulador. Un choreo sigue siendo choreo aunque haya suerte negativa — quizás termina 2-0 en lugar de 4-0. Un partido parejo con suerte fuerte puede generar un empate sorpresivo o una victoria inesperada.
+
+9. **💪 Factor Agallas** — cómo modula el partido:
+
+   Las Agallas no entran solo en el FE. También actúan como **modificador situacional** durante el relato:
+
+   - **Cuando un equipo está perdiendo después del min 60'**:
+     - Agallas ≥ 85: probabilidad de remontada/empate **+15%** respecto a lo que dicta solo el FE.
+     - Agallas 70-84: **+8%**.
+     - Agallas < 70: **+3%** (equipos que bajan los brazos bajo presión).
+   
+   - **En los últimos 15 minutos con marcador igualado (el equipo necesita ganar)**:
+     - Agallas ≥ 85: equipo busca ganar activamente, genera más ocasiones, mayor riesgo.
+     - Agallas < 65: el equipo acepta el empate y cierra espacios.
+   
+   - **Underdogs con Agallas alta (≥ 80) vs favoritos**:
+     - Cap implícito al diferencial de goles: aunque el FE diga que el favorito debería ganar 4-0, si el underdog tiene Agallas ≥ 80, el marcador máximo esperado baja a 2-0 / 3-0 (el equipo "se cierra" y no regala goles).
+     - Ejemplo demostrado en J1 real: Cabo Verde (Agallas 75) contuvo a España (Agallas 82, FE mucho mayor) → 0-0.
+   
+   - **En penales o momentos de VAR**:
+     - Agallas ≥ 85: equipo no se achica, capitán va al árbitro, DT activa a los jugadores.
+     - Agallas < 65: equipo se desmorona ante decisiones adversas.
+   
+   - **En el relato**: Cuando apliques el Factor Agallas, marcá con 💪 la descripción del momento de garra (ej: "💪 El equipo no se rinde, Souček arrastra la pelota a media cancha exigiendo a sus compañeros...").
 
 Calcular las **Fuerzas Efectivas finales** de ambos equipos aplicando todos los ajustes anteriores. Guardar.
 
@@ -232,6 +262,20 @@ Top 6 marcadores cubren ~75% de partidos. Frecuencia histórica (todos los Mundi
 2. **Empates son normales.** Apuntá a ~25-30% de empates en fase de grupos.
 3. **Las 10 corridas MC del Paso 5 son referencia, no obligación.** Si la moda fue 2-1 pero el partido es un choreo, el oficial puede salir 3-0 o 4-1 — está bien.
 4. **Antes de empezar el relato, ELEGÍ EL MARCADOR FINAL.** Considerá el diferencial, mirá la tabla de arriba, sorteá mentalmente respetando las probabilidades. Después tirá el relato hacia ese marcador. No improvises el resultado al final.
+
+**🔬 Calibración J1 2026 — aprendizajes reales (20 partidos disputados)**
+
+Después de J1 (Grupos A-J verificados), los errores sistemáticos fueron:
+
+| Patrón detectado | Evidencia concreta | Corrección |
+|---|---|---|
+| Favoritos sobrevalorados | España simulada 4-0, real 0-0; Brasil 2-1, real 1-1; Bélgica 2-1, real 1-1 | Bajar la ventaja del favorito si DIF FE < 15. En rango 10-15 el underdog empata mucho más. |
+| Efecto local masivo (hosts norteamericanos) | EE.UU. 4-1 (simulamos 1-1), Australia 2-0 (simulamos 1-1) | Bonus host actualizado a +10 Moral. No ajustar solo el marcador; ajustar directamente el FE. |
+| Goleadas extremas frecuentes cuando FE > 20 | Alemania 7-1 (sim. 3-0), Suecia 5-1 (sim. 1-0) | Cuando FE > 20, considerar marcadores 5-0, 6-1, 7-1 como posibles reales. No recortarlos artificialmente. |
+| Underdogs con Agallas alta resisten y empatan | NZ 0-2 → 2-2 (Agallas 78), Catar 1-1 Suiza (Agallas 72) | Aplicar Factor Agallas del Paso 4 rigurosamente cuando el underdog tiene Agallas ≥ 70 vs favorito. |
+| Solo 1/20 resultados exacto | Arabia Saudita 1-1 Uruguay ✅ | No obsesionarse con el marcador exacto — la dirección (quién gana) es lo importante. Diversificar marcadores. |
+
+**Regla especial para J2 en adelante:** los equipos sin puntos en J1 llegan con presión máxima. La desesperación también activa un tipo de Agallas situacional: equipos que perdieron J1 pueden sorprender en J2 más que lo que indica su FE base.
 
 **📊 Estadísticas finales realistas (data de Mundiales 2018/2022 + Euro 2024)**
 

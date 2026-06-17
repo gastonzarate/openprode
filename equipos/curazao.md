@@ -24,6 +24,7 @@
 - Moral: 57
 - Cohesión: 72
 - Experiencia: 50
+- Agallas: 58
 
 ## Plantilla (26 jugadores, regla FIFA 2026)
 | # | Jugador | Pos | Edad | Club | Ataque | Defensa | Físico | Técnica | Estado |

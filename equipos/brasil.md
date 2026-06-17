@@ -24,6 +24,7 @@
 - Moral: 83 *(empate J1 vs Marruecos)*
 - Cohesión: 80
 - Experiencia: 86
+- Agallas: 82
 
 ## Plantilla (26 jugadores, regla FIFA 2026)
 | # | Jugador | Pos | Edad | Club | Ataque | Defensa | Físico | Técnica | Estado |

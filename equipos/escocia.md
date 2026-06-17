@@ -24,6 +24,7 @@
 - Moral: 78 *(+0 base — victoria ajustada J1 vs Haití)*
 - Cohesión: 84
 - Experiencia: 64
+- Agallas: 80
 
 ## Plantilla (26 jugadores, regla FIFA 2026)
 | # | Jugador | Pos | Edad | Club | Ataque | Defensa | Físico | Técnica | Estado |

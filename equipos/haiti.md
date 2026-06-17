@@ -24,6 +24,7 @@
 - Moral: 58 *(-12 — derrota J1 vs Escocia)*
 - Cohesión: 70
 - Experiencia: 50
+- Agallas: 68
 
 ## Plantilla (26 jugadores, regla FIFA 2026)
 | # | Jugador | Pos | Edad | Club | Ataque | Defensa | Físico | Técnica | Estado |
