@@ -21,7 +21,7 @@
 - Defensa: 80
 - Arco: 82
 - Físico: 76
-- Moral: 77
+- Moral: 82
 - Cohesión: 86
 - Experiencia: 86
 - Agallas: 73
@@ -60,25 +60,28 @@
 4-2-3-1: Sommer; Widmer, Akanji, Elvedi, Rodríguez; Xhaka, Freuler; Ndoye, Aebischer, Embolo; Okafor.
 
 ## Lesionados / Suspendidos
-- (ninguno)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-18 vs Bosnia y Herzegovina: 4-1 (V) — Grupo B J2 Mundial 2026
 - 2026-06-13 vs Catar: 1-1 (E) — Grupo B J1 Mundial 2026
 - 2026-03-XX vs España: 0-2 (D)
 - 2026-03-XX vs Italia: 1-1 (E)
 - 2025-11-XX vs Kosovo: 2-0 (V)
-- 2025-11-XX vs Suecia: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 1 | 1 | 0 | 5  | 2  | +3 | 4   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Breel Embolo: 1 gol (vs Catar, 17' de penal, J1)
+- Johan Manzambi: 2 goles (vs Bosnia, 74' y 90', J2)
+- Rubén Vargas: 1 gol (vs Bosnia, 84', J2)
+- Granit Xhaka: 1 gol (vs Bosnia, 90+7' de penal, J2)
 
 ## Historial vs rivales del grupo
 - vs Canadá: 1 amistoso reciente con victoria suiza 3-0.
@@ -86,7 +89,7 @@
 - vs Bosnia y Herzegovina: rivalidad UEFA, balance equilibrado (4V 3E 3D suizo).
 
 ## Estado de ánimo
-Empate 1-1 vs Catar. Decepción — se esperaba victoria clara y Catar resistió e igualó. El modelo esperaba más de Xhaka y compañía.
+Tras el flojo empate 1-1 vs Catar, la goleada 4-1 a Bosnia devolvió la confianza. Manzambi apareció con un doblete y la Nati lidera el grupo junto a Canadá, encarrilada hacia los octavos.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Suiza 2-0 Catar

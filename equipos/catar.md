@@ -21,7 +21,7 @@
 - Defensa: 64
 - Arco: 66
 - Físico: 68
-- Moral: 67
+- Moral: 59
 - Cohesión: 88
 - Experiencia: 55
 - Agallas: 62
@@ -60,25 +60,26 @@
 3-5-2: Barsham; P. Miguel, Khoukhi, Al-Rawi; H. Ahmed, Hatem, Madibo, Boudiaf, T. Salman; Afif, Almoez Ali.
 
 ## Lesionados / Suspendidos
-- **En capilla (1 amarilla):** Assim Madibo (🟨 vs Suiza, J1)
+- Homam Ahmed (DEF): roja directa (min. 33 vs Canadá, J2). **Suspendido para J3.**
+- Assim Madibo (VOL): roja directa (min. 51 vs Canadá, J2). **Suspendido para J3.**
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-18 vs Canadá: 0-6 (D) — Grupo B J2 Mundial 2026
 - 2026-06-13 vs Suiza: 1-1 (E) — Grupo B J1 Mundial 2026
 - 2026-03-XX vs Uzbekistán: 0-1 (D)
 - 2026-03-XX vs Emiratos Árabes: 2-1 (V)
 - 2025-11-XX vs Irán: 1-2 (D)
-- 2025-10-XX vs Kuwait: 3-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 0 | 1 | 1 | 1  | 7  | -6 | 1   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Sin goles propios en el Mundial. (El 1-1 vs Suiza en J1 fue por autogol de Miro Muheim.)
 
 ## Historial vs rivales del grupo
 - vs Canadá: sin antecedentes registrados relevantes.
@@ -86,7 +87,7 @@
 - vs Bosnia y Herzegovina: sin antecedentes registrados.
 
 ## Estado de ánimo
-Empate 1-1 vs Suiza. SORPRESA POSITIVA — punto inesperado ante un favorito europeo. La cohesión catarí fue clave.
+La grata sorpresa del 1-1 vs Suiza se desplomó con la humillante goleada 0-6 ante Canadá, agravada por dos expulsiones (H. Ahmed y Madibo). Moral por el piso y eliminación prácticamente sellada.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Catar 0-2 Suiza

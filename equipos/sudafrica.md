@@ -23,7 +23,7 @@
 - Defensa: 66
 - Arco: 80
 - Físico: 73
-- Moral: 62
+- Moral: 64
 - Cohesión: 80
 - Experiencia: 60
 - Agallas: 70
@@ -62,28 +62,28 @@
 4-3-3: R. Williams; Mudau, Sibisi, Mvala, Modiba; Mokoena, Adams, Maswanganyi; Mofokeng, Foster, Zwane.
 
 ## Lesionados / Suspendidos
-- En capilla (1 amarilla acumulada): Mokoena, Modiba (2da amarilla vs México).
+- Sin sanciones ni lesionados reportados. (Sithole y Zwane cumplieron su fecha de suspensión por roja en J2; disponibles para J3.)
 
 ## Estado de ánimo
-Derrota 0-2 vs México en el Azteca. Resultado esperado pero falta de gol preocupante.
+Tras la derrota 0-2 vs México, rescató un 1-1 vs Chequia con penal de Mokoena (83'). Suma 1 punto en el Grupo A y sigue sin ganar.
 
 ## Forma reciente (pre-Mundial + Mundial, últimos 5 partidos)
+- 2026-06-18 vs Chequia: 1-1 (E) — Grupo A J2 Mundial 2026
 - 2026-06-11 vs México: 0-2 (D) — Grupo A J1 Mundial 2026
 - 2026-03-XX vs Nigeria: 1-1 (E)
 - 2025-11-XX vs Lesoto: 3-0 (V)
 - 2025-10-XX vs Zimbabue: 0-0 (E)
-- 2025-09-XX vs Ruanda: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
+| 2  | 0 | 1 | 1 | 1  | 3  | −2 | 1   |
 
 ### Goleadores propios
-- (ninguno)
+- Teboho Mokoena: 1 gol (vs Chequia, 83' pen, J2)
 
 ## Historial vs rivales del grupo
 - vs México: 0-2 en J1 (2026-06-11, Azteca). Anteriormente: 1-1 en Soccer City 2010.

@@ -21,7 +21,7 @@
 - Defensa: 80
 - Arco: 76
 - Físico: 82
-- Moral: 80
+- Moral: 78
 - Cohesión: 82
 - Experiencia: 80
 - Agallas: 92
@@ -61,28 +61,25 @@
 
 ## Lesionados / Suspendidos
 - Nahitan Nández: excluido por decisión técnica de Bielsa.
-- Manuel Ugarte: golpe en rodilla derecha (min. 51 vs Arabia). Duda para J2.
-
-## En capilla (1 amarilla acumulada)
-- Guillermo Varela (min. 54 vs Arabia Saudita)
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-21 vs Cabo Verde: 2-2 (E) — Grupo H J2 Mundial 2026
 - 2026-06-15 vs Arabia Saudita: 1-1 (E) — Mundial Grupo H J1, penal polémico les quitó la victoria 🌧
 - 2026-03-XX vs Paraguay: 0-1 (D)
 - 2026-03-XX vs Argentina: 0-0 (E)
 - 2025-11-XX vs Bolivia: 3-0 (V)
-- 2025-10-XX vs Colombia: 2-2 (E)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 0 | 2 | 0 | 3  | 3  | 0  | 2   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 1 gol)
+- Maximiliano Araújo: 2 goles (vs Arabia Saudita, 80', J1; vs Cabo Verde, 44', J2)
+- Agustín Canobbio: 1 gol (vs Cabo Verde, 45+6', J2)
 
 ## Historial vs rivales del grupo
 - vs España: balance histórico cerca de 3-3-4 con leve ventaja española.
@@ -90,7 +87,7 @@
 - vs Arabia Saudita: Mundial 2018 (victoria 1-0) · Mundial 2026 J1 (1-1, penal polémico 🌧).
 
 ## Estado de ánimo
-Empate 1-1 vs Arabia Saudita. Uruguay esperaba más pero el punto sirve para seguir. Darwin y Núñez no lograron diferencia.
+Dos empates que saben a poco: 1-1 vs Arabia Saudita y 2-2 vs Cabo Verde pese a ir dos veces arriba (doblete acumulado de Maxi Araújo, agónico de Canobbio en el 45+6'). La Celeste de Bielsa dejó puntos en el camino y se la juega en la última fecha.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Arabia Saudita 1-1 Uruguay

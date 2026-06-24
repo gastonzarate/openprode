@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 82
 - Físico: 82
-- Moral: 76
+- Moral: 81
 - Cohesión: 75
 - Experiencia: 80
 - Agallas: 80
@@ -60,30 +60,40 @@
 4-3-3: Pickford; Livramento, Stones, Guéhi, R. James; Rice, Mainoo, Bellingham; Saka, Kane, Rashford.
 
 ## Lesionados / Suspendidos
-- Kobbie Mainoo (VOL): duda — golpe en muslo (min 53 vs Croacia). Salió min 72 como medida preventiva. Estado en evaluación para J2.
+- Sin sanciones ni lesionados reportados.
+
+## Estado de ánimo
+Arranque sólido como líder del Grupo L: goleada 4-2 a Croacia con doblete de Kane y empate 0-0 frente a Ghana en un partido trabado. 4 puntos y la clasificación bien encaminada, aunque el 0-0 dejó algo de sabor a poco ante un rival defensivo.
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-17 vs Croacia (G.L J1): 1-1 (E) — gol anulado por VAR, empate en 70'
+- 2026-06-23 vs Ghana: 0-0 (E) — Grupo L J2 Mundial 2026
+- 2026-06-17 vs Croacia: 4-2 (V) — Grupo L J1 Mundial 2026
 - 2026-03-XX vs Brasil: 2-1 (V)
 - 2026-03-XX vs Italia: 1-1 (E)
 - 2025-11-XX vs Letonia: 5-0 (V)
-- 2025-10-XX vs Hungría: 3-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 15/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 1 | 1 | 0 | 4  | 2  | +2 | 4   |
 
 ### Goleadores propios
-- Bukayo Saka: 1 gol (vs Croacia, min 25, G.L J1)
+- Harry Kane: 2 goles (vs Croacia, 12' pen y 42', J1)
+- Jude Bellingham: 1 gol (vs Croacia, 47', J1)
+- Marcus Rashford: 1 gol (vs Croacia, 85', J1)
 
 ## Historial vs rivales del grupo
-- vs Croacia: balance histórico 4V-3E-1D; semifinal Rusia 2018 derrota 1-2.
-- vs Ghana: amistoso 2011: 1-1.
+- vs Croacia: balance histórico 4V-3E-1D; semifinal Rusia 2018 derrota 1-2. Mundial 2026 J1: 4-2 victoria inglesa.
+- vs Ghana: amistoso 2011: 1-1. Mundial 2026 J2: 0-0.
 - vs Panamá: 6-1 victoria inglesa Mundial 2018 fase grupos.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Inglaterra 1-1 Croacia
+- **Real:** Inglaterra 4-2 Croacia
+- **Diagnóstico:** Subestimamos por completo a Inglaterra; el modelo dio empate y la realidad fue una goleada con doblete de Kane. El poder ofensivo de los Three Lions superó ampliamente lo simulado.
 
 ---
 > Fuente: WebSearch 2026-05-27 (England Football, Sky Sports, ESPN).

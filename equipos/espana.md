@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 80
 - Físico: 80
-- Moral: 76
+- Moral: 81
 - Cohesión: 90
 - Experiencia: 84
 - Agallas: 82
@@ -60,25 +60,26 @@
 4-3-3: Unai Simón; P. Porro, Cubarsí, Laporte, Cucurella; Zubimendi, Pedri, Rodri; Lamine Yamal, Morata, N. Williams.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-21 vs Arabia Saudita: 4-0 (V) — Grupo H J2 Mundial 2026
 - 2026-06-15 vs Cabo Verde: 0-0 (E) — Grupo H J1 Mundial 2026
 - 2026-03-XX vs Países Bajos: 1-1 (E)
 - 2026-03-XX vs Italia: 2-0 (V)
 - 2025-11-XX vs Dinamarca: 3-1 (V)
-- 2025-10-XX vs Serbia: 2-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 0  | 0  | 0  | 1   |
+| 2  | 1 | 1 | 0 | 4  | 0  | +4 | 4   |
 
 ### Goleadores propios
-- (ninguno)
+- Lamine Yamal: 1 gol (vs Arabia Saudita, 10', J2)
+- Mikel Oyarzabal: 2 goles (vs Arabia Saudita, 21' y 24', J2)
 
 ## Historial vs rivales del grupo
 - vs Cabo Verde: 0V-1E-0D (2026-06-15: 0-0 · Mundial J1).
@@ -86,7 +87,7 @@
 - vs Uruguay: balance histórico, 4V-3E-3D ligeramente favorable a España.
 
 ## Estado de ánimo
-Empate 0-0 vs Cabo Verde. CATÁSTROFE — la Roja no pudo marcar ante uno de los equipos más débiles del torneo. Yamal, Morata y Olmo inoperantes. Crisis de confianza severa.
+Arrancó con un 0-0 frío vs Cabo Verde, pero en la J2 la Roja se sacudió con un 4-0 contundente a Arabia Saudita (doblete de Oyarzabal y golazo de Yamal). Recuperada la confianza y líder del Grupo H con el arco en cero.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** España 4-0 Cabo Verde

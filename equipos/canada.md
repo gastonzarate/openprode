@@ -23,7 +23,7 @@
 - Defensa: 72
 - Arco: 74
 - Físico: 80
-- Moral: 74
+- Moral: 79
 - Cohesión: 78
 - Experiencia: 60
 - Agallas: 72
@@ -62,26 +62,27 @@
 4-3-3: Crépeau; A. Johnston, Bombito, Cornelius, Adekugbe; Eustáquio, Koné, Sigur; Buchanan, J. David, Davies.
 
 ## Lesionados / Suspendidos
-- Alphonso Davies (DEL): lesión muscular de Bayern Munich, duda para debut del 12/06. Recuperación en curso.
-- Cyle Larin (DEL): molestia en tobillo derecho (min. 70 vs Bosnia). **Duda para J2 (vs Catar, 2026-06-18).**
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-18 vs Catar: 6-0 (V) — Grupo B J2 Mundial 2026
 - 2026-06-12 vs Bosnia y Herzegovina: 1-1 (E) — Grupo B J1 Mundial 2026
 - 2026-03-XX vs Estados Unidos: 1-1 (E)
 - 2026-03-XX vs Panamá: 3-1 (V)
 - 2025-11-XX vs Surinam: 4-0 (V)
-- 2025-10-XX vs México: 0-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 1 | 1 | 0 | 7  | 1  | +6 | 4   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Cyle Larin: 2 goles (vs Bosnia, 78', J1; vs Catar, 16', J2)
+- Jonathan David: 3 goles (vs Catar, 29', 45+3' y 90+2', J2 — hat-trick)
+- Nathan Saliba: 1 gol (vs Catar, 64', J2)
 
 ## Historial vs rivales del grupo
 - vs Bosnia y Herzegovina: 1 PJ — 2026-06-12, 1-1 empate (J1 Mundial 2026).
@@ -89,7 +90,7 @@
 - vs Catar: sin antecedentes registrados relevantes.
 
 ## Estado de ánimo
-Empate 1-1 vs Bosnia. Como anfitrión local esperaba más; Davies se recuperó pero el equipo no encontró el gol definitivo.
+Tras el empate 1-1 vs Bosnia llegó la goleada 6-0 a Catar, con hat-trick de Jonathan David y doblete de Larin. El equipo explotó ofensivamente y se afianza como local con la mira puesta en el primer puesto del grupo.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Canadá 0-0 Bosnia y Herzegovina

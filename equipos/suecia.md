@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 74
 - Físico: 82
-- Moral: 85 *(+3 — Goleada J1)*
+- Moral: 77 *(-8 — goleada en contra J2)*
 - Cohesión: 76
 - Experiencia: 72
 - Agallas: 75
@@ -60,25 +60,29 @@
 4-4-2: R. Olsen; Krafth, Lindelöf, Hien, Gudmundsson; Kulusevski, Svanberg, H. Larsson, Elanga; Gyökeres, Isak.
 
 ## Lesionados / Suspendidos
-- **En capilla (1 amarilla):** Victor Lindelöf (🟨 J1 vs Túnez — próximo partido: vs Países Bajos J2)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-20 vs Países Bajos: 1-5 (D) — Grupo F J2 Mundial 2026
 - 2026-06-14 vs Túnez: 5-1 (V) — Grupo F J1 Mundial 2026
 - 2026-03-XX vs Chequia: 1-1 (E)
 - 2026-03-XX vs Albania: 4-1 (V)
 - 2025-11-XX vs Suiza: 2-1 (V)
-- 2025-10-XX vs Eslovenia: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 25/100 *(+13 J1; +12 J2)*
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 5  | 1  | +4 | 3   |
+| 2  | 1 | 0 | 1 | 6  | 6  | 0  | 3   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Yasin Ayari: 2 goles (vs Túnez, 7' y 90+6', J1)
+- Alexander Isak: 1 gol (vs Túnez, 30', J1)
+- Viktor Gyökeres: 1 gol (vs Túnez, 59', J1)
+- Mattias Svanberg: 1 gol (vs Túnez, 84', J1)
+- Anthony Elanga: 1 gol (vs Países Bajos, 59', J2)
 
 ## Historial vs rivales del grupo
 - vs Países Bajos: rivalidad UEFA, balance 2V-2E-1D sueco.
@@ -86,7 +90,7 @@
 - vs Túnez: 1V — 2026-06-14 Suecia 5-1 Túnez (Grupo F J1).
 
 ## Estado de ánimo
-Goleada 5-1 vs Túnez. Actuación de ensueño — el equipo mostró su mejor versión goleadora. Lideran el grupo con autoridad.
+Del sueño al golpe: tras golear 5-1 a Túnez, Suecia cayó 1-5 ante Países Bajos en J2. La defensa quedó expuesta y se juegan la clasificación en la última fecha con 3 puntos.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Victoria 1-0 vs Túnez

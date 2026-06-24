@@ -21,7 +21,7 @@
 - Defensa: 64
 - Arco: 66
 - Físico: 72
-- Moral: 72
+- Moral: 74
 - Cohesión: 80
 - Experiencia: 50
 - Agallas: 75
@@ -60,30 +60,26 @@
 4-3-3: Bruno Varela; Catamo, R. Lopes, Borges, J. Sá; K. Rocha, P. Andrade, Mendes; G. Rodrigues, Bebé, J. Cabral.
 
 ## Lesionados / Suspendidos
-- (ninguno)
-
-## En capilla (1 amarilla acumulada)
-- Kenny Rocha Santos (🟨 min. 13 vs España)
-- Diney Borges (🟨 min. 34 vs España)
-- Geny Catamo (🟨 min. 80 vs España)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-21 vs Uruguay: 2-2 (E) — Grupo H J2 Mundial 2026
 - 2026-06-15 vs España: 0-0 (E) — Grupo H J1 Mundial 2026
 - 2026-03-XX vs Esuatini: 3-0 (V)
 - 2026-03-XX vs Camerún: 0-1 (D)
 - 2025-11-XX vs Libia: 1-0 (V)
-- 2025-10-XX vs Mauricio: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 25/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 0  | 0  | 0  | 1   |
+| 2  | 0 | 2 | 0 | 2  | 2  | 0  | 2   |
 
 ### Goleadores propios
-- (ninguno aún)
+- Kevin Pina: 1 gol (vs Uruguay, 21', J2)
+- Hélio Varela: 1 gol (vs Uruguay, 61', J2)
 
 ## Historial vs rivales del grupo
 - vs España: 0V-1E-0D (2026-06-15: 0-0 · Mundial J1).
@@ -91,7 +87,7 @@
 - vs Uruguay: sin antecedentes registrados.
 
 ## Estado de ánimo
-Empate 0-0 vs España. HAZAÑA HISTÓRICA. El bloque defensivo capoverdiano aguantó 90' sin recibir gol ante el favorito del grupo. Uno de los grandes resultados de la historia de Cabo Verde.
+Debut soñado: 0-0 ante España y luego un 2-2 vs Uruguay remando dos veces en desventaja (Pina y Varela marcaron). Cuatro de seis puntos posibles ante dos potencias; los Tubarões Azuis siguen invictos y con chances reales de avanzar.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** España 4-0 Cabo Verde

@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 72
 - Físico: 70
-- Moral: 87
+- Moral: 79
 - Cohesión: 78
 - Experiencia: 76
 - Agallas: 76
@@ -60,30 +60,26 @@
 4-3-3: Vasilj; Dedić, Ahmedhodžić, Katić, Kolašinac; Krunić, Pjanić, Tahirović; Višća, Džeko, Demirović.
 
 ## Lesionados / Suspendidos
-- (ninguno)
-
-## En capilla (1 amarilla acumulada en el Mundial)
-- Sead Kolašinac (DEF) — 1 amarilla (min. 42 vs Canadá)
-- Miralem Pjanić (VOL) — 1 amarilla (min. 50 vs Canadá)
-- Anel Ahmedhodžić (DEF) — 1 amarilla (min. 90'+2 vs Canadá)
+- Tarik Muharemović (DEF): roja directa (min. 80 vs Suiza, J2). **Suspendido para J3.**
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-18 vs Suiza: 1-4 (D) — Grupo B J2 Mundial 2026
 - 2026-06-12 vs Canadá: 1-1 (E) — Grupo B J1 Mundial 2026
 - 2026-03-XX vs Italia: 1-1 (4-2 pen, V) — repechaje final
 - 2026-03-XX vs Gales: 0-0 (5-3 pen, V) — semi repechaje
 - 2025-11-XX vs Eslovaquia: 1-1 (E)
-- 2025-10-XX vs Austria: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 0 | 1 | 1 | 2  | 5  | -3 | 1   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Jovo Lukić: 1 gol (vs Canadá, 21', J1)
+- Ermin Mahmić: 1 gol (vs Suiza, 90+3', J2)
 
 ## Historial vs rivales del grupo
 - vs Canadá: 1 PJ — 2026-06-12, 1-1 empate (J1 Mundial 2026).
@@ -91,7 +87,7 @@
 - vs Catar: sin antecedentes registrados.
 
 ## Estado de ánimo
-Empate 1-1 vs Canadá. Punto valioso en debut mundialista. Vasilj y Džeko respondieron bien.
+El buen punto del 1-1 vs Canadá quedó sepultado por la dura caída 1-4 ante Suiza, con expulsión de Muharemović incluida. Los Dragones quedaron golpeados y al borde de la eliminación, obligados a ganar en J3.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Bosnia y Herzegovina 0-0 Canadá

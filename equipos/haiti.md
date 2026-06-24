@@ -21,7 +21,7 @@
 - Defensa: 60
 - Arco: 64
 - Físico: 72
-- Moral: 58 *(-12 — derrota J1 vs Escocia)*
+- Moral: 50 *(-8 — goleada J2 vs Brasil)*
 - Cohesión: 70
 - Experiencia: 50
 - Agallas: 68
@@ -60,26 +60,25 @@
 4-4-2: Placide; Duverne, R. Adé, Jean-Baptiste, Arcus; Saba, Jean Jacques, Sandapa, Lambese; W. Isidor, Nazon.
 
 ## Lesionados / Suspendidos
-- Stéphane Lambese: 🟨 1 amarilla acumulada (capilla — próximo: Brasil J2)
-- Soni Mustivar: 🟨 1 amarilla acumulada (capilla — próximo: Brasil J2)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-13 vs Escocia: 0-1 (D) — Grupo C J1 Mundial 2026
+- 2026-06-19 vs Brasil: 0-3 (P) — Grupo C J2 Mundial 2026
+- 2026-06-13 vs Escocia: 0-1 (P) — Grupo C J1 Mundial 2026
 - 2026-03-XX vs Curazao: 1-0 (V) — eliminatoria CONCACAF
 - 2026-03-XX vs Costa Rica: 3-2 (V, hat-trick Nazon)
 - 2025-11-XX vs Honduras: 0-1 (D)
-- 2025-10-XX vs Jamaica: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 1  | −1 | 0   |
+| 2  | 0 | 0 | 2 | 0  | 4  | −4 | 0   |
 
 ### Goleadores propios
-- (ninguno)
+- Sin goles propios en el Mundial.
 
 ## Historial vs rivales del grupo
 - vs Brasil: sin antecedentes mundialistas relevantes; amistoso 2004 derrota 6-0.
@@ -87,7 +86,7 @@
 - vs Escocia: sin antecedentes previos; **Mundial 2026 J1: Derrota 0-1**.
 
 ## Estado de ánimo
-Derrota 0-1 vs Escocia. Resultado ajustado, no una goleada como temíamos. Digna resistencia ante rivales más establecidos.
+Dos derrotas y eliminación matemática: 0-1 ajustado vs Escocia y luego 0-3 ante Brasil. Sin goles a favor y con la ilusión mundialista terminada, a Les Grenadiers les queda jugar por el orgullo en J3.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Haití 0-2 Escocia

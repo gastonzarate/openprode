@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 74
 - Físico: 76
-- Moral: 73
+- Moral: 65
 - Cohesión: 82
 - Experiencia: 70
 - Agallas: 72
@@ -60,30 +60,25 @@
 4-3-3: Al-Owais; S. Al-Ghannam, Al-Bulayhi, Al-Tambakti, Al-Shahrani; Kanno, S. Al-Faraj, Sharahili; S. Al-Dawsari, F. Al-Buraikan, S. Al-Shehri.
 
 ## Lesionados / Suspendidos
-- (ninguno)
-
-## En capilla (1 amarilla acumulada)
-- Saleh Al-Shehri (min. 26 vs Uruguay)
-- Mohamed Kanno (min. 68 vs Uruguay)
-- Ali Al-Bulayhi (min. 85 vs Uruguay)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-21 vs España: 0-4 (P) — Grupo H J2 Mundial 2026
 - 2026-06-15 vs Uruguay: 1-1 (E) — Mundial Grupo H J1 🌧 empate heroico con penal de Al-Dawsari
 - 2026-03-XX vs Australia: 0-0 (E)
 - 2026-03-XX vs Indonesia: 2-0 (V)
 - 2025-11-XX vs Bahréin: 3-0 (V)
-- 2025-10-XX vs Japón: 0-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 25/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 0 | 1 | 1 | 1  | 5  | -4 | 1   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 1 gol)
+- Abdulelah Al-Amri: 1 gol (vs Uruguay, 41', J1)
 
 ## Historial vs rivales del grupo
 - vs España: 2-2 amistoso 2018.
@@ -91,7 +86,7 @@
 - vs Uruguay: Mundial 2018 (derrota 0-1) · Mundial 2026 J1 (1-1 🌧 empate histórico).
 
 ## Estado de ánimo
-Empate 1-1 vs Uruguay. Resultado equilibrado esperado. La Saudita compitió de igual a igual con la Celeste.
+Tras el heroico 1-1 vs Uruguay, la J2 fue un baño de realidad: goleada 0-4 ante España, con un autogol de Al-Tambakti incluido. La ilusión del debut se apagó y el equipo de Renard queda al borde de la eliminación.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Arabia Saudita 1-1 Uruguay

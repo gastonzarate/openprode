@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 86
 - Físico: 78
-- Moral: 77
+- Moral: 75
 - Cohesión: 78
 - Experiencia: 84
 - Agallas: 72
@@ -60,25 +60,25 @@
 4-3-3: Courtois; Castagne, Debast, Theate, De Cuyper; Tielemans, Onana, De Bruyne; Doku, Lukaku, Openda.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Nathan Ngoy: suspendido para J3 (roja vs Irán, 66').
 
 ## Forma reciente (últimos 5 partidos, incluyendo Mundial)
+- 2026-06-21 vs Irán: 0-0 (E) — Grupo G J2 Mundial 2026
 - 2026-06-15 vs Egipto: 1-1 (E) — Grupo G J1 Mundial 2026
 - 2026-03-XX vs Macedonia del Norte: 4-0 (V)
 - 2026-03-XX vs Eslovenia: 2-1 (V)
 - 2025-11-XX vs Israel: 0-0 (E)
-- 2025-10-XX vs Estonia: 5-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 0 | 2 | 0 | 1  | 1  | 0  | 2   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Sin goles propios en el Mundial (el 1-1 vs Egipto fue autogol rival).
 
 ## Historial vs rivales del grupo
 - vs Egipto: **1E** en Mundial 2026 (1-1, J1). Amistosos previos: balance equilibrado.
@@ -86,7 +86,7 @@
 - vs Nueva Zelanda: sin antecedentes registrados.
 
 ## Estado de ánimo
-Empate 1-1 vs Egipto. La Bélgica post-Generación Dorada no pudo con un Egipto liderado por Salah. Resultó más difícil de lo proyectado.
+Dos empates sin brillo: 1-1 vs Egipto y 0-0 vs Irán. La Bélgica post-Generación Dorada no encuentra el gol y suma apenas 2 puntos en un grupo que se esperaba dominar. La roja de Ngoy complica la última fecha.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Bélgica 2-1 Egipto

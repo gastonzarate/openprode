@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 88
 - Físico: 82
-- Moral: 94
+- Moral: 99
 - Cohesión: 95
 - Experiencia: 92
 - Agallas: 96
@@ -60,28 +60,25 @@
 4-3-3: E. Martínez; Molina, Romero, Otamendi, Tagliafico; De Paul, E. Fernández, Mac Allister; Messi, J. Álvarez, Di María (alt: T. Almada).
 
 ## Lesionados / Suspendidos
-- (ninguno)
-
-## En capilla (1 amarilla acumulada)
-- Enzo Fernández (41' vs Argelia)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-22 vs Austria: 2-0 (V) — Grupo J J2 Mundial 2026
 - 2026-06-16 vs Argelia: 3-0 (V) — Grupo J J1 Mundial 2026
 - 2026-03-XX vs Brasil: 1-0 (V)
 - 2026-03-XX vs Uruguay: 0-0 (E)
 - 2025-11-XX vs Paraguay: 2-1 (V)
-- 2025-10-XX vs Ecuador: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 3  | 0  | +3 | 3   |
+| 2  | 2 | 0 | 0 | 5  | 0  | +5 | 6   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 3 goles, posiblemente Messi entre ellos)
+- Lionel Messi: 5 goles (vs Argelia 17', 60', 76' hat-trick J1; vs Austria 38', 90+5' J2)
 
 ## Historial vs rivales del grupo
 - vs Argelia: 4V-0E-1D balance argentino (incluye amistoso 4-3 victoria argelina 2002).
@@ -89,7 +86,7 @@
 - vs Jordania: sin antecedentes registrados.
 
 ## Estado de ánimo
-Victoria 3-0 vs Argelia. La Albiceleste fue sólida y sin conceder. Messi lidera a un equipo que muestra la consistencia del campeón vigente.
+Arranque perfecto: 3-0 vs Argelia y 2-0 vs Austria, líder del Grupo J con 6 puntos y el arco en cero. Messi marcó los 5 goles (hat-trick en J1 y doblete en J2) y superó a Klose como máximo goleador histórico de los Mundiales; la Albiceleste es pura jerarquía.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Argentina 3-1 Argelia

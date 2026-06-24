@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 72
 - Físico: 76
-- Moral: 69
+- Moral: 71
 - Cohesión: 68
 - Experiencia: 70
 - Agallas: 68
@@ -63,25 +63,26 @@
 - (ninguno)
 
 ## Estado de ánimo / Capilla
-Derrota 1-2 vs Corea del Sur. El equipo cedió la victoria en la segunda mitad. Revisión táctica necesaria.
+Tras la derrota 1-2 vs Corea del Sur, empató 1-1 vs Sudáfrica (Sadílek 6') pero dejó escapar la ventaja con un penal sobre la hora. Apenas 1 punto en el Grupo A.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-18 vs Sudáfrica: 1-1 (E) — Grupo A J2 Mundial 2026
 - 2026-06-11 vs Corea del Sur: 1-2 (D) — Grupo A J1 Mundial 2026
 - 2026-03-XX vs Eslovaquia: 2-1 (V)
 - 2026-03-XX vs Suecia: 1-1 (E)
 - 2025-11-XX vs San Marino: 4-0 (V)
-- 2025-11-XX vs Ucrania: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 2  | −1 | 0   |
+| 2  | 0 | 1 | 1 | 2  | 3  | −1 | 1   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Ladislav Krejčí: 1 gol (vs Corea del Sur, 59', J1)
+- Michal Sadílek: 1 gol (vs Sudáfrica, 6', J2)
 
 ## Historial vs rivales del grupo
 - vs México: 1-1 amistoso 2014, sin antecedentes mundialistas.

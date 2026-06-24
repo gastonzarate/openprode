@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 78
 - Físico: 82
-- Moral: 74
+- Moral: 72
 - Cohesión: 84
 - Experiencia: 70
 - Agallas: 72
@@ -60,25 +60,25 @@
 4-3-3: Galíndez; Preciado, Pacho, Hincapié, Estupiñán; M. Caicedo, A. Franco, Páez; G. Plata, E. Valencia, J. Sarmiento.
 
 ## Lesionados / Suspendidos
-- William Pacho: 1 amarilla acumulada (en capilla para J2)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-20 vs Curazao: 0-0 (E) — Grupo E J2 Mundial 2026
 - 2026-06-14 vs Costa de Marfil: 0-1 (D) — Grupo E J1 Mundial 2026
 - 2026-03-XX vs Venezuela: 2-1 (V)
 - 2026-03-XX vs Chile: 1-0 (V)
 - 2025-11-XX vs Argentina: 0-1 (D)
-- 2025-10-XX vs Brasil: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 25/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 1  | -1 | 0   |
+| 2  | 0 | 1 | 1 | 0  | 1  | -1 | 1   |
 
 ### Goleadores propios
-- (ninguno)
+- Sin goles propios en el Mundial.
 
 ## Historial vs rivales del grupo
 - vs Alemania: balance 1V-1E históricos, partido amistoso 2-4 derrota.
@@ -86,7 +86,7 @@
 - vs Costa de Marfil: sin antecedentes registrados.
 
 ## Estado de ánimo
-Derrota 0-1 vs Costa de Marfil. Resultado inesperado y duro. La Tri perdió un partido que debía ganar según las stats. J2 vs Curazao es vital.
+Arranque para el olvido: derrota 0-1 vs Costa de Marfil y empate 0-0 vs Curazao sin poder convertir. La Tri suma apenas 1 punto, sigue sin marcar y se juega la clasificación en la última fecha.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Ecuador 1-0 Costa de Marfil

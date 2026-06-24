@@ -21,7 +21,7 @@
 - Defensa: 73
 - Arco: 73
 - Físico: 80
-- Moral: 76
+- Moral: 71
 - Cohesión: 80
 - Experiencia: 75
 - Agallas: 88
@@ -60,28 +60,29 @@
 4-2-3-1: Jo H.-w.; Seol, Kim M.-j., J. Castrop, Kim T.-h.; Hwang I.-b., Lee J.-s.; Son, Lee K.-i., Hwang H.-c.; Cho G.-s.
 
 ## Lesionados / Suspendidos
-- Seol Young-woo: reemplazado al 20' por molestia muscular (seguimiento)
+- Sin sanciones ni lesionados reportados.
 
 ## Estado de ánimo / Capilla
-Victoria 2-1 vs Chequia. Son condujo a la remontada. Moral alta de cara a México en J2.
+Tras ganar 2-1 a Chequia en el debut, cayó 0-1 vs México (gol de Romo 50'). Queda con 3 puntos en el Grupo A y se jugará la clasificación en J3.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-18 vs México: 0-1 (D) — Grupo A J2 Mundial 2026
 - 2026-06-11 vs Chequia: 2-1 (V) — Grupo A J1 Mundial 2026
 - 2026-03-XX vs Japón: 1-2 (D)
 - 2026-03-XX vs Bahréin: 4-0 (V)
 - 2025-11-XX vs Kuwait: 3-0 (V)
-- 2025-10-XX vs Irán: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 1  | +1 | 3   |
+| 2  | 1 | 0 | 1 | 2  | 2  | 0  | 3   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Hwang In-beom: 1 gol (vs Chequia, 67', J1)
+- Oh Hyeon-gyu: 1 gol (vs Chequia, 80', J1)
 
 ## Historial vs rivales del grupo
 - vs México: 5 enfrentamientos, balance equilibrado (incluye victoria coreana 2-1 en Rusia 2018).

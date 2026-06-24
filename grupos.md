@@ -1,130 +1,135 @@
 # Tablas de posiciones — Fase de Grupos
 
-> ⚠️ **Resultados reales J1 (Grupos A–J verificados). Grupos K y L: partidos del 17/06 aún en curso.**
-> Fuente: CBS Sports, ESPN — 2026-06-17
+> ✅ **Resultados REALES J1 + J2 — los 12 grupos verificados.** Jornada 3 pendiente.
+> Orden por: Pts → DG → GF (criterios FIFA). Fuente: Wikipedia / ESPN / CBS — 2026-06-24.
 
 ## Grupo A
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | México 🇲🇽 | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
-| 2 | Corea del Sur 🇰🇷 | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 |
-| 3 | Chequia 🇨🇿 | 1 | 0 | 0 | 1 | 1 | 2 | −1 | 0 |
-| 4 | Sudáfrica 🇿🇦 | 1 | 0 | 0 | 1 | 0 | 2 | −2 | 0 |
+| 1 | México 🇲🇽 | 2 | 2 | 0 | 0 | 3 | 0 | +3 | 6 |
+| 2 | Corea del Sur 🇰🇷 | 2 | 1 | 0 | 1 | 2 | 2 | 0 | 3 |
+| 3 | Chequia 🇨🇿 | 2 | 0 | 1 | 1 | 2 | 3 | −1 | 1 |
+| 4 | Sudáfrica 🇿🇦 | 2 | 0 | 1 | 1 | 1 | 3 | −2 | 1 |
 
-*México y Corea del Sur iguales en Pts (3). México aventaja por DG (+2 vs +1).*
+*México clasificado y líder (2 victorias). J3 (24/6): Chequia-México y Sudáfrica-Corea. Corea con ventaja para el 2º; Chequia y Sudáfrica obligadas a ganar.*
 
 ## Grupo B
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Suiza 🇨🇭 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 2 | Canadá 🇨🇦 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 3 | Bosnia y Herzegovina 🇧🇦 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 4 | Catar 🇶🇦 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 1 | Canadá 🇨🇦 | 2 | 1 | 1 | 0 | 7 | 1 | +6 | 4 |
+| 2 | Suiza 🇨🇭 | 2 | 1 | 1 | 0 | 5 | 2 | +3 | 4 |
+| 3 | Bosnia y Herzegovina 🇧🇦 | 2 | 0 | 1 | 1 | 2 | 5 | −3 | 1 |
+| 4 | Catar 🇶🇦 | 2 | 0 | 1 | 1 | 1 | 7 | −6 | 1 |
 
-*🔴 SORPRESA J1: Todos empataron (Canadá 1-1 Bosnia · Catar 1-1 Suiza). Grupo B completamente igualado. Orden provisional por Ranking FIFA. Catar sorprendió al empatar con Suiza.*
+*Canadá y Suiza puntean con 4. En J3 se cruzan: a Canadá le alcanza el empate (DG +6 vs +3) para ser 1º; Suiza debe ganar. Bosnia y Catar pelean un lugar de mejor tercero.*
 
 ## Grupo C
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Escocia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 1 | 1 | 0 | 0 | 1 | 0 | +1 | 3 |
-| 2 | Brasil 🇧🇷 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 3 | Marruecos 🇲🇦 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 4 | Haití 🇭🇹 | 1 | 0 | 0 | 1 | 0 | 1 | −1 | 0 |
+| 1 | Brasil 🇧🇷 | 2 | 1 | 1 | 0 | 4 | 1 | +3 | 4 |
+| 2 | Marruecos 🇲🇦 | 2 | 1 | 1 | 0 | 2 | 1 | +1 | 4 |
+| 3 | Escocia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 2 | 1 | 0 | 1 | 1 | 1 | 0 | 3 |
+| 4 | Haití 🇭🇹 | 2 | 0 | 0 | 2 | 0 | 4 | −4 | 0 |
 
-*🔴 SORPRESA J1: Escocia lidera el grupo sobre Brasil. Brasil empató 1-1 con Marruecos (simulamos 2-1 para Brasil). Brasil y Marruecos iguales: orden por Ranking FIFA.*
+*Brasil 1º por DG sobre Marruecos (ambos 4). Escocia sigue vivo con 3. Haití eliminado. J3 (24/6): Escocia-Brasil y Marruecos-Haití.*
 
 ## Grupo D
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Estados Unidos 🇺🇸 | 1 | 1 | 0 | 0 | 4 | 1 | +3 | 3 |
-| 2 | Australia 🇦🇺 | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 |
-| 3 | Paraguay 🇵🇾 | 1 | 0 | 0 | 1 | 1 | 4 | −3 | 0 |
-| 4 | Turquía 🇹🇷 | 1 | 0 | 0 | 1 | 0 | 2 | −2 | 0 |
+| 1 | Estados Unidos 🇺🇸 | 2 | 2 | 0 | 0 | 6 | 1 | +5 | 6 |
+| 2 | Australia 🇦🇺 | 2 | 1 | 0 | 1 | 2 | 2 | 0 | 3 |
+| 3 | Paraguay 🇵🇾 | 2 | 1 | 0 | 1 | 2 | 4 | −2 | 3 |
+| 4 | Turquía 🇹🇷 | 2 | 0 | 0 | 2 | 0 | 3 | −3 | 0 |
 
-*🔴 SORPRESA J1: Simulamos empates en ambos partidos; el real fue EE.UU. 4-1 Paraguay y Australia 2-0 Turquía. Grupo anfitrión reaccionó con contundencia.*
+*EE.UU. clasificado y líder. Australia 2º por DG sobre Paraguay (ambos 3) y se cruzan en J3: definición directa por el 2º puesto. Turquía eliminada.*
 
 ## Grupo E
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Alemania 🇩🇪 | 1 | 1 | 0 | 0 | 7 | 1 | +6 | 3 |
-| 2 | Costa de Marfil 🇨🇮 | 1 | 1 | 0 | 0 | 1 | 0 | +1 | 3 |
-| 3 | Ecuador 🇪🇨 | 1 | 0 | 0 | 1 | 0 | 1 | −1 | 0 |
-| 4 | Curazao 🇨🇼 | 1 | 0 | 0 | 1 | 1 | 7 | −6 | 0 |
+| 1 | Alemania 🇩🇪 | 2 | 2 | 0 | 0 | 9 | 2 | +7 | 6 |
+| 2 | Costa de Marfil 🇨🇮 | 2 | 1 | 0 | 1 | 2 | 2 | 0 | 3 |
+| 3 | Ecuador 🇪🇨 | 2 | 0 | 1 | 1 | 0 | 1 | −1 | 1 |
+| 4 | Curazao 🇨🇼 | 2 | 0 | 1 | 1 | 1 | 7 | −6 | 1 |
 
-*🔴 SORPRESA J1: Alemania goleó 7-1 (simulamos 3-0). Costa de Marfil venció 1-0 a Ecuador cuando simulamos que ganaba Ecuador.*
+*Alemania clasificada y líder (+7). Costa de Marfil con ventaja para el 2º. Ecuador y Curazao necesitan ganar en J3 (Ecuador-Alemania y Curazao-Costa de Marfil).*
 
 ## Grupo F
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Suecia 🇸🇪 | 1 | 1 | 0 | 0 | 5 | 1 | +4 | 3 |
-| 2 | Países Bajos 🇳🇱 | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
-| 3 | Japón 🇯🇵 | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
-| 4 | Túnez 🇹🇳 | 1 | 0 | 0 | 1 | 1 | 5 | −4 | 0 |
+| 1 | Países Bajos 🇳🇱 | 2 | 1 | 1 | 0 | 7 | 3 | +4 | 4 |
+| 2 | Japón 🇯🇵 | 2 | 1 | 1 | 0 | 6 | 2 | +4 | 4 |
+| 3 | Suecia 🇸🇪 | 2 | 1 | 0 | 1 | 6 | 6 | 0 | 3 |
+| 4 | Túnez 🇹🇳 | 2 | 0 | 0 | 2 | 1 | 9 | −8 | 0 |
 
-*Suecia goleó 5-1 (simulamos 1-0). Países Bajos 2-2 Japón (simulamos 2-1 PB). Japón volvió a demostrar su mentalidad competitiva. PB y Japón iguales: orden por Ranking FIFA.*
+*Países Bajos y Japón con 4 (PB 1º por GF: 7 vs 6, mismo DG). Suecia vivo con 3. Túnez eliminado. J3: Japón-Suecia y Túnez-Países Bajos.*
 
 ## Grupo G
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Irán 🇮🇷 | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
-| 2 | Nueva Zelanda 🇳🇿 | 1 | 0 | 1 | 0 | 2 | 2 | 0 | 1 |
-| 3 | Bélgica 🇧🇪 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 4 | Egipto 🇪🇬 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 1 | Egipto 🇪🇬 | 2 | 1 | 1 | 0 | 4 | 2 | +2 | 4 |
+| 2 | Irán 🇮🇷 | 2 | 0 | 2 | 0 | 2 | 2 | 0 | 2 |
+| 3 | Bélgica 🇧🇪 | 2 | 0 | 2 | 0 | 1 | 1 | 0 | 2 |
+| 4 | Nueva Zelanda 🇳🇿 | 2 | 0 | 1 | 1 | 3 | 5 | −2 | 1 |
 
-*🔴 SORPRESA J1: Todos empataron. Simulamos victorias de Bélgica e Irán. Nueva Zelanda remontó 0-2 para empatar 2-2 con Irán. Irán y NZ aventajan por GF (2 vs 1). Orden por Ranking FIFA.*
+*Egipto líder sorpresa (4) con Salah en alza. Irán 2º por GF sobre Bélgica (ambos 2). Grupo abiertísimo: en J3 (Egipto-Irán, Nueva Zelanda-Bélgica) cualquiera de los cuatro puede avanzar.*
 
 ## Grupo H
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Arabia Saudita 🇸🇦 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 2 | Uruguay 🇺🇾 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
-| 3 | España 🇪🇸 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
-| 4 | Cabo Verde 🇨🇻 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 1 | España 🇪🇸 | 2 | 1 | 1 | 0 | 4 | 0 | +4 | 4 |
+| 2 | Uruguay 🇺🇾 | 2 | 0 | 2 | 0 | 3 | 3 | 0 | 2 |
+| 3 | Cabo Verde 🇨🇻 | 2 | 0 | 2 | 0 | 2 | 2 | 0 | 2 |
+| 4 | Arabia Saudita 🇸🇦 | 2 | 0 | 1 | 1 | 1 | 5 | −4 | 1 |
 
-*🔴🔴 GRAN SORPRESA J1: España 0-0 Cabo Verde — la Roja no pudo marcar (simulamos 4-0). Todos los equipos con 1 punto. Arabia S. y Uruguay aventajan por GF (1 vs 0). Orden provisional por Ranking FIFA.*
+*España líder (4, valla invicta) tras el 0-0 con Cabo Verde y el 4-0 a Arabia. Uruguay 2º por GF sobre Cabo Verde (ambos 2). Grupo abierto. J3: Cabo Verde-Arabia y Uruguay-España.*
 
 ## Grupo I
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Noruega 🇳🇴 | 1 | 1 | 0 | 0 | 4 | 1 | +3 | 3 |
-| 2 | Francia 🇫🇷 | 1 | 1 | 0 | 0 | 3 | 1 | +2 | 3 |
-| 3 | Senegal 🇸🇳 | 1 | 0 | 0 | 1 | 1 | 3 | −2 | 0 |
-| 4 | Irak 🇮🇶 | 1 | 0 | 0 | 1 | 1 | 4 | −3 | 0 |
+| 1 | Francia 🇫🇷 | 2 | 2 | 0 | 0 | 6 | 1 | +5 | 6 |
+| 2 | Noruega 🇳🇴 | 2 | 2 | 0 | 0 | 7 | 3 | +4 | 6 |
+| 3 | Senegal 🇸🇳 | 2 | 0 | 0 | 2 | 3 | 6 | −3 | 0 |
+| 4 | Irak 🇮🇶 | 2 | 0 | 0 | 2 | 1 | 7 | −6 | 0 |
 
-*Noruega lidera por DG (+3 vs +2 de Francia). Ambos marcaron 4 y 3 goles respectivamente; Senegal e Irak también anotaron. Simulamos France 1-0 y Irak 0-4.*
+*Francia y Noruega ya clasificados con puntaje ideal. Se cruzan en J3 por el 1º (Francia +5 vs Noruega +4; Haaland viene con 4 goles). Senegal e Irak eliminados.*
 
 ## Grupo J
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | Argentina 🇦🇷 | 1 | 1 | 0 | 0 | 3 | 0 | +3 | 3 |
-| 2 | Austria 🇦🇹 | 1 | 1 | 0 | 0 | 3 | 1 | +2 | 3 |
-| 3 | Jordania 🇯🇴 | 1 | 0 | 0 | 1 | 1 | 3 | −2 | 0 |
-| 4 | Argelia 🇩🇿 | 1 | 0 | 0 | 1 | 0 | 3 | −3 | 0 |
+| 1 | Argentina 🇦🇷 | 2 | 2 | 0 | 0 | 5 | 0 | +5 | 6 |
+| 2 | Austria 🇦🇹 | 2 | 1 | 0 | 1 | 3 | 3 | 0 | 3 |
+| 3 | Argelia 🇩🇿 | 2 | 1 | 0 | 1 | 2 | 4 | −2 | 3 |
+| 4 | Jordania 🇯🇴 | 2 | 0 | 0 | 2 | 2 | 5 | −3 | 0 |
 
-*Argentina lidera: DG +3 y valla invicta. Austria 3-1 Jordania (simulamos 2-0). Argelia sin marcar (simulamos 3-1 con gol argelino). Jordania sobre Argelia por GF (1 vs 0).*
+*Argentina clasificada y líder con valla invicta — Messi metió 5 goles en 2 partidos y superó a Klose como máximo goleador mundialista. Austria 2º por DG sobre Argelia (ambos 3) y se cruzan en J3. Jordania eliminada.*
 
 ## Grupo K
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | — | — | — | — | — | — | — | — | — |
-| 2 | — | — | — | — | — | — | — | — | — |
-| 3 | — | — | — | — | — | — | — | — | — |
-| 4 | — | — | — | — | — | — | — | — | — |
+| 1 | Colombia 🇨🇴 | 2 | 2 | 0 | 0 | 4 | 1 | +3 | 6 |
+| 2 | Portugal 🇵🇹 | 2 | 1 | 1 | 0 | 6 | 1 | +5 | 4 |
+| 3 | RD del Congo 🇨🇩 | 2 | 0 | 1 | 1 | 1 | 2 | −1 | 1 |
+| 4 | Uzbekistán 🇺🇿 | 2 | 0 | 0 | 2 | 1 | 8 | −7 | 0 |
 
-*⏳ Partidos del 17/06 aún no disputados: Portugal vs RD del Congo (17:00 ET) · Uzbekistán vs Colombia (22:00 ET). Resultados simulados previos no son válidos y serán actualizados con los resultados reales.*
+*Colombia líder con puntaje ideal; Portugal 2º (Ronaldo marcó en su sexto Mundial). Se cruzan en J3 por el 1º. Uzbekistán eliminado; RD del Congo necesita ganar.*
 
 ## Grupo L
 | Pos | Equipo | PJ | G | E | P | GF | GC | DG | Pts |
 |-----|--------|----|----|---|---|----|----|----|----|
-| 1 | — | — | — | — | — | — | — | — | — |
-| 2 | — | — | — | — | — | — | — | — | — |
-| 3 | — | — | — | — | — | — | — | — | — |
-| 4 | — | — | — | — | — | — | — | — | — |
+| 1 | Inglaterra 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 2 | 1 | 1 | 0 | 4 | 2 | +2 | 4 |
+| 2 | Ghana 🇬🇭 | 2 | 1 | 1 | 0 | 1 | 0 | +1 | 4 |
+| 3 | Croacia 🇭🇷 | 2 | 1 | 0 | 1 | 3 | 4 | −1 | 3 |
+| 4 | Panamá 🇵🇦 | 2 | 0 | 0 | 2 | 0 | 2 | −2 | 0 |
 
-*⏳ Partidos del 17/06 aún no disputados: Inglaterra vs Croacia (20:00 ET) · Ghana vs Panamá (23:00 ET). Resultados simulados previos no son válidos y serán actualizados con los resultados reales.*
+*Inglaterra y Ghana con 4 (Inglaterra 1º por DG). Croacia sigue con vida (3). Panamá eliminado. J3: Panamá-Inglaterra y Croacia-Ghana.*
 
-## Clasificación a octavos
-Pasan los **2 primeros de cada grupo** + **8 mejores terceros** (Mundial de 48, formato 2026).
+## Clasificación a la próxima ronda (Round of 32)
+Pasan los **2 primeros de cada grupo** + **8 mejores terceros** (Mundial de 48, formato 2026). 32 equipos a la siguiente ronda.
 
-Clasificados directos: —
-Mejores terceros: —
+**Ya clasificados (mínimo 2º, asegurado tras J2):** México 🇲🇽, Estados Unidos 🇺🇸, Alemania 🇩🇪, Francia 🇫🇷, Noruega 🇳🇴, Argentina 🇦🇷, Colombia 🇨🇴.
+
+**Eliminados tras J2:** Haití 🇭🇹, Turquía 🇹🇷, Túnez 🇹🇳, Senegal 🇸🇳, Irak 🇮🇶, Jordania 🇯🇴, Uzbekistán 🇺🇿, Panamá 🇵🇦.
+
+El resto (1º/2º, mejores terceros y descartes) se define en la **Jornada 3 (24–27 jun)**.
+
+> Actualizado tras Jornada 2 (real). Próxima actualización: J3 Grupos A/B/C el 24/6.

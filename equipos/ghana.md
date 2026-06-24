@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 70
 - Físico: 84
-- Moral: 74
+- Moral: 82
 - Cohesión: 76
 - Experiencia: 70
 - Agallas: 74
@@ -60,31 +60,38 @@
 4-3-3: Wollacott; Lamptey, Salisu, Djiku, Mensah; Partey, S. Samed, Kudus; Semenyo, J. Ayew, K. Sulemana.
 
 ## Lesionados / Suspendidos
-- Mohammed Salisu: en capilla (1 amarilla acumulada — J1 vs Panamá)
+- Sin sanciones ni lesionados reportados.
+
+## Estado de ánimo
+Arranque inmejorable y con la valla en cero: triunfo agónico 1-0 sobre Panamá (Yirenkyi en el 90+5') y empate 0-0 frente a Inglaterra resistiendo de pie. 4 puntos, dos arcos en cero y la sorpresa instalada en el Grupo L.
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-17 vs Panamá (Mundial J1): 1-1 (E)
+- 2026-06-23 vs Inglaterra: 0-0 (E) — Grupo L J2 Mundial 2026
+- 2026-06-17 vs Panamá: 1-0 (V) — Grupo L J1 Mundial 2026
 - 2026-03-XX vs Sudáfrica: 1-1 (E)
 - 2026-03-XX vs Madagascar: 2-0 (V)
 - 2025-11-XX vs Mali: 0-0 (E)
-- 2025-10-XX vs Comoras: 1-0 (V)
-- 2025-09-XX vs Chad: 5-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 1 | 1 | 0 | 1  | 0  | +1 | 4   |
 
 ### Goleadores propios
-- Mohammed Kudus: 1 gol (J1 vs Panamá, 67')
+- Caleb Yirenkyi: 1 gol (vs Panamá, 90+5', J1)
 
 ## Historial vs rivales del grupo
-- vs Inglaterra: 1-1 amistoso 2011.
+- vs Inglaterra: 1-1 amistoso 2011. Mundial 2026 J2: 0-0.
 - vs Croacia: 1-1 amistoso 2014.
-- vs Panamá: 1-1 (Mundial 2026 J1, BMO Field Toronto, 2026-06-17).
+- vs Panamá: 1-0 victoria ghanesa (Mundial 2026 J1, BMO Field Toronto, 2026-06-17).
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Ghana 1-1 Panamá
+- **Real:** Ghana 1-0 Panamá
+- **Diagnóstico:** El modelo dio empate, pero Ghana ganó sobre la hora con un gol de Yirenkyi en el 90+5'. Acertamos la paridad del partido, pero Ghana se quedó con los tres puntos y el arco en cero.
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (GFA).

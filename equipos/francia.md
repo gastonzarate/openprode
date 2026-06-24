@@ -21,7 +21,7 @@
 - Defensa: 88
 - Arco: 90
 - Físico: 84
-- Moral: 90
+- Moral: 95
 - Cohesión: 86
 - Experiencia: 88
 - Agallas: 85
@@ -61,25 +61,27 @@
 
 ## Lesionados / Suspendidos
 - Eduardo Camavinga (VOL): no convocado por decisión técnica/forma irregular.
-- **En capilla (1 amarilla):** Kylian Mbappé (🟨 min 86', J1 vs Senegal).
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-22 vs Irak: 3-0 (V) — Grupo I J2 Mundial 2026
 - 2026-06-16 vs Senegal: 3-1 (V) — Grupo I J1 Mundial 2026
 - 2026-03-XX vs Alemania: 1-2 (D)
 - 2026-03-XX vs Croacia: 2-0 (V)
 - 2025-11-XX vs Israel: 4-0 (V)
-- 2025-10-XX vs Bélgica: 2-2 (E)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 3  | 1  | +2 | 3   |
+| 2  | 2 | 0 | 0 | 6  | 1  | +5 | 6   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 3 goles, posiblemente Mbappé entre ellos)
+- Kylian Mbappé: 4 goles (vs Senegal 66' y 90+6', J1; vs Irak 14' y 54', J2)
+- Bradley Barcola: 1 gol (vs Senegal, 82', J1)
+- Ousmane Dembélé: 1 gol (vs Irak, 66', J2)
 
 ## Historial vs rivales del grupo
 - vs Senegal: amistoso 3-0 victoria francesa (2002 victoria senegalesa histórica).
@@ -87,7 +89,7 @@
 - vs Irak: sin antecedentes mundialistas.
 
 ## Estado de ánimo
-Victoria 3-1 vs Senegal. Mbappé y compañía fueron superiores aunque Senegal anotó. Buen inicio en el Grupo I.
+Arranque perfecto: 3-1 vs Senegal y 3-0 vs Irak. Mbappé acumula 4 goles en dos partidos y Francia ya tiene la clasificación encaminada como líder del Grupo I con 6 puntos.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Francia 1-0 Senegal

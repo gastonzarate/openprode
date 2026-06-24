@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 72
 - Físico: 78
-- Moral: 62
+- Moral: 66
 - Cohesión: 80
 - Experiencia: 66
 - Agallas: 72
@@ -60,26 +60,26 @@
 4-4-2: R. Fernández; Cáceres, G. Gómez, Alderete, J. Alonso; Almirón, A. Cubas, D. Gómez, R. Sosa; J. Enciso, Sanabria.
 
 ## Lesionados / Suspendidos
-- Andrés Cubas: 🟨 (1 amarilla — en capilla)
-- Omar Alderete: 🟨 (1 amarilla — en capilla)
+- Miguel Almirón: suspendido para J3 (roja vs Turquía, 45+3').
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-19 vs Turquía: 1-0 (V) — Grupo D J2 Mundial 2026
 - 2026-06-12 vs Estados Unidos: 1-4 (D) — Grupo D J1 Mundial 2026
 - 2026-03-XX vs Brasil: 0-1 (D)
 - 2026-03-XX vs Uruguay: 1-0 (V)
 - 2025-11-XX vs Bolivia: 2-1 (V)
-- 2025-10-XX vs Argentina: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 4  | −3 | 0   |
+| 2  | 1 | 0 | 1 | 2  | 4  | −2 | 3   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 1 gol)
+- Maurício: 1 gol (vs Estados Unidos, 73', J1)
+- Matías Galarza: 1 gol (vs Turquía, 2', J2)
 
 ## Historial vs rivales del grupo
 - vs EE.UU.: 1 partido en Mundial 2026 — 1-1 (J1, 2026-06-12).
@@ -87,7 +87,7 @@
 - vs Turquía: sin antecedentes registrados.
 
 ## Estado de ánimo
-Goleada recibida 1-4 vs EE.UU. Partido muy difícil. El equipo necesita recuperar confianza para J2 vs Turquía.
+Reacción tras la goleada 1-4 vs EE.UU.: triunfo 1-0 vs Turquía con gol madrugador de Galarza y aguante a 10 desde la roja de Almirón. Con 3 puntos, la Albirroja sigue con chances de octavos.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** 1-1 vs Estados Unidos

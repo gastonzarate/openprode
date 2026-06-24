@@ -21,7 +21,7 @@
 - Defensa: 88
 - Arco: 84
 - Físico: 82
-- Moral: 78 *(empate J1)*
+- Moral: 83 *(+5 — goleada J2)*
 - Cohesión: 84
 - Experiencia: 82
 - Agallas: 74
@@ -61,24 +61,28 @@
 
 ## Lesionados / Suspendidos
 - Xavi Simons (VOL): lesión grave de rodilla, fuera del torneo completo.
+- Sin sanciones por tarjetas reportadas.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-20 vs Suecia: 5-1 (V) — Grupo F J2 Mundial 2026
 - 2026-06-14 vs Japón: 2-2 (E) — Grupo F J1 Mundial 2026
 - 2026-03-XX vs Alemania: 2-2 (E)
 - 2026-03-XX vs España: 1-1 (E)
 - 2025-11-XX vs Hungría: 4-0 (V)
-- 2025-11-XX vs Polonia: 2-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 15/100 *(+15 — J1 calor extremo 33 °C, 90'+4 min)*
+- 26/100 *(+15 J1 calor extremo 33 °C; +11 J2)*
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 2  | 2  | 0  | 1   |
+| 2  | 1 | 1 | 0 | 7  | 3  | +4 | 4   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Brian Brobbey: 2 goles (vs Suecia, 5' y 17', J2)
+- Cody Gakpo: 2 goles (vs Suecia, 47' y 54', J2)
+- Crysencio Summerville: 2 goles (vs Japón 64' J1; vs Suecia 89' J2)
+- Virgil van Dijk: 1 gol (vs Japón, 51', J1)
 
 ## Historial vs rivales del grupo
 - vs Japón: 4-0 derrota japonesa Brasil 2014; amistoso 2025: 2-1 victoria neerlandesa; **J1 2026: 2-2 empate**.
@@ -86,7 +90,7 @@
 - vs Suecia: pareja UEFA histórica, 2V-2E-1D balance.
 
 ## Estado de ánimo
-Empate 2-2 vs Japón. Resultado decepcionante — lideraron el partido y Japón remontó. La defensa holandesa mostró vulnerabilidades.
+Tras el frustrante 2-2 vs Japón, el Oranje reaccionó con una goleada 5-1 a Suecia (dobletes de Brobbey y Gakpo). Recuperaron confianza y quedaron a un paso de octavos liderando junto a Japón con 4 puntos.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Victoria 2-1 vs Japón

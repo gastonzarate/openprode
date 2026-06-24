@@ -21,7 +21,7 @@
 - Defensa: 74
 - Arco: 74
 - Físico: 84
-- Moral: 85
+- Moral: 89
 - Cohesión: 80
 - Experiencia: 64
 - Agallas: 82
@@ -60,25 +60,27 @@
 4-3-3: Nyland; Ryerson, Ajer, Østigård, Meling; Berge, Berg; Nusa, Ødegaard, Sørloth; Haaland.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-22 vs Senegal: 3-2 (V) — Grupo I J2 Mundial 2026
 - 2026-06-16 vs Irak: 4-1 (V) — Grupo I J1 Mundial 2026
 - 2026-03-XX vs Israel: 5-0 (V)
 - 2026-03-XX vs Moldavia: 4-0 (V)
 - 2025-11-XX vs Italia: 3-1 (V) — eliminatorias
-- 2025-10-XX vs Estonia: 4-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 4  | 1  | +3 | 3   |
+| 2  | 2 | 0 | 0 | 7  | 3  | +4 | 6   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 4 goles, posiblemente Haaland hat-trick)
+- Erling Haaland: 4 goles (vs Irak 29' y 43', J1; vs Senegal 48' y 58', J2)
+- Leo Østigård: 1 gol (vs Irak, 76', J1)
+- Marcus Holmgren Pedersen: 1 gol (vs Senegal, 43', J2)
 
 ## Historial vs rivales del grupo
 - vs Francia: balance 2V-2E-4D francés.
@@ -86,7 +88,7 @@
 - vs Irak: 1V-0E-0D (4-1 · Mundial 2026 J1 · 2026-06-16).
 
 ## Estado de ánimo
-Victoria 4-1 vs Irak. Haaland en modo bestia nuevamente. Noruega confirma su favoritismo en el grupo con solvencia.
+Dos victorias seguidas, 4-1 vs Irak y 3-2 vs Senegal, con Haaland imparable (4 goles, doblete en cada partido). Noruega ya tiene 6 puntos y la clasificación encaminada en el Grupo I.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Irak 0-4 Noruega

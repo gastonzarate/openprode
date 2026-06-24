@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 74
 - Físico: 78
-- Moral: 68
+- Moral: 72
 - Cohesión: 78
 - Experiencia: 70
 - Agallas: 68
@@ -60,29 +60,26 @@
 4-3-3: M'Bolhi; Atal, A. Mandi, M. Tougai, Bensebaini; Bennacer, Aouar, Zerrouki; Mahrez, Amoura, Benrahma.
 
 ## Lesionados / Suspendidos
-- (ninguno)
-
-## En capilla (1 amarilla acumulada)
-- Bentaleb (70' vs Argentina)
-- Bensebaini (90'+1' vs Argentina)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-22 vs Jordania: 2-1 (V) — Grupo J J2 Mundial 2026
 - 2026-06-16 vs Argentina: 0-3 (D) — Grupo J J1 Mundial 2026
 - 2026-03-XX vs Marruecos: 1-2 (D)
 - 2026-03-XX vs Togo: 3-0 (V)
 - 2025-11-XX vs Burkina Faso: 1-1 (E)
-- 2025-10-XX vs Mozambique: 3-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 3  | −3 | 0   |
+| 2  | 1 | 0 | 1 | 2  | 4  | −2 | 3   |
 
 ### Goleadores propios
-- (ninguno)
+- Nadhir Benbouali: 1 gol (vs Jordania, 69', J2)
+- Amine Gouiri: 1 gol (vs Jordania, 82', J2)
 
 ## Historial vs rivales del grupo
 - vs Argentina: amistoso 4-3 victoria argelina (1982), 1V-0E-4D global.
@@ -90,7 +87,7 @@
 - vs Jordania: sin antecedentes registrados.
 
 ## Estado de ánimo
-Derrota 0-3 vs Argentina. Sin poder marcar ante el campeón del mundo. Salida rápida del torneo si no reacciona en J2.
+Reacción tras el 0-3 con Argentina: triunfo 2-1 sobre Jordania que la deja con 3 puntos y vida en el grupo. Benbouali y Gouiri dieron vuelta el partido y los Fennecs llegan a J3 jugándose la clasificación.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Argelia 1-3 Argentina

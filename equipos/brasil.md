@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 92
 - Físico: 82
-- Moral: 83 *(empate J1 vs Marruecos)*
+- Moral: 88 *(goleada J2 vs Haití)*
 - Cohesión: 80
 - Experiencia: 86
 - Agallas: 82
@@ -60,28 +60,26 @@
 4-3-3: Alisson; Vanderson, Marquinhos, Magalhães, C. Henrique; Casemiro, Bruno G., Paquetá; Raphinha, Vinícius, Neymar.
 
 ## Lesionados / Suspendidos
-- (ninguno)
-
-## Capilla (en riesgo por amarillas)
-- Caio Henrique 🟡 (1/2 — próxima amarilla = suspensión en J2)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos, incl. Mundial)
+- 2026-06-19 vs Haití: 3-0 (V) — Grupo C J2 Mundial 2026
 - 2026-06-13 vs Marruecos: 1-1 (E) — Grupo C J1 Mundial 2026
 - 2026-03-XX vs Colombia: 2-1 (V)
 - 2026-03-XX vs Argentina: 0-1 (D)
 - 2025-11-XX vs Uruguay: 2-0 (V)
-- 2025-10-XX vs Chile: 3-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 1 | 1 | 0 | 4  | 1  | +3 | 4   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Vinícius Júnior: 2 goles (vs Marruecos, 32', J1; vs Haití, 45+3', J2)
+- Matheus Cunha: 2 goles (vs Haití, 23' y 36', J2)
 
 ## Historial vs rivales del grupo
 - vs Marruecos: amistoso 2023 derrota 1-2; **Mundial 2026 J1: Empate 1-1**.
@@ -89,7 +87,7 @@
 - vs Haití: sin antecedentes mundialistas relevantes.
 
 ## Estado de ánimo
-Empate 1-1 vs Marruecos. Resultado decepcionante para la Seleção que esperaba victoria. Bounou fue determinante. Neymar y compañía no encontraron el segundo gol.
+Tras el empate 1-1 vs Marruecos, la Seleção se reencontró con la goleada: 3-0 a Haití con doblete de Matheus Cunha y cierre de Vinícius. Líder provisional del Grupo C con 4 puntos y el ataque recuperando confianza.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Brasil 2-1 Marruecos

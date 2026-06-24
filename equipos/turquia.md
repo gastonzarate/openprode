@@ -21,7 +21,7 @@
 - Defensa: 74
 - Arco: 74
 - Físico: 76
-- Moral: 72
+- Moral: 67
 - Cohesión: 78
 - Experiencia: 68
 - Agallas: 68
@@ -60,30 +60,25 @@
 4-2-3-1: U. Çakır; Ç. Söyüncü, M. Demiral, Kabak, F. Kadıoğlu; Çalhanoğlu, Kökçü; A. Güler, K. Yıldız, K. Aktürkoğlu; C. Ünder.
 
 ## Lesionados / Suspendidos
-- (ninguno)
-
-### En capilla (1 amarilla acumulada — próximo partido: vs Paraguay, J2)
-- Kerem Aktürkoğlu 🟨 (36' vs Australia — simulación)
-- Çağlar Söyüncü 🟨 (72' vs Australia — falta dura sobre Duke)
-- Merih Demiral 🟨 (83' vs Australia — protestas al árbitro)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-19 vs Paraguay: 0-1 (D) — Grupo D J2 Mundial 2026
 - 2026-06-14 vs Australia: 0-2 (D) — Grupo D J1 Mundial 2026
 - 2026-03-XX vs Hungría: 3-1 (V)
 - 2026-03-XX vs Austria: 1-2 (D)
 - 2025-11-XX vs Bulgaria: 6-1 (V)
-- 2025-11-XX vs Georgia: 3-2 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
+| 2  | 0 | 0 | 2 | 0  | 3  | −3 | 0   |
 
 ### Goleadores propios
-- (ninguno)
+- Sin goles propios en el Mundial.
 
 ## Historial vs rivales del grupo
 - vs EE.UU.: 1-1 amistoso 2022, victoria turca 2-1 amistoso 2020.
@@ -91,7 +86,7 @@
 - vs Paraguay: sin antecedentes registrados.
 
 ## Estado de ánimo
-Derrota 0-2 vs Australia. Resultado inesperado. Montella debe reconfigurar el bloque para J2 vs Paraguay.
+Golpe duro: dos derrotas al hilo, 0-2 vs Australia y 0-1 vs Paraguay, sin marcar un solo gol. Sin puntos y eliminada del Mundial a falta de J3, un fracaso enorme para el talento del plantel.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** 1-1 vs Australia
