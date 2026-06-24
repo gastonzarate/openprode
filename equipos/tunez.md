@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 72
 - Físico: 78
-- Moral: 67 *(-5 — Goleada en contra J1)*
+- Moral: 59 *(-8 — goleada en contra J2)*
 - Cohesión: 80
 - Experiencia: 70
 - Agallas: 65
@@ -60,25 +60,25 @@
 4-3-3: Dahmen; Dräger, Talbi, Bronn, Maâloul; Skhiri, Laïdouni, Ben Romdhane; Msakni, Jebali, Sliti.
 
 ## Lesionados / Suspendidos
-- **En capilla (1 amarilla):** Aïssa Laïdouni (🟨 J1 vs Suecia — próximo partido: vs Japón J2)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-20 vs Japón: 0-4 (D) — Grupo F J2 Mundial 2026
 - 2026-06-14 vs Suecia: 1-5 (D) — Grupo F J1 Mundial 2026
 - 2026-03-XX vs Marruecos: 1-1 (E)
 - 2026-03-XX vs Mauritania: 2-0 (V)
 - 2025-11-XX vs Namibia: 3-0 (V)
-- 2025-10-XX vs Liberia: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 25/100 *(+13 J1; +12 J2)*
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 5  | −4 | 0   |
+| 2  | 0 | 0 | 2 | 1  | 9  | −8 | 0   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 1 gol)
+- Omar Rekik: 1 gol (vs Suecia, 43', J1)
 
 ## Historial vs rivales del grupo
 - vs Países Bajos: sin antecedentes mundialistas.
@@ -86,7 +86,7 @@
 - vs Suecia: 0V 1D — 2026-06-14 Túnez 1-5 Suecia (Grupo F J1).
 
 ## Estado de ánimo
-Derrota 1-5 ante Suecia. Goleada que duele. Necesita recomponerse para J2 vs Japón con la clasificación ya complicada.
+Dos goleadas en contra (1-5 vs Suecia y 0-4 vs Japón) sentencian a Túnez: queda ELIMINADO sin puntos y con el peor saldo del grupo. Otra fase de grupos sin pasar de ronda, golpe duro al ánimo.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Derrota 0-1 vs Suecia

@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 78
 - Físico: 80
-- Moral: 86
+- Moral: 91
 - Cohesión: 82
 - Experiencia: 70
 - Agallas: 78
@@ -60,25 +60,27 @@
 4-3-3: Turner; Dest, Richards, Carter-Vickers, A. Robinson; Adams, McKennie, Musah; Weah, Pepi, Pulisic.
 
 ## Lesionados / Suspendidos
-- Weston McKennie: 🟨 (1 amarilla — en capilla)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-19 vs Australia: 2-0 (V) — Grupo D J2 Mundial 2026
 - 2026-06-12 vs Paraguay: 4-1 (V) — Grupo D J1 Mundial 2026
 - 2026-03-XX vs Canadá: 1-1 (E)
 - 2026-03-XX vs Jamaica: 2-1 (V)
 - 2025-11-XX vs Colombia: 0-2 (D)
-- 2025-10-XX vs México: 2-2 (E)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 4  | 1  | +3 | 3   |
+| 2  | 2 | 0 | 0 | 6  | 1  | +5 | 6   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 4 goles)
+- Folarin Balogun: 2 goles (vs Paraguay, 31' y 45+5', J1)
+- Gio Reyna: 1 gol (vs Paraguay, 90+8', J1)
+- Freeman: 1 gol (vs Australia, 43', J2)
 
 ## Historial vs rivales del grupo
 - vs Paraguay: 1 partido en Mundial 2026 — 1-1 (J1, 2026-06-12). Pre-Mundial: balance equilibrado.
@@ -86,7 +88,7 @@
 - vs Turquía: 2-1 derrota USA amistoso 2022.
 
 ## Estado de ánimo
-Goleada 4-1 vs Paraguay en casa. Pulisic y compañía explotaron el efecto local del Mundial anfitrión. Mensaje contundente al grupo.
+Arranque perfecto: goleada 4-1 vs Paraguay y 2-0 vs Australia, ambas en casa. Líder del Grupo D con 6 puntos, 6 goles a favor y apenas 1 en contra. El efecto anfitrión y la jerarquía de Pulisic se sienten partido a partido.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** 1-1 vs Paraguay

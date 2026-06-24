@@ -21,7 +21,7 @@
 - Defensa: 82
 - Arco: 80
 - Físico: 76
-- Moral: 86
+- Moral: 80
 - Cohesión: 92
 - Experiencia: 90
 - Agallas: 90
@@ -60,31 +60,40 @@
 4-3-3: Livaković; Juranović, Gvardiol, Šutalo, Sosa; Modrić, Kovačić, M. Pašalić; Vlašić, Kramarić, Perišić.
 
 ## Lesionados / Suspendidos
-- (ninguno)
-- En capilla (1 amarilla acumulada): Josip Šutalo (falta en min 39), Josip Juranović (falta táctica min 75). Un amarilla más en J2 → suspensión J3.
+- Sin sanciones ni lesionados reportados.
+
+## Estado de ánimo
+Reacción tras el golpe inicial: cayó 2-4 ante Inglaterra en una J1 dura, pero se recompuso con un 1-0 sólido a Panamá (gol de Budimir) para sumar 3 puntos. La clasificación sigue en sus manos pensando en la última fecha del grupo.
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-17 vs Inglaterra (G.L J1): 1-1 (E) — empate sorprendente, Kramarić 70' tras gol anulado inglés
+- 2026-06-23 vs Panamá: 1-0 (V) — Grupo L J2 Mundial 2026
+- 2026-06-17 vs Inglaterra: 2-4 (P) — Grupo L J1 Mundial 2026
 - 2026-03-XX vs Portugal: 1-2 (D)
 - 2026-03-XX vs Francia: 0-2 (D)
 - 2025-11-XX vs Gibraltar: 7-0 (V)
-- 2025-10-XX vs República Checa: 3-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 15/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 1 | 0 | 1 | 3  | 4  | -1 | 3   |
 
 ### Goleadores propios
-- Andrej Kramarić: 1 gol (vs Inglaterra, min 70, G.L J1)
+- Martin Baturina: 1 gol (vs Inglaterra, 36', J1)
+- Petar Musa: 1 gol (vs Inglaterra, 45+5', J1)
+- Ante Budimir: 1 gol (vs Panamá, 54', J2)
 
 ## Historial vs rivales del grupo
-- vs Inglaterra: 2-1 victoria croata semifinal Mundial 2018.
+- vs Inglaterra: 2-1 victoria croata semifinal Mundial 2018. Mundial 2026 J1: 2-4 derrota croata.
 - vs Ghana: amistoso 2014: 1-1.
-- vs Panamá: sin antecedentes registrados.
+- vs Panamá: sin antecedentes previos. Mundial 2026 J2: 1-0 victoria croata.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Inglaterra 1-1 Croacia
+- **Real:** Inglaterra 4-2 Croacia
+- **Diagnóstico:** Sobreestimamos la solidez defensiva croata; el modelo dio empate y la realidad fue una derrota por dos goles. Baturina y Musa marcaron, pero la defensa no contuvo el ataque inglés.
 
 ---
 > Fuente: WebSearch 2026-05-27 (FourFourTwo, beIN Sports, TSN).

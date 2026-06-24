@@ -21,7 +21,7 @@
 - Defensa: 82
 - Arco: 84
 - Físico: 78
-- Moral: 81 *(empate J1 vs Brasil)*
+- Moral: 85 *(victoria J2 vs Escocia)*
 - Cohesión: 84
 - Experiencia: 82
 - Agallas: 88
@@ -60,29 +60,25 @@
 4-3-3: Bounou; Hakimi, Aguerd, Saïss, Mazraoui; Amrabat, El Khannouss, Ounahi; B. Díaz, En-Nesyri, Ziyech.
 
 ## Lesionados / Suspendidos
-- (ninguno)
-
-## Capilla (en riesgo por amarillas)
-- Sofyan Amrabat 🟡 (1/2 — próxima amarilla = suspensión en J2)
-- Hamza Igamane 🟡 (1/2 — próxima amarilla = suspensión en J2)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos, incl. Mundial)
+- 2026-06-19 vs Escocia: 1-0 (V) — Grupo C J2 Mundial 2026
 - 2026-06-13 vs Brasil: 1-1 (E) — Grupo C J1 Mundial 2026
 - 2026-03-XX vs Túnez: 1-1 (E)
 - 2026-03-XX vs Burkina Faso: 2-0 (V)
 - 2025-11-XX vs Gabón: 5-1 (V)
-- 2025-10-XX vs RD Congo: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 1 | 1 | 0 | 2  | 1  | +1 | 4   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Ismael Saibari: 2 goles (vs Brasil, 21', J1; vs Escocia, 2', J2)
 
 ## Historial vs rivales del grupo
 - vs Brasil: amistoso 2023 victoria 2-1; **Mundial 2026 J1: Empate 1-1**.
@@ -90,7 +86,7 @@
 - vs Haití: sin antecedentes registrados.
 
 ## Estado de ánimo
-Empate 1-1 vs Brasil. Punto histórico contra uno de los grandes. La solidez defensiva del Atlas post-Qatar 2022 volvió a brillar.
+Arranque ideal: punto histórico 1-1 vs Brasil y victoria 1-0 sobre Escocia con gol madrugador de Saibari a los 2'. El Atlas comparte la cima del Grupo C con 4 puntos y un solo gol en contra.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Marruecos 1-2 Brasil

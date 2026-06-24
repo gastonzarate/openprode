@@ -21,7 +21,7 @@
 - Defensa: 78
 - Arco: 75
 - Físico: 75
-- Moral: 83 *(empate J1 — remontada)*
+- Moral: 88 *(+5 — goleada J2)*
 - Cohesión: 90
 - Experiencia: 80
 - Agallas: 90
@@ -63,24 +63,28 @@
 - Kaoru Mitoma — fuera del Mundial por lesión de isquiotibial.
 - Takumi Minamino — fuera del Mundial por lesión de LCA.
 - Hidemasa Morita — descartado del plantel final (decisión técnica + forma).
+- Sin sanciones por tarjetas reportadas.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-20 vs Túnez: 4-0 (V) — Grupo F J2 Mundial 2026
 - 2026-06-14 vs Países Bajos: 2-2 (E) — Grupo F J1 Mundial 2026
 - 2026-03-XX vs Inglaterra (amistoso): 0-2 (D)
 - 2026-03-XX vs Escocia (amistoso): 1-1 (E)
 - 2026-03-XX vs Corea del Sur: 2-1 (V)
-- 2026-03-XX vs Bahréin: 5-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 15/100 *(+15 — J1 calor extremo 33 °C, 90'+4 min)*
+- 26/100 *(+15 J1 calor extremo 33 °C; +11 J2)*
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 2  | 2  | 0  | 1   |
+| 2  | 1 | 1 | 0 | 6  | 2  | +4 | 4   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Daichi Kamada: 2 goles (vs Países Bajos 88' J1; vs Túnez 4' J2)
+- Ayase Ueda: 2 goles (vs Túnez, 31' y 83', J2)
+- Keito Nakamura: 1 gol (vs Países Bajos, 57', J1)
+- Junya Ito: 1 gol (vs Túnez, 69', J2)
 
 ## Historial vs rivales del grupo
 - vs Países Bajos: 4-0 derrota Brasil 2014; amistoso 2025 2-1 derrota; **J1 2026: 2-2 empate** (remontada japonesa).
@@ -88,7 +92,7 @@
 - vs Suecia: pocos enfrentamientos, balance equilibrado.
 
 ## Estado de ánimo
-Empate 2-2 vs Países Bajos. Remontada notable. Japón volvió a demostrar su mentalidad competitiva en Mundiales. Moral alta.
+Tras la remontada para el 2-2 vs Países Bajos, Japón goleó 4-0 a Túnez (doblete de Ueda) y se afianzó como puntero del Grupo F con 4 puntos. Confianza y solidez en alza rumbo a octavos.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Derrota 1-2 vs Países Bajos

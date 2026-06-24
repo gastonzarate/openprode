@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 74
 - Físico: 78
-- Moral: 80
+- Moral: 68
 - Cohesión: 80
 - Experiencia: 55
 - Agallas: 68
@@ -60,31 +60,38 @@
 4-3-3: Mosquera; Blackman, F. Escobar, M. Murillo, E. Davis; Carrasquilla, Godoy, C. Harvey; J. L. Rodríguez, I. Díaz, Bárcenas.
 
 ## Lesionados / Suspendidos
-- Michael Murillo: en capilla (1 amarilla acumulada — J1 vs Ghana)
+- Sin sanciones ni lesionados reportados.
+
+## Estado de ánimo
+Golpe duro: dos derrotas por la mínima (0-1 vs Ghana sobre la hora y 0-1 vs Croacia) dejaron a Panamá sin puntos, sin goles y eliminada antes de la última fecha. El equipo compitió de igual a igual pero pagó caro la falta de gol.
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-17 vs Ghana (Mundial J1): 1-1 (E)
+- 2026-06-23 vs Croacia: 0-1 (P) — Grupo L J2 Mundial 2026
+- 2026-06-17 vs Ghana: 0-1 (P) — Grupo L J1 Mundial 2026
 - 2026-03-XX vs Honduras: 1-1 (E)
 - 2026-03-XX vs Surinam: 2-0 (V)
 - 2025-11-XX vs Costa Rica: 1-1 (E)
-- 2025-10-XX vs Trinidad y Tobago: 3-0 (V)
-- 2025-09-XX vs Estados Unidos: 0-3 (D)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 0 | 0 | 2 | 0  | 2  | -2 | 0   |
 
 ### Goleadores propios
-- Ismael Díaz: 1 gol (J1 vs Ghana, 79')
+- Sin goles propios en el Mundial.
 
 ## Historial vs rivales del grupo
 - vs Inglaterra: 1-6 derrota panameña Mundial 2018 fase grupos.
-- vs Croacia: sin antecedentes registrados.
-- vs Ghana: 1-1 (Mundial 2026 J1, BMO Field Toronto, 2026-06-17).
+- vs Croacia: sin antecedentes previos. Mundial 2026 J2: 0-1 derrota panameña.
+- vs Ghana: 0-1 derrota panameña (Mundial 2026 J1, BMO Field Toronto, 2026-06-17).
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Ghana 1-1 Panamá
+- **Real:** Ghana 1-0 Panamá
+- **Diagnóstico:** El modelo dio empate, pero Panamá no logró marcar y cayó con un gol de Ghana en el 90+5'. Sobreestimamos la capacidad ofensiva panameña: no convirtió en todo el Mundial.
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (FEPAFUT).

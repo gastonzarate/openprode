@@ -21,7 +21,7 @@
 - Defensa: 66
 - Arco: 68
 - Físico: 74
-- Moral: 65
+- Moral: 57
 - Cohesión: 78
 - Experiencia: 50
 - Agallas: 62
@@ -60,25 +60,25 @@
 4-2-3-1: J. Hassan; Akam, S. Natiq, Sulaka, Ali Adnan; Resan, A. Attwan; B. Resan, S. Karim, M. Ali; A. Hussein.
 
 ## Lesionados / Suspendidos
-- Amjad Attwan 🟨 — en capilla (1 amarilla acumulada, próximo partido vs Francia J2)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-22 vs Francia: 0-3 (D) — Grupo I J2 Mundial 2026
 - 2026-06-16 vs Noruega: 1-4 (D) — Grupo I J1 Mundial 2026
 - 2026-03-XX vs EAU: 1-0 (V) — repechaje
 - 2026-03-XX vs Indonesia: 2-1 (V)
 - 2025-11-XX vs Kuwait: 1-0 (V)
-- 2025-10-XX vs Palestina: 2-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 4  | −3 | 0   |
+| 2  | 0 | 0 | 2 | 1  | 7  | −6 | 0   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 1 gol de honor)
+- Aymen Hussein: 1 gol (vs Noruega, 39', J1)
 
 ## Historial vs rivales del grupo
 - vs Francia: sin antecedentes registrados.
@@ -86,7 +86,7 @@
 - vs Noruega: 0V-0E-1D (1-4 · Mundial 2026 J1 · 2026-06-16).
 
 ## Estado de ánimo
-Derrota 1-4 vs Noruega. Goleada esperada ante uno de los favoritos del grupo. El gol de honor da algo de dignidad.
+Dos derrotas y eliminación: 1-4 vs Noruega y 0-3 vs Francia. El salto de nivel ante los europeos fue demasiado grande y el equipo cierra el grupo sin puntos.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Irak 0-4 Noruega

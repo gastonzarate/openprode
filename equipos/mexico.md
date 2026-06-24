@@ -21,7 +21,7 @@
 - Defensa: 74
 - Arco: 78
 - Físico: 77
-- Moral: 84
+- Moral: 88
 - Cohesión: 78
 - Experiencia: 78
 - Agallas: 85
@@ -60,29 +60,30 @@
 4-3-3: Ochoa; J. Sánchez, Montes, Vásquez, Gallardo; E. Álvarez, L. Chávez, Pineda; Lozano, S. Giménez, Vega.
 
 ## Lesionados / Suspendidos
-- En capilla (1 amarilla acumulada): Edson Álvarez, Johan Vásquez.
+- Sin sanciones para J3. César Montes vio la roja en J1 (vs Sudáfrica, 90+2'), cumplió la fecha de suspensión en J2 y está disponible para J3.
 
 ## Estado de ánimo
-Victoria dominante 2-0 en casa. Quiñones (9') y Jiménez sentenciaron. Moral alta como anfitrión.
+Arranque perfecto: victoria 2-0 vs Sudáfrica (Quiñones 9', Jiménez 67') y 1-0 vs Corea del Sur (Romo 50'). Líder del Grupo A con 6 puntos y el arco en cero.
 
 ## Forma reciente (pre-Mundial + Mundial, últimos 5 partidos)
+- 2026-06-18 vs Corea del Sur: 1-0 (V) — Grupo A J2 Mundial 2026
 - 2026-06-11 vs Sudáfrica: 2-0 (V) — Grupo A J1 Mundial 2026
 - 2026-03-XX vs Estados Unidos: 0-0 (E)
 - 2026-03-XX vs Honduras: 2-0 (V)
 - 2026-01-XX vs Chile: 1-0 (V)
-- 2025-11-XX vs Uruguay: 0-0 (E)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
+| 2  | 2 | 0 | 0 | 3  | 0  | +3 | 6   |
 
 ### Goleadores propios
 - Julián Quiñones: 1 gol (vs Sudáfrica, 9', J1)
-- Raúl Jiménez: 1 gol (vs Sudáfrica, 2T, J1 — minuto a confirmar)
+- Raúl Jiménez: 1 gol (vs Sudáfrica, 67', J1)
+- Luis Romo: 1 gol (vs Corea del Sur, 50', J2)
 
 ## Historial vs rivales del grupo
 - vs Sudáfrica: 2-0 en J1 (2026-06-11, Azteca). Anteriormente: pocos enfrentamientos, último amistoso reciente con leve ventaja mexicana.

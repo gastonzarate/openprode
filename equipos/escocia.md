@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 72
 - Físico: 80
-- Moral: 78 *(+0 base — victoria ajustada J1 vs Haití)*
+- Moral: 73 *(derrota J2 vs Marruecos)*
 - Cohesión: 84
 - Experiencia: 64
 - Agallas: 80
@@ -63,22 +63,22 @@
 - (ninguno)
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-19 vs Marruecos: 0-1 (P) — Grupo C J2 Mundial 2026
 - 2026-06-13 vs Haití: 1-0 (V) — Grupo C J1 Mundial 2026
 - 2026-03-XX vs Polonia: 1-1 (E)
 - 2026-03-XX vs Suiza: 0-0 (E)
 - 2025-11-XX vs Bielorrusia: 3-0 (V)
-- 2025-10-XX vs Grecia: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 13/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 1  | 0  | +1 | 3   |
+| 2  | 1 | 0 | 1 | 1  | 1  | 0  | 3   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- John McGinn: 1 gol (vs Haití, 28', J1)
 
 ## Historial vs rivales del grupo
 - vs Brasil: histórico 0-2 (Francia 1998 fase grupos), 1-1 amistoso 2014.
@@ -86,7 +86,7 @@
 - vs Haití: 1-0 (V) — Mundial 2026 J1.
 
 ## Estado de ánimo
-Victoria 1-0 vs Haití. Los tres puntos son lo que importa. Resultado limpio y base sólida para J2 vs Marruecos.
+Tras la victoria 1-0 vs Haití con gol de McGinn, llegó el golpe: derrota 0-1 ante Marruecos por un tanto a los 2'. La Tartan Army se queda con 3 puntos y se juega la clasificación en J3.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Escocia 2-0 Haití

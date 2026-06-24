@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 80
 - Físico: 80
-- Moral: 81
+- Moral: 73
 - Cohesión: 78
 - Experiencia: 68
 - Agallas: 82
@@ -62,26 +62,24 @@
 ## Lesionados / Suspendidos
 - Riley McGree (VOL): lesión muscular, fuera del Mundial.
 
-### En capilla (1 amarilla acumulada — próximo partido: vs EE.UU., J2)
-- Kye Rowles 🟨 (45'+1' vs Turquía — tackle duro)
-
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-19 vs Estados Unidos: 0-2 (D) — Grupo D J2 Mundial 2026
 - 2026-06-14 vs Turquía: 2-0 (V) — Grupo D J1 Mundial 2026
 - 2026-03-XX vs Indonesia: 5-1 (V)
 - 2026-03-XX vs Bahréin: 1-0 (V)
 - 2025-11-XX vs Canadá: 2-2 (E)
-- 2025-10-XX vs Corea del Sur: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 2  | 0  | +2 | 3   |
+| 2  | 1 | 0 | 1 | 2  | 2  | 0  | 3   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 2 goles)
+- Nestory Irankunda: 1 gol (vs Turquía, 27', J1)
+- Connor Metcalfe: 1 gol (vs Turquía, 75', J1)
 
 ## Historial vs rivales del grupo
 - vs EE.UU.: 1V-1E balance reciente.
@@ -89,7 +87,7 @@
 - vs Turquía: sin antecedentes registrados.
 
 ## Estado de ánimo
-Victoria 2-0 vs Turquía como sorpresa positiva. Australia mostró organización táctica y solidez defensiva.
+Arranque agridulce: gran 2-0 vs Turquía y luego caída 0-2 vs el anfitrión EE.UU. Con 3 puntos, los Socceroos llegan a J3 jugándose la clasificación.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** 1-1 vs Turquía

@@ -21,7 +21,7 @@
 - Defensa: 62
 - Arco: 64
 - Físico: 70
-- Moral: 57
+- Moral: 59
 - Cohesión: 72
 - Experiencia: 50
 - Agallas: 58
@@ -60,29 +60,25 @@
 4-3-3: Room; Brenet, Obispo, Bazoer, Sambo; Bacuna, Kuwas, J. Bacuna; Chong, L. García, Hansen.
 
 ## Lesionados / Suspendidos
-- (ninguno)
-
-## En capilla (1 amarilla acumulada)
-- Joshua Brenet 🟨 (45' vs Alemania)
-- Riechedly Bazoer 🟨 (67' vs Alemania)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-20 vs Ecuador: 0-0 (E) — Grupo E J2 Mundial 2026
 - 2026-06-14 vs Alemania: 1-7 (D) — Grupo E J1 Mundial 2026
 - 2026-03-XX vs Jamaica: 1-0 (V) — repechaje intercontinental
 - 2026-03-XX vs Haití: 0-1 (D)
 - 2025-11-XX vs Trinidad: 2-1 (V)
-- 2025-10-XX vs El Salvador: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 15/100
+- 25/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 7  | -6 | 0   |
+| 2  | 0 | 1 | 1 | 1  | 7  | -6 | 1   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 1 gol)
+- Livano Comenencia: 1 gol (vs Alemania, 21', J1)
 
 ## Historial vs rivales del grupo
 - vs Alemania: **J1 2026-06-14 — 1-7 (D)** [ver](../partidos/2026-06-14-alemania-vs-curazao.md)
@@ -90,7 +86,7 @@
 - vs Ecuador: sin antecedentes registrados.
 
 ## Estado de ánimo
-Derrota 1-7 ante Alemania. Goleada esperada ante un gigante, pero el honor de marcar un gol en un Mundial es histórico para el país.
+Tras la goleada 1-7 ante Alemania, Curazao sumó un empate 0-0 histórico vs Ecuador que le da su primer punto mundialista y lo mantiene con vida en el grupo. El honor de haber marcado en su debut sigue siendo motivo de orgullo nacional.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Curazao 0-3 Alemania

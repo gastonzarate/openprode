@@ -21,7 +21,7 @@
 - Defensa: 82
 - Arco: 85
 - Físico: 80
-- Moral: 87
+- Moral: 91
 - Cohesión: 80
 - Experiencia: 84
 - Agallas: 93
@@ -60,25 +60,30 @@
 4-2-3-1: Neuer; Kimmich, Tah, Schlotterbeck, Mittelstädt; Pavlović, Goretzka; Wirtz, Musiala, Sané; Undav.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-20 vs Costa de Marfil: 2-1 (V) — Grupo E J2 Mundial 2026
 - 2026-06-14 vs Curazao: 7-1 (V) — Grupo E J1 Mundial 2026
 - 2026-03-XX vs Italia: 2-1 (V)
 - 2026-03-XX vs Países Bajos: 2-2 (E)
 - 2025-11-XX vs Hungría: 7-0 (V)
-- 2025-10-XX vs Bosnia: 4-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 15/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 7  | 1  | +6 | 3   |
+| 2  | 2 | 0 | 0 | 9  | 2  | +7 | 6   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 7 goles)
+- Lukas Nmecha: 1 gol (vs Curazao, 6', J1)
+- Nico Schlotterbeck: 1 gol (vs Curazao, 38', J1)
+- Kai Havertz: 2 goles (vs Curazao, 45+5' pen y 88', J1)
+- Jamal Musiala: 1 gol (vs Curazao, 47', J1)
+- Brown: 1 gol (vs Curazao, 68', J1)
+- Deniz Undav: 3 goles (vs Curazao, 78', J1; vs Costa de Marfil, 68' y 90+4', J2)
 
 ## Historial vs rivales del grupo
 - vs Curazao: **J1 2026-06-14 — 7-1 (V)** [ver](../partidos/2026-06-14-alemania-vs-curazao.md)
@@ -86,7 +91,7 @@
 - vs Ecuador: amistosos balanced, balance 1V-1E.
 
 ## Estado de ánimo
-Goleada 7-1 vs Curazao. La Mannschaft envió un mensaje al torneo. Müller, Musiala y/o Wirtz encendidos. Favoritos del grupo consolidados.
+Arranque perfecto: goleada 7-1 vs Curazao y triunfo 2-1 vs Costa de Marfil con doblete de Undav (uno en el 90+4'). La Mannschaft lidera el Grupo E con 6 puntos y ya tiene un pie en octavos.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Alemania 3-0 Curazao

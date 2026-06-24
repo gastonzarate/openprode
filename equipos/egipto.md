@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 76
 - Físico: 76
-- Moral: 80
+- Moral: 85
 - Cohesión: 80
 - Experiencia: 70
 - Agallas: 78
@@ -60,25 +60,28 @@
 4-3-3: El Shenawy; M. Hany, Hegazy, Hamdy, Maâloul; H. Fathi, Ashour, Afsha; Salah, Mostafa Mohamed, Trezeguet.
 
 ## Lesionados / Suspendidos
-- (ninguno al inicio del Mundial)
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos, incluyendo Mundial)
+- 2026-06-21 vs Nueva Zelanda: 3-1 (V) — Grupo G J2 Mundial 2026
 - 2026-06-15 vs Bélgica: 1-1 (E) — Grupo G J1 Mundial 2026
 - 2026-03-XX vs Burkina Faso: 1-0 (V)
 - 2026-03-XX vs Sierra Leona: 2-1 (V)
 - 2025-11-XX vs Guinea-Bisáu: 3-1 (V)
-- 2025-10-XX vs Etiopía: 2-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 1 | 0 | 1  | 1  | 0  | 1   |
+| 2  | 1 | 1 | 0 | 4  | 2  | +2 | 4   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar)
+- Mohamed Salah: 1 gol (vs Nueva Zelanda, 67', J2)
+- Mostafa Mohamed: 1 gol (vs Nueva Zelanda, 58', J2)
+- Mahmoud Trezeguet: 1 gol (vs Nueva Zelanda, 82', J2)
+- Imam Ashour: 1 gol (vs Bélgica, 19', J1)
 
 ## Historial vs rivales del grupo
 - vs Bélgica: **1E** en Mundial 2026 (1-1, J1). Amistosos previos: derrota 2-1.
@@ -86,7 +89,7 @@
 - vs Nueva Zelanda: sin antecedentes registrados.
 
 ## Estado de ánimo
-Empate 1-1 vs Bélgica. Con Salah como figura, Egipto demostró ser competitivo a nivel mundial. Punto valioso en el debut.
+Arranque ideal: empate 1-1 vs Bélgica y goleada 3-1 a Nueva Zelanda con Salah de figura. Egipto lidera el Grupo G con 4 puntos y está a un paso de octavos.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Bélgica 2-1 Egipto

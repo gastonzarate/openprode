@@ -21,7 +21,7 @@
 - Defensa: 82
 - Arco: 84
 - Físico: 86
-- Moral: 76
+- Moral: 71
 - Cohesión: 80
 - Experiencia: 76
 - Agallas: 80
@@ -61,26 +61,26 @@
 4-3-3: É. Mendy; Diatta, Koulibaly, A. Diallo, Jakobs; I. Gana Gueye, P. M. Sarr, Diarra; I. Sarr, Mané, Jackson.
 
 ## Lesionados / Suspendidos
-- (ninguno)
-- **En capilla (1 amarilla):** Idrissa Gana Gueye (🟨 min 19', J1 vs Francia), Pape Matar Sarr (🟨 min 63', J1 vs Francia).
+- Sin sanciones ni lesionados reportados.
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-22 vs Noruega: 2-3 (D) — Grupo I J2 Mundial 2026
 - 2026-06-16 vs Francia: 1-3 (D) — Grupo I J1 Mundial 2026
 - 2026-03-XX vs Sudán: 4-0 (V)
 - 2026-03-XX vs Togo: 2-0 (V)
 - 2025-11-XX vs RD Congo: 2-1 (V)
-- 2025-10-XX vs Mauritania: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 1  | 3  | −2 | 0   |
+| 2  | 0 | 0 | 2 | 3  | 6  | −3 | 0   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 1 gol)
+- Ismaïla Sarr: 2 goles (vs Noruega, 53' y 90+3', J2)
+- Ibrahim Mbaye: 1 gol (vs Francia, 90+5', J1)
 
 ## Historial vs rivales del grupo
 - vs Francia: 1-0 victoria senegalesa Corea/Japón 2002; 3-0 derrota amistoso 2025.
@@ -88,7 +88,7 @@
 - vs Irak: sin antecedentes registrados.
 
 ## Estado de ánimo
-Derrota 1-3 vs Francia. Al menos anotaron un gol de honor. Mané y compañía necesitan reaccionar ante Noruega en J2.
+Dos derrotas seguidas, 1-3 vs Francia y 2-3 vs Noruega, dejan a Senegal eliminado sin puntos. El doblete de Ismaïla Sarr ante Noruega no alcanzó para revertir un arranque para el olvido.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Francia 1-0 Senegal

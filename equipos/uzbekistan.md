@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 70
 - Físico: 78
-- Moral: 74
+- Moral: 66
 - Cohesión: 80
 - Experiencia: 48
 - Agallas: 62
@@ -60,35 +60,38 @@
 4-3-3: Yusupov; Nasrullaev, Khusanov, Krimets, Erkinov; O. Shukurov, Alijonov, Fayzullaev; Masharipov, Shomurodov, Turgunboev.
 
 ## Lesionados / Suspendidos
-- (ninguno)
+- Sin sanciones ni lesionados reportados.
 
-## En capilla (1 amarilla acumulada — J1)
-- Alijonov 🟨 (vs Colombia, 11')
-- Turgunboev 🟨 (vs Colombia, 55')
-- Khusanov 🟨 (vs Colombia, 81')
+## Estado de ánimo
+Debut soñado convertido en pesadilla: en su primer Mundial, Uzbekistán cayó 1-3 vs Colombia en J1 (descontó Fayzullaev, 60') y fue goleado 0-5 vs Portugal en J2, con doblete de Cristiano Ronaldo. Sin puntos (GF1, GC8) y eliminado a falta de la última fecha.
 
 ## Forma reciente (últimos 5 partidos)
-- 2026-06-17 vs Colombia: 0-2 (D) — Grupo K J1, Azteca
+- 2026-06-23 vs Portugal: 0-5 (D) — Grupo K J2 Mundial 2026 🌍
+- 2026-06-17 vs Colombia: 1-3 (D) — Grupo K J1 Mundial 2026 🌍
 - 2026-03-XX vs Catar: 1-0 (V)
 - 2026-03-XX vs Irán: 1-1 (E)
 - 2025-11-XX vs Tayikistán: 2-0 (V)
-- 2025-10-XX vs Kirguistán: 3-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 0 | 0 | 1 | 0  | 2  | −2 | 0   |
+| 2  | 0 | 0 | 2 | 1  | 8  | −7 | 0   |
 
 ### Goleadores propios
-- (ninguno)
+- Abbosbek Fayzullaev: 1 gol (60' vs Colombia, J1)
 
 ## Historial vs rivales del grupo
-- vs Portugal: sin antecedentes registrados.
-- vs Colombia: 0-2 (D) — 2026-06-17, Grupo K J1, Azteca.
+- vs Portugal: 0-5 (D) — 2026-06-23, Grupo K J2.
+- vs Colombia: 1-3 (D) — 2026-06-17, Grupo K J1.
 - vs RD Congo: sin antecedentes registrados.
+
+## Simulación vs Realidad (J1)
+- **Simulado:** Uzbekistán 0-2 Colombia
+- **Real:** Uzbekistán 1-3 Colombia
+- **Diagnóstico:** Acertamos al ganador y el arco en cero de Uzbekistán quedó corto: Colombia fue más contundente (3 goles) y Fayzullaev al menos descontó. El golpe se profundizó en J2 con el 0-5 ante Portugal.
 
 ---
 > Fuente: conocimiento del modelo 2026-05-27 (UFF).

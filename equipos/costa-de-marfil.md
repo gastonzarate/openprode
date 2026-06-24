@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 74
 - Físico: 84
-- Moral: 81
+- Moral: 76
 - Cohesión: 80
 - Experiencia: 70
 - Agallas: 78
@@ -63,22 +63,23 @@
 - (ninguno)
 
 ## Forma reciente (últimos 5 partidos)
+- 2026-06-20 vs Alemania: 1-2 (D) — Grupo E J2 Mundial 2026
 - 2026-06-14 vs Ecuador: 1-0 (V) — Grupo E J1 Mundial 2026
 - 2026-03-XX vs Burkina Faso: 1-1 (E)
 - 2026-03-XX vs Burundi: 2-0 (V)
 - 2025-11-XX vs Gambia: 3-0 (V)
-- 2025-10-XX vs Marruecos: 0-1 (D)
 
 ## Carga física acumulada en el Mundial
-- 14/100
+- 26/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 1  | 1 | 0 | 0 | 1  | 0  | +1 | 3   |
+| 2  | 1 | 0 | 1 | 2  | 2  | 0  | 3   |
 
 ### Goleadores propios
-- (goleadores reales a confirmar — 1 gol)
+- Amad Diallo: 1 gol (vs Ecuador, 90', J1)
+- Franck Kessié: 1 gol (vs Alemania, 30', J2)
 
 ## Historial vs rivales del grupo
 - vs Alemania: 0-0 (Mundial 2006), balance 0V-1E-1D.
@@ -86,7 +87,7 @@
 - vs Ecuador: sin antecedentes registrados.
 
 ## Estado de ánimo
-Victoria 1-0 vs Ecuador. SORPRESA DEL GRUPO — los Elefantes superaron al favorito con gol único y gran solidez defensiva.
+Arranque mixto: victoria 1-0 vs Ecuador (sorpresa del grupo, con gol agónico de Amad Diallo) y derrota 1-2 vs Alemania pese a haberse adelantado con Kessié. Los Elefantes siguen dependiendo de sí mismos para clasificar.
 
 ## Simulación vs Realidad (J1)
 - **Simulado:** Costa de Marfil 0-1 Ecuador
